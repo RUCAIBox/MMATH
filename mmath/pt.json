@@ -1,0 +1,2994 @@
+[
+  {
+    "question": "Todas as manhãs, Aya faz uma caminhada de $9$ quilômetros e para numa cafeteria depois. Quando ela caminha a uma velocidade constante de $s$ quilômetros por hora, a caminhada leva 4 horas, incluindo $t$ minutos passados na cafeteria. Quando ela caminha a $s+2$ quilômetros por hora, a caminhada leva 2 horas e 24 minutos, incluindo $t$ minutos passados na cafeteria. Suponha que Aya caminhe a $s+\\frac{1}{2}$ quilômetros por hora. Determine o número de minutos que a caminhada leva, incluindo os $t$ minutos passados na cafeteria.",
+    "answer": "204",
+    "data_source": "aime2024",
+    "data_source_id": 0,
+    "lang": "pt",
+    "gid": 0
+  },
+  {
+    "question": "Seja $ABC$ um triângulo inscrito no círculo $\\omega$. Sejam as tangentes a $\\omega$ em $B$ e $C$ que se intersectam no ponto $D$, e $\\overline{AD}$ que intersecta $\\omega$ em $P$. Se $AB=5$, $BC=9$ e $AC=10$, $AP$ pode ser escrito na forma $\\frac{m}{n}$, onde $m$ e $n$ são inteiros primos entre si. Determine $m + n$.",
+    "answer": "113",
+    "data_source": "aime2024",
+    "data_source_id": 1,
+    "lang": "pt",
+    "gid": 1
+  },
+  {
+    "question": "Cada vértice de um octógono regular é colorido independentemente de vermelho ou azul com igual probabilidade. A probabilidade de que, depois disso, o octógono possa ser rotacionado de modo que todos os vértices azuis terminem em posições onde originalmente havia vértices vermelhos é $\\tfrac{m}{n}$, onde $m$ e $n$ são números inteiros positivos primos entre si. Qual é o valor de $m+n$?",
+    "answer": "371",
+    "data_source": "aime2024",
+    "data_source_id": 2,
+    "lang": "pt",
+    "gid": 2
+  },
+  {
+    "question": "Defina $f(x)=|| x|-\\tfrac{1}{2}|$ e $g(x)=|| x|-\\tfrac{1}{4}|$. Encontre o número de interseções dos gráficos de \\[y=4 g(f(\\sin (2 \\pi x))) \\quad\\text{ e }\\quad x=4 g(f(\\cos (3 \\pi y))).\\]",
+    "answer": "385",
+    "data_source": "aime2024",
+    "data_source_id": 3,
+    "lang": "pt",
+    "gid": 3
+  },
+  {
+    "question": "Seja $p$ o menor número primo para o qual existe um número inteiro positivo $n$ tal que $n^{4}+1$ é divisível por $p^{2}$. Encontre o menor número inteiro positivo $m$ tal que $m^{4}+1$ é divisível por $p^{2}$.",
+    "answer": "110",
+    "data_source": "aime2024",
+    "data_source_id": 4,
+    "lang": "pt",
+    "gid": 4
+  },
+  {
+    "question": "Seja $ABCD$ um tetraedro tal que $AB=CD= \\sqrt{41}$, $AC=BD= \\sqrt{80}$, e $BC=AD= \\sqrt{89}$. Existe um ponto $I$ dentro do tetraedro tal que as distâncias de $I$ a cada uma das faces do tetraedro são todas iguais. Essa distância pode ser escrita na forma $\\frac{m \\sqrt n}{p}$, onde $m$, $n$ e $p$ são inteiros positivos, $m$ e $p$ são primos entre si e $n$ não é divisível pelo quadrado de nenhum primo. Encontre $m+n+p$.",
+    "answer": "104",
+    "data_source": "aime2024",
+    "data_source_id": 5,
+    "lang": "pt",
+    "gid": 5
+  },
+  {
+    "question": "Seja $\\mathcal{B}$ o conjunto de caixas retangulares com área de superfície $54$ e volume $23$. Seja $r$ o raio da menor esfera que pode conter cada uma das caixas retangulares que são elementos do conjunto $\\mathcal{B}$. O valor de $r^2$ pode ser escrito como $\\frac{p}{q}$, onde $p$ e $q$ são inteiros positivos relativamente primos. Encontre $p+q$.",
+    "answer": "721",
+    "data_source": "aime2024",
+    "data_source_id": 6,
+    "lang": "pt",
+    "gid": 6
+  },
+  {
+    "question": "Existem números reais $x$ e $y$, ambos maiores que 1, tal que $\\log_x\\left(y^x\\right)=\\log_y\\left(x^{4y}\\right)=10$. Encontre $xy$.",
+    "answer": "25",
+    "data_source": "aime2024",
+    "data_source_id": 7,
+    "lang": "pt",
+    "gid": 7
+  },
+  {
+    "question": "Alice e Bob jogam o seguinte jogo. Uma pilha de $n$ fichas está diante deles. Os jogadores se alternam, com Alice começando. Em cada turno, o jogador remove ou $1$ ficha ou $4$ fichas da pilha. Quem remover a última ficha vence. Encontre o número de inteiros positivos $n$ menores ou iguais a $2024$ para os quais existe uma estratégia para Bob que garanta que Bob ganhará o jogo independentemente da jogada da Alice.",
+    "answer": "809",
+    "data_source": "aime2024",
+    "data_source_id": 8,
+    "lang": "pt",
+    "gid": 8
+  },
+  {
+    "question": "Jen entra em uma loteria escolhendo $4$ números distintos do conjunto $S=\\{1,2,3,\\cdots,9,10\\}.$ $4$ números são escolhidos aleatoriamente de $S.$ Ela ganha um prêmio se pelo menos dois dos seus números forem $2$ dos números escolhidos aleatoriamente, e ganha o grande prêmio se todos os quatro dos seus números foram os números escolhidos aleatoriamente. A probabilidade de ela ganhar o grande prêmio, dado que ela ganhou um prêmio, é $\\tfrac{m}{n}$, onde $m$ e $n$ são inteiros positivos relativamente primos. Encontre $m+n$.",
+    "answer": "116",
+    "data_source": "aime2024",
+    "data_source_id": 9,
+    "lang": "pt",
+    "gid": 9
+  },
+  {
+    "question": "Os retângulos $ABCD$ e $EFGH$ são desenhados de forma que $D,E,C,F$ estão alinhados. Além disso, $A,D,H,G$ estão todos localizados numa circunferência. Se $BC=16$, $AB=107$, $FG=17$ e $EF=184$, qual é o comprimento de $CE$?",
+    "answer": "104",
+    "data_source": "aime2024",
+    "data_source_id": 10,
+    "lang": "pt",
+    "gid": 10
+  },
+  {
+    "question": "Considere os caminhos de comprimento $16$ que seguem as linhas do canto inferior esquerdo até o canto superior direito numa grelha de $8\\times 8$. Encontre o número de tais caminhos que mudam de direção exatamente quatro vezes, como nos exemplos mostrados abaixo.",
+    "answer": "294",
+    "data_source": "aime2024",
+    "data_source_id": 11,
+    "lang": "pt",
+    "gid": 11
+  },
+  {
+    "question": "Encontre a maior parte real possível de \\[(75+117i)z+\\frac{96+144i}{z}\\]onde $z$ é um número complexo com $|z|=4$.",
+    "answer": "540",
+    "data_source": "aime2024",
+    "data_source_id": 12,
+    "lang": "pt",
+    "gid": 12
+  },
+  {
+    "question": "Oito círculos de raio $34$ são tangentes sequencialmente, e dois dos círculos são tangentes à $AB$ e $BC$ do triângulo $ABC$, respectivamente. $2024$ círculos de raio $1$ podem ser arranjados da mesma maneira. O raio inscrito do triângulo $ABC$ pode ser expresso como $\\frac{m}{n}$, onde $m$ e $n$ são números inteiros positivos coprimos. Encontre $m+n$.",
+    "answer": "197",
+    "data_source": "aime2024",
+    "data_source_id": 13,
+    "lang": "pt",
+    "gid": 13
+  },
+  {
+    "question": "Sejam $A$, $B$, $C$ e $D$ pontos na hipérbole $\\frac{x^2}{20}- \\frac{y^2}{24} = 1$ de modo que $ABCD$ seja um losango cujas diagonais se intersectem na origem. Encontre o maior número real que é menor que $BD^2$ para todos esses losangos.",
+    "answer": "480",
+    "data_source": "aime2024",
+    "data_source_id": 14,
+    "lang": "pt",
+    "gid": 14
+  },
+  {
+    "question": "Dentre os 900 moradores de Aimeville, há 195 que possuem um anel de diamante, 367 que possuem um conjunto de tacos de golfe, e 562 que possuem uma pá de jardim. Além disso, cada um dos 900 moradores possui um pacote de doces em formato de coração. Há 437 moradores que possuem exatamente duas dessas coisas, e 234 moradores que possuem exatamente três dessas coisas. Encontre o número de moradores de Aimeville que possuem todas essas quatro coisas.",
+    "answer": "73",
+    "data_source": "aime2024",
+    "data_source_id": 15,
+    "lang": "pt",
+    "gid": 15
+  },
+  {
+    "question": "Seja $\\triangle ABC$ com circuncentro $O$ e incentro $I$ tal que $\\overline{IA}\\perp\\overline{OI}$, raio da circunferência circunscrita $13$ e raio da circunferência inscrita $6$. Encontre $AB\\cdot AC$.",
+    "answer": "468",
+    "data_source": "aime2024",
+    "data_source_id": 16,
+    "lang": "pt",
+    "gid": 16
+  },
+  {
+    "question": "Encontre o número de triplas de inteiros não-negativos \\((a,b,c)\\) que satisfazem \\(a + b + c = 300\\) e \\begin{equation*} a^2b + a^2c + b^2a + b^2c + c^2a + c^2b = 6.000.000. \\end{equation*}",
+    "answer": "601",
+    "data_source": "aime2024",
+    "data_source_id": 17,
+    "lang": "pt",
+    "gid": 17
+  },
+  {
+    "question": "Seja \\(O=(0,0)\\), \\(A=\\left(\\tfrac{1}{2},0\\right)\\), e \\(B=\\left(0,\\tfrac{\\sqrt{3}}{2}\\right)\\) pontos no plano de coordenadas. Seja \\(\\mathcal{F}\\) a família dos segmentos \\(\\overline{PQ}\\) de comprimento unitário que estão no primeiro quadrante com \\(P\\) no eixo \\(x\\) e \\(Q\\) no eixo \\(y\\). Existe um ponto único \\(C\\) em \\(\\overline{AB}\\), distinto de \\(A\\) e \\(B\\), que não pertence a nenhum segmento de \\(\\mathcal{F}\\) além de \\(\\overline{AB}\\). Então \\(OC^2=\\tfrac{p}{q}\\), onde \\(p\\) e \\(q\\) são números inteiros positivos primos entre si. Encontre \\(p+q\\).",
+    "answer": "23",
+    "data_source": "aime2024",
+    "data_source_id": 18,
+    "lang": "pt",
+    "gid": 18
+  },
+  {
+    "question": "Deixe $\\omega\\neq 1$ ser uma 13ª raiz da unidade. Encontre o resto quando \\[\\prod_{k=0}^{12}(2-2\\omega^k+\\omega^{2k})\\] é dividido por 1000.",
+    "answer": "321",
+    "data_source": "aime2024",
+    "data_source_id": 19,
+    "lang": "pt",
+    "gid": 19
+  },
+  {
+    "question": "Considere \\(b\\ge 2\\) um inteiro. Chame um número inteiro positivo \\(n\\) de \\(b\\text-\\textit{belo}\\) se ele tiver exatamente dois dígitos quando expresso na base \\(b\\) e a soma desses dois dígitos for igual a \\(\\sqrt n\\). Por exemplo, \\(81\\) é \\(13\\text-\\textit{belo}\\) porque \\(81 = \\underline{6} \\ \\underline{3}_{13}\\) e \\(6 + 3 = \\sqrt{81}\\). Encontre o menor inteiro \\(b\\ge 2\\) para o qual existem mais de dez números \\(b\\text-\\textit{belos}\\).",
+    "answer": "211",
+    "data_source": "aime2024",
+    "data_source_id": 20,
+    "lang": "pt",
+    "gid": 20
+  },
+  {
+    "question": "Encontre o número de retângulos que podem ser formados dentro de um dodecágono regular fixo (polígono de $12$ lados) onde cada lado do retângulo está em um lado ou uma diagonal do dodecágono. O diagrama abaixo mostra três desses retângulos. [asy] unitsize(0.6 inch); for(int i=0; i<360; i+=30) { dot(dir(i), 4+black); draw(dir(i)--dir(i+30)); } draw(dir(120)--dir(330)); filldraw(dir(210)--dir(240)--dir(30)--dir(60)--cycle, mediumgray, linewidth(1.5)); draw((0,0.366)--(0.366,0), linewidth(1.5)); [/asy]",
+    "answer": "315",
+    "data_source": "aime2024",
+    "data_source_id": 21,
+    "lang": "pt",
+    "gid": 21
+  },
+  {
+    "question": "Uma lista de números inteiros positivos tem as seguintes propriedades: $\\bullet$ A soma dos itens na lista é $30$. $\\bullet$ A moda única da lista é $9$. $\\bullet$ A mediana da lista é um número inteiro positivo que não aparece na própria lista. Encontre a soma dos quadrados de todos os itens na lista.",
+    "answer": "236",
+    "data_source": "aime2024",
+    "data_source_id": 22,
+    "lang": "pt",
+    "gid": 22
+  },
+  {
+    "question": "Encontre o número de maneiras de colocar um algarismo em cada célula de uma grade 2x3 de modo que a soma dos dois números formados ao ler da esquerda para a direita seja $999$, e a soma dos três números formados ao ler de cima para baixo seja $99$. A grade abaixo é um exemplo de tal disposição porque $8+991=999$ e $9+9+81=99$. \\[\\begin{array}{|c|c|c|} \\hline 0 & 0 & 8 \\\\ \\hline 9 & 9 & 1 \\\\ \\hline \\end{array}\\]",
+    "answer": "45",
+    "data_source": "aime2024",
+    "data_source_id": 23,
+    "lang": "pt",
+    "gid": 23
+  },
+  {
+    "question": "Deixe $x, y$ e $z$ serem números reais positivos que satisfaçam o seguinte sistema de equações: \\[\\log_2\\left({x \\over yz}\\right) = {1 \\over 2}\\]\\[\\log_2\\left({y \\over xz}\\right) = {1 \\over 3}\\]\\[\\log_2\\left({z \\over xy}\\right) = {1 \\over 4}\\] Então o valor de $\\left|\\log_2(x^4y^3z^2)\\right|$ é $\\tfrac{m}{n}$, onde $m$ e $n$ são inteiros positivos coprimos. Encontre $m+n$.",
+    "answer": "33",
+    "data_source": "aime2024",
+    "data_source_id": 24,
+    "lang": "pt",
+    "gid": 24
+  },
+  {
+    "question": "Seja ABCDEF um hexágono equilátero convexo no qual todos os pares de lados opostos são paralelos. O triângulo cujos lados são extensões dos segmentos AB, CD e EF tem comprimentos de lado 200, 240 e 300. Encontre o comprimento do lado do hexágono.",
+    "answer": "80",
+    "data_source": "aime2024",
+    "data_source_id": 25,
+    "lang": "pt",
+    "gid": 25
+  },
+  {
+    "question": "A Alice escolhe um conjunto $A$ de números inteiros positivos. Em seguida, o Bob lista todos os conjuntos finitos e não vazios $B$ de números inteiros positivos com a propriedade de que o elemento máximo de $B$ pertence a $A$. A lista do Bob tem 2024 conjuntos. Encontre a soma dos elementos de A.",
+    "answer": "55",
+    "data_source": "aime2024",
+    "data_source_id": 26,
+    "lang": "pt",
+    "gid": 26
+  },
+  {
+    "question": "Seja $N$ o maior inteiro positivo de quatro dígitos com a propriedade de que, sempre que um de seus dígitos é alterado para $1$, o número resultante é divisível por $7$. Sejam $Q$ e $R$ o quociente e o resto, respectivamente, quando $N$ é dividido por $1000$. Encontre $Q+R$.",
+    "answer": "699",
+    "data_source": "aime2024",
+    "data_source_id": 27,
+    "lang": "pt",
+    "gid": 27
+  },
+  {
+    "question": "O toro $T$ é a superfície gerada pela rotação de um círculo de raio $3$ em torno de um eixo no plano do círculo que está a uma distância $6$ do centro do círculo (como um donut). Seja $S$ uma esfera com raio $11$. Quando $T$ repousa no interior de $S$, ele é tangente externamente a $S$ ao longo de um círculo com raio $r_i$, e quando $T$ repousa no exterior de $S$, ele é tangente externamente a $S$ ao longo de um círculo com raio $r_o$. A diferença $r_i-r_o$ pode ser escrita como $\\tfrac{m}{n}$, onde $m$ e $n$ são inteiros positivos primos entre si. Encontre $m+n$. [asy] unitsize(0.3 inch); draw(ellipse((0,0), 3, 1.75)); draw((-1.2,0.1)..(-0.8,-0.03)..(-0.4,-0.11)..(0,-0.15)..(0.4,-0.11)..(0.8,-0.03)..(1.2,0.1)); draw((-1,0.04)..(-0.5,0.12)..(0,0.16)..(0.5,0.12)..(1,0.04)); draw((0,2.4)--(0,-0.15)); draw((0,-0.15)--(0,-1.75), dashed); draw((0,-1.75)--(0,-2.25)); draw(ellipse((2,0), 1, 0.9)); draw((2.03,-0.02)--(2.9,-0.4)); [/asy]",
+    "answer": "127",
+    "data_source": "aime2024",
+    "data_source_id": 28,
+    "lang": "pt",
+    "gid": 28
+  },
+  {
+    "question": "Existe uma coleção de $25$ fichas brancas indistinguíveis e $25$ fichas pretas indistinguíveis. Encontre o número de maneiras de colocar algumas dessas fichas nas $25$ células unitárias de uma grade $5\\times5$ de forma que:  cada célula contenha no máximo uma ficha todas as fichas na mesma linha e todas as fichas na mesma coluna têm a mesma cor qualquer ficha adicional colocada na grade violaria uma ou mais das duas condições anteriores.",
+    "answer": "902",
+    "data_source": "aime2024",
+    "data_source_id": 29,
+    "lang": "pt",
+    "gid": 29
+  },
+  {
+    "question": "Encontre a soma de todas as bases inteiras $b>9$ para as quais $17_{b}$ é um divisor de $97_{b}$.",
+    "answer": "70",
+    "data_source": "aime2025",
+    "data_source_id": 0,
+    "lang": "pt",
+    "gid": 30
+  },
+  {
+    "question": "No $\\triangle ABC$, os pontos $A,D,E$ e $B$ estão nessa ordem no lado $\\overline{AB}$ com $AD=4, DE=16$ e $EB=8$. Os pontos $A,F,G$ e $C$ estão nessa ordem no lado $\\overline{AC}$ com $AF=13, FG=52$ e $GC=26$. Seja $M$ a reflexão de $D$ através de $F$, e seja $N$ a reflexão de $G$ através de $E$. O quadrilátero $DEGF$ tem área 288. Encontre a área do heptágono $AFNBCEM$.",
+    "answer": "588",
+    "data_source": "aime2025",
+    "data_source_id": 1,
+    "lang": "pt",
+    "gid": 31
+  },
+  {
+    "question": "Os 9 membros de um time de beisebol foram a uma sorveteria depois de seu jogo. Cada jogador tomou uma casquinha com uma bola de sorvete de chocolate, baunilha ou morango. Pelo menos um jogador escolheu cada sabor, e o número de jogadores que escolheu chocolate foi maior que o número de jogadores que escolheu baunilha, que foi maior que o número de jogadores que escolheu morango. Seja $N$ o número de diferentes distribuições de sabores para os jogadores que atendam a essas condições. Encontre o resto quando $N$ é dividido por 1000.",
+    "answer": "16",
+    "data_source": "aime2025",
+    "data_source_id": 2,
+    "lang": "pt",
+    "gid": 32
+  },
+  {
+    "question": "Encontre o número de pares ordenados $(x,y)$, onde tanto $x$ quanto $y$ são inteiros entre $-100$ e $100$, inclusive, tal que $12x^{2}-xy-6y^{2}=0$.",
+    "answer": "117",
+    "data_source": "aime2025",
+    "data_source_id": 3,
+    "lang": "pt",
+    "gid": 33
+  },
+  {
+    "question": "Existem $8! = 40320$ inteiros positivos de oito dígitos que utilizam cada um dos dígitos $1,2,3,4,5,6,7,8$ exatamente uma vez. Seja $N$ o número desses inteiros que são divisíveis por 22. Encontre a diferença entre $N$ e 2025.",
+    "answer": "279",
+    "data_source": "aime2025",
+    "data_source_id": 4,
+    "lang": "pt",
+    "gid": 34
+  },
+  {
+    "question": "Um trapézio isósceles possui um círculo inscrito tangente a cada um de seus quatro lados. O raio do círculo é 3, e a área do trapézio é 72. Seja $r$ e $s$ os comprimentos dos lados paralelos do trapézio, com $r \\neq s$. Encontre $r^{2}+s^{2}$.",
+    "answer": "504",
+    "data_source": "aime2025",
+    "data_source_id": 5,
+    "lang": "pt",
+    "gid": 35
+  },
+  {
+    "question": "As doze letras $A, B, C, D, E, F, G, H, I, J, K$ e $L$ são agrupadas aleatoriamente em seis pares de letras. As duas letras em cada par são colocadas uma ao lado da outra em ordem alfabética para formar seis palavras de duas letras, e essas seis palavras são listadas alfabeticamente. Por exemplo, um resultado possível é $AB, CJ, DG, EK, FL, HI$. A probabilidade de que a última palavra listada contenha $G$ é $\\frac{m}{n}$, onde $m$ e $n$ são inteiros positivos e primos entre si. Encontre $m+n$.",
+    "answer": "821",
+    "data_source": "aime2025",
+    "data_source_id": 6,
+    "lang": "pt",
+    "gid": 36
+  },
+  {
+    "question": "Sejam $k$ números reais tais que o sistema $|25+20i-z|=5$ e $|z-4-k|=|z-3i-k|$ tenha exatamente uma solução complexa $z$. A soma de todos os valores possíveis de $k$ pode ser escrita como $\\frac{m}{n}$, onde $m$ e $n$ são inteiros positivos e primos entre si. Encontre $m+n$. Aqui $i=\\sqrt{-1}$.",
+    "answer": "77",
+    "data_source": "aime2025",
+    "data_source_id": 7,
+    "lang": "pt",
+    "gid": 37
+  },
+  {
+    "question": "A parábola com equação $y=x^{2}-4$ é rodada $60^{\\circ}$ no sentido anti-horário em torno da origem. O único ponto no quarto quadrante onde a parábola original e sua imagem se cruzam tem coordenada $y$ igual a $\\frac{a-\\sqrt{b}}{c}$, onde $a$, $b$ e $c$ são números inteiros positivos, e $a$ e $c$ são primos entre si. Encontre $a+b+c$.",
+    "answer": "62",
+    "data_source": "aime2025",
+    "data_source_id": 8,
+    "lang": "pt",
+    "gid": 38
+  },
+  {
+    "question": "As células de uma grade de $3\\times9$ são preenchidas usando os números de 1 a 9 de forma que cada linha contenha 9 números diferentes, e cada um dos três blocos de $3\\times3$ destacados no exemplo abaixo contém 9 números diferentes, como nas três primeiras linhas de um desafio de Sudoku.  | 4 | 2 | 8 | 9 | 6 | 3 | 1 | 7 | 5 |  | 3 | 7 | 9 | 5 | 2 | 1 | 6 | 8 | 4 |  | 5 | 6 | 1 | 8 | 4 | 7 | 9 | 2 | 3 | O número de maneiras diferentes de preencher tal grade pode ser escrito como $p^a\\cdot q^b\\cdot r^c\\cdot s^d$, onde $p,q,r,$ e $s$ são números primos distintos e $a,b,c,$ e $d$ são inteiros positivos. Encontre $p\\cdot a+q\\cdot b+r\\cdot c+s\\cdot d$.",
+    "answer": "81",
+    "data_source": "aime2025",
+    "data_source_id": 9,
+    "lang": "pt",
+    "gid": 39
+  },
+  {
+    "question": "Uma função periódica linear por partes é definida por $f(x)=\\begin{cases}x&\\text{se }x\\in[-1,1)\\\\2-x&\\text{se }x\\in[1,3)\\end{cases}$ e $f(x+4)=f(x)$ para todos os números reais $x$. O gráfico de $f(x)$ tem o padrão de serrote. A parábola $x=34y^2$ intersecta o gráfico de $f(x)$ em um número finito de pontos. A soma das coordenadas $y$ desses pontos de interseção pode ser expressa na forma $\\frac{a+b\\sqrt{c}}{d}$, onde $a,b,c,$ e $d$ são inteiros positivos, $a,b,$ e $d$ têm maior divisor comum igual a 1, e $c$ não é divisível pelo quadrado de qualquer primo. Encontre $a+b+c+d$.",
+    "answer": "259",
+    "data_source": "aime2025",
+    "data_source_id": 10,
+    "lang": "pt",
+    "gid": 40
+  },
+  {
+    "question": "O conjunto de pontos no espaço de coordenadas tridimensional que estão no plano $x+y+z=75$ cujas coordenadas satisfazem as desigualdades $x-yz<y-zx<z-xy$ formam três regiões convexas disjuntas. Exatamente uma dessas regiões tem área finita. A área desta região finita pode ser expressa na forma $a\\sqrt{b}$, onde $a$ e $b$ são números inteiros positivos e $b$ não é divisível pelo quadrado de nenhum primo. Encontre $a+b$.",
+    "answer": "510",
+    "data_source": "aime2025",
+    "data_source_id": 11,
+    "lang": "pt",
+    "gid": 41
+  },
+  {
+    "question": "Alex divide um disco em quatro quadrantes com dois diâmetros perpendiculares que se intersectam no centro do disco. Ele desenha mais 25 segmentos de linha através do disco, desenhando cada segmento selecionando dois pontos aleatórios no perímetro do disco em diferentes quadrantes e conectando esses dois pontos. Encontre o número esperado de regiões nas quais esses 27 segmentos de linha dividem o disco.",
+    "answer": "204",
+    "data_source": "aime2025",
+    "data_source_id": 12,
+    "lang": "pt",
+    "gid": 42
+  },
+  {
+    "question": "Seja $ABCDE$ um pentágono convexo com $AB=14, BC=7, CD=24, DE=13, EA=26,$ e $\\angle B=\\angle E=60^\\circ$. Para cada ponto $X$ no plano, defina $f(X)=AX+BX+CX+DX+EX$. O menor valor possível de $f(X)$ pode ser expresso como $m+n\\sqrt{p}$, onde $m$ e $n$ são inteiros positivos e $p$ não é divisível pelo quadrado de nenhum número primo. Encontre $m+n+p$.",
+    "answer": "60",
+    "data_source": "aime2025",
+    "data_source_id": 13,
+    "lang": "pt",
+    "gid": 43
+  },
+  {
+    "question": "Deixe $N$ denotar o número de triplas ordenadas de inteiros positivos $(a,b,c)$ tal que $a,b,c\\leq3^6$ e $a^3+b^3+c^3$ é um múltiplo de $3^7$. Encontre o resto quando $N$ é dividido por $1000$.",
+    "answer": "735",
+    "data_source": "aime2025",
+    "data_source_id": 14,
+    "lang": "pt",
+    "gid": 44
+  },
+  {
+    "question": "Se o número real $m > 1$ satisfaz $\\log_9(\\log_8 m) = 2024$, então qual é o valor de $\\log_3(\\log_2 m)$?",
+    "answer": "$4049$",
+    "data_source": "CNMO",
+    "data_source_id": 0,
+    "lang": "pt",
+    "gid": 45
+  },
+  {
+    "question": "Deixe que uma sequência geométrica infinita $\\{a_n\\}$ tenha uma razão comum $q$ que satisfaça $0 < |q| < 1$. Se a soma de todos os termos em $\\{a_n\\}$ for igual à soma dos quadrados de todos os termos, então qual é o intervalo de valores para $a_2$?",
+    "answer": "$[-\\frac{1}{4}, 0) \\cup (0, 2)$",
+    "data_source": "CNMO",
+    "data_source_id": 1,
+    "lang": "pt",
+    "gid": 46
+  },
+  {
+    "question": "Dados os números reais $a, b$ de forma que o conjunto $A = \\{x \\in \\mathbf{R} \\mid x^2-10x+a \\leq 0\\}$ e $B = \\{x \\in \\mathbf{R} \\mid bx \\leq b^3\\}$ intersectam-se em [4,9], qual é o valor de $a+b$?",
+    "answer": "$7$",
+    "data_source": "CNMO",
+    "data_source_id": 2,
+    "lang": "pt",
+    "gid": 47
+  },
+  {
+    "question": "Em uma pirâmide triangular $P-ABC$, se $PA \\perp$ base $ABC$ e os comprimentos das arestas $AB$, $BP$, $BC$, $CP$ são 1, 2, 3, 4 respectivamente, qual é o volume desta pirâmide triangular?",
+    "answer": "$\\frac{3}{4}$",
+    "data_source": "CNMO",
+    "data_source_id": 3,
+    "lang": "pt",
+    "gid": 48
+  },
+  {
+    "question": "Para um dado não uniforme, as probabilidades de obter $1, 2, 3, 4, 5, 6$ pontos formam uma sequência aritmética. Lançando o dado duas vezes independentemente, sejam os pontos obtidos $a, b$ respectivamente. Se a probabilidade do evento $a+b=7$ ocorrer é $\\frac{1}{7}$, qual é a probabilidade do evento $a=b$ ocorrer?",
+    "answer": "$\\frac{4}{21}$",
+    "data_source": "CNMO",
+    "data_source_id": 4,
+    "lang": "pt",
+    "gid": 49
+  },
+  {
+    "question": "Seja $f(x)$ uma função com domínio $\\mathbf{R}$ e um período mínimo positivo de 5. Se a função $g(x)=f(2^x)$ tem 25 zeros no intervalo $[0,5)$, quantos zeros $g(x)$ tem no intervalo $[1,4)$?",
+    "answer": "$11$",
+    "data_source": "CNMO",
+    "data_source_id": 5,
+    "lang": "pt",
+    "gid": 50
+  },
+  {
+    "question": "Considere $F_1$, $F_2$ como os focos da elipse $\\Omega$. Tome um ponto $P$ em $\\Omega$ (não os vértices do eixo maior), e seja $O$ o circuncentro do triângulo $\\triangle PF_1F_2$. Se $\\overrightarrow{PO} \\cdot \\overrightarrow{F_1F_2} = 2\\overrightarrow{PF_1} \\cdot \\overrightarrow{PF_2}$, então qual é o valor mínimo da excentricidade de $\\Omega$?",
+    "answer": "$\\frac{\\sqrt{6}}{4}$",
+    "data_source": "CNMO",
+    "data_source_id": 6,
+    "lang": "pt",
+    "gid": 51
+  },
+  {
+    "question": "Se três inteiros positivos $a, b, c$ têm um total de 8 dígitos, e os 8 dígitos podem ser organizados como 2, 0, 2, 4, 0, 9, 0, 8, então $(a, b, c)$ é chamado de 'sequência de sorte', por exemplo (9, 8, 202400) é uma sequência de sorte. Quantas sequências de sorte $(a, b, c)$ satisfazem $10 < a < b < c$?",
+    "answer": "$591$",
+    "data_source": "CNMO",
+    "data_source_id": 7,
+    "lang": "pt",
+    "gid": 52
+  },
+  {
+    "question": "No $\\triangle ABC$, dado $\\cos C = \\frac{\\sin A + \\cos A}{2} = \\frac{\\sin B + \\cos B}{2}$, encontre o valor de $\\cos C$.",
+    "answer": "$\\frac{\\sqrt{7}}{4}$",
+    "data_source": "CNMO",
+    "data_source_id": 8,
+    "lang": "pt",
+    "gid": 53
+  },
+  {
+    "question": "No sistema de coordenadas cartesianas, seja $A$ o vértice direito da hipérbole $\\Gamma: x^2 - y^2 = 1$. Um círculo com seu centro no eixo $y$ e que toca cada ramo de $\\Gamma$ exatamente uma vez é chamado de 'circulo bom'. Se dois círculos bons são tangentes externamente no ponto $P$ e seus centros estão a uma distância $d$ de separação, encontre todos os possíveis valores de $\\frac{d}{|PA|}$.",
+    "answer": "$2\\sqrt{2}$",
+    "data_source": "CNMO",
+    "data_source_id": 9,
+    "lang": "pt",
+    "gid": 54
+  },
+  {
+    "question": "Dados números complexos $z, w$ tais que $z + w = 2$, encontre o valor mínimo possível de $S = |z^2 - 2w| + |w^2 - 2z|$.",
+    "answer": "$8\\sqrt{5} - 16$",
+    "data_source": "CNMO",
+    "data_source_id": 10,
+    "lang": "pt",
+    "gid": 55
+  },
+  {
+    "question": "Dados números reais $a, b$, se o conjunto solução da desigualdade quadrática $x^2 + b < ax$ é $(1,5)$, então qual é o conjunto solução da desigualdade quadrática $x^2 - ax > bx$?",
+    "answer": "$(-\\infty,-1)\\cup(6,+\\infty)$",
+    "data_source": "CNMO",
+    "data_source_id": 11,
+    "lang": "pt",
+    "gid": 56
+  },
+  {
+    "question": "Qual é o valor mínimo de $y=\\frac{4^x+1}{2^x+1}$?",
+    "answer": "$2\\sqrt{2}-2$",
+    "data_source": "CNMO",
+    "data_source_id": 12,
+    "lang": "pt",
+    "gid": 57
+  },
+  {
+    "question": "Uma rã pula entre os quatro vértices de um quadrado $ABCD$, cada vez pulando para um dos dois vértices adjacentes com probabilidade igual, e cada salto é independente. Se a rã começa no vértice $A$, qual é a probabilidade de que ela estará de volta ao vértice $A$ após o sexto salto?",
+    "answer": "$\\frac{1}{2}$",
+    "data_source": "CNMO",
+    "data_source_id": 13,
+    "lang": "pt",
+    "gid": 58
+  },
+  {
+    "question": "A sequência $\\{a_n\\}$ satisfaz $a_1=1$, e para qualquer número inteiro positivo $n$, temos que $a_{n+1}=10^{n}{a_n^2}$. Qual é a fórmula do termo geral para $\\{a_n\\}$?",
+    "answer": "$10^{2^n-n-1}$",
+    "data_source": "CNMO",
+    "data_source_id": 14,
+    "lang": "pt",
+    "gid": 59
+  },
+  {
+    "question": "Se três números inteiros positivos $a, b, c$ têm um total de 8 dígitos, e os 8 dígitos podem ser organizados como 2, 0, 2, 4, 0, 9, 0, 8, então $(a, b, c)$ é chamado de 'array de sorte', por exemplo (9, 8, 202400) é um array de sorte. Quantos arrays de sorte $(a, b, c)$ satisfazem $10 < a < b < 100$?",
+    "answer": "$291$",
+    "data_source": "CNMO",
+    "data_source_id": 15,
+    "lang": "pt",
+    "gid": 60
+  },
+  {
+    "question": "No $\\triangle ABC$, dado que $\\cos C = \\frac{\\sin A + \\cos A}{2} = \\frac{\\sin B + \\cos B}{2}$, encontre o valor de $\\sin C$.",
+    "answer": "$\\frac{3}{4}$",
+    "data_source": "CNMO",
+    "data_source_id": 16,
+    "lang": "pt",
+    "gid": 61
+  },
+  {
+    "question": "No sistema de coordenadas cartesianas, um círculo com o seu centro no eixo $y$ e tocando cada ramo da hipérbole $\\Gamma: x^2 - y^2 = 1$ exatamente uma vez é chamado de 'círculo bom'. Existe uma constante $\\lambda$ e um ponto fixo $A$ no eixo $x$ de modo que se dois círculos bons são externamente tangentes no ponto $P$, então a distância $d$ entre seus centros é $d = \\lambda |PA|$?",
+    "answer": "$\\lambda=2\\sqrt{2}, A(\\pm 1, 0)$",
+    "data_source": "CNMO",
+    "data_source_id": 17,
+    "lang": "pt",
+    "gid": 62
+  },
+  {
+    "question": "Quantos divisores inteiros positivos o número 196 possui?",
+    "answer": "9",
+    "data_source": "MATH500",
+    "data_source_id": 3,
+    "lang": "pt",
+    "gid": 63
+  },
+  {
+    "question": "Um hexágono regular pode ser dividido em seis triângulos equiláteros. Se o perímetro de um dos triângulos é de 21 polegadas, qual é o perímetro, em polegadas, do hexágono regular?",
+    "answer": "42",
+    "data_source": "MATH500",
+    "data_source_id": 5,
+    "lang": "pt",
+    "gid": 64
+  },
+  {
+    "question": "Qual é o menor cubo perfeito positivo que pode ser escrito como a soma de três inteiros consecutivos?",
+    "answer": "27",
+    "data_source": "MATH500",
+    "data_source_id": 6,
+    "lang": "pt",
+    "gid": 65
+  },
+  {
+    "question": "A expressão $2\\cdot 3 \\cdot 4\\cdot 5+1$ é igual a 121, pois a multiplicação é realizada antes da adição. No entanto, podemos obter valores diferentes de 121 para essa expressão se nos for permitido alterá-la inserindo parênteses. Por exemplo, podemos obter 144 escrevendo \\[ (2\\cdot (3\\cdot 4)) \\cdot (5+1) = 144. \\]No total, quantos valores podem ser obtidos a partir da expressão $2\\cdot 3\\cdot 4 \\cdot 5 + 1$ pela inserção de parênteses? (Note que a reorganização dos termos não é permitida, apenas a inserção de parênteses).",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 9,
+    "lang": "pt",
+    "gid": 66
+  },
+  {
+    "question": "Qual é o menor múltiplo inteiro positivo de 30 que pode ser escrito usando apenas os dígitos 0 e 2?",
+    "answer": "2220",
+    "data_source": "MATH500",
+    "data_source_id": 10,
+    "lang": "pt",
+    "gid": 67
+  },
+  {
+    "question": "Os divisores próprios de 12 são 1, 2, 3, 4 e 6. Um divisor próprio de um inteiro $N$ é um divisor positivo de $N$ que é menor que $N$. Qual é a soma dos divisores próprios da soma dos divisores próprios de 284?",
+    "answer": "284",
+    "data_source": "MATH500",
+    "data_source_id": 12,
+    "lang": "pt",
+    "gid": 68
+  },
+  {
+    "question": "O volume do cilindro mostrado é $45\\pi$ centímetros cúbicos. Qual é a altura em centímetros do cilindro? [asy] size(120); draw(shift(2.2,0)*yscale(0.3)*Circle((0,0), 1.2));  draw((1,0)--(1,-2)); draw((3.4,0)--(3.4,-2));  draw((1,-2)..(2.2,-2.36)..(3.4,-2));  label(\"$h$\",midpoint((3.4,0)--(3.4,-2)),E);  draw (((2.2,0)--(3.4,0)));  label(\"$r=3$\",midpoint((2.2,0)--(3.4,0)),N);  [/asy]",
+    "answer": "5",
+    "data_source": "MATH500",
+    "data_source_id": 13,
+    "lang": "pt",
+    "gid": 69
+  },
+  {
+    "question": "Calcule: $1-2+3-4+5- \\dots +99-100$.",
+    "answer": "-50",
+    "data_source": "MATH500",
+    "data_source_id": 16,
+    "lang": "pt",
+    "gid": 70
+  },
+  {
+    "question": "A barra $\\overline{BC}$ é paralela ao segmento que passa pelo ponto $A$, e $AB = BC$. Qual é o número de graus representado por $x$?  [asy] draw((0,0)--(10,0)); draw((0,3)--(10,3)); draw((2,3)--(8,0)); draw((2,3)--(4,0)); label(\"$A$\",(2,3),N); label(\"$B$\",(4,0),S); label(\"$C$\",(8,0),S); label(\"$124^{\\circ}$\",(2,3),SW); label(\"$x^{\\circ}$\",(4.5,3),S); [/asy]",
+    "answer": "28",
+    "data_source": "MATH500",
+    "data_source_id": 18,
+    "lang": "pt",
+    "gid": 71
+  },
+  {
+    "question": "Seja $a$ um número real positivo tal que todas as raízes de \\[x^3 + ax^2 + ax + 1 = 0\\]sejam reais. Encontre o menor valor possível de $a.$",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 19,
+    "lang": "pt",
+    "gid": 72
+  },
+  {
+    "question": "Encontre o maior número inteiro menor que $(\\sqrt{7} + \\sqrt{5})^6.$ (Não use uma calculadora!)",
+    "answer": "13535",
+    "data_source": "MATH500",
+    "data_source_id": 21,
+    "lang": "pt",
+    "gid": 73
+  },
+  {
+    "question": "Denali e Nate trabalham em um serviço de passeio de cães e são pagos por cada cão que passeiam. Denali é responsável por $16$ cães e Nate é responsável por $12$ cães. Com a nova política da empresa, eles receberão ou deixarão de receber novos cães em grupos de $x$ cães. A relação do pagamento de Denali para o pagamento de Nate seria a mesma se Denali começasse a passear com $4x$ cães a mais e Nate continuasse com $12$ cães ou se $x$ cães de Nate fossem transferidos para Denali. Encontre $x$ se $x\\neq0$.",
+    "answer": "5",
+    "data_source": "MATH500",
+    "data_source_id": 22,
+    "lang": "pt",
+    "gid": 74
+  },
+  {
+    "question": "Um trabalhador recebe um salário anual de \\$20{,}000, que ele sempre deposita em uma conta poupança no final do ano. No final do terceiro ano (quando faz o terceiro depósito), ele deseja ter pelo menos \\$66,200 na conta para financiar a compra de uma casa. Qual é a menor taxa de juros compostos que a conta poupança deve fornecer? Expresse sua resposta como uma porcentagem, mas não inclua o símbolo de percentual.",
+    "answer": "10",
+    "data_source": "MATH500",
+    "data_source_id": 24,
+    "lang": "pt",
+    "gid": 75
+  },
+  {
+    "question": "De quantas formas podem $7$ pessoas se sentar ao redor de uma mesa redonda se, das $3$ pessoas Pierre, Rosa e Thomas, nenhuma pode se sentar ao lado da outra? (Arranjos de assentos que são rotações um do outro são tratados como iguais.)",
+    "answer": "144",
+    "data_source": "MATH500",
+    "data_source_id": 26,
+    "lang": "pt",
+    "gid": 76
+  },
+  {
+    "question": "Um clube de matemática está fazendo uma venda de doces como arrecadação de fundos para uma viagem que está por vir. Eles vendem $54$ cookies a três por $\\$1$, e $20$ cupcakes a $\\$2$ cada, e $35$ brownies a $\\$1$ cada. Se custou ao clube de matemática $\\$15$ para assar esses itens, qual foi o lucro deles?",
+    "answer": "78",
+    "data_source": "MATH500",
+    "data_source_id": 27,
+    "lang": "pt",
+    "gid": 77
+  },
+  {
+    "question": "O exército grego continha dois tipos de soldados: os soldados da classe alta e os da classe baixa. Se houvesse um total de 5 soldados da classe alta e 10 soldados da classe baixa em uma certa parte de Atenas, e a batalha de Termópilas exigisse uma força de 4 soldados da classe alta e 8 soldados da classe baixa, quantos batalhões diferentes podem ser enviados?",
+    "answer": "225",
+    "data_source": "MATH500",
+    "data_source_id": 29,
+    "lang": "pt",
+    "gid": 78
+  },
+  {
+    "question": "De quantas maneiras podem 8 pessoas se sentar ao redor de uma mesa redonda se 3 das pessoas -- Pierre, Rosa e Thomas -- querem se sentar juntas? (Duas disposições são consideradas iguais se uma é uma rotação da outra.)",
+    "answer": "720",
+    "data_source": "MATH500",
+    "data_source_id": 32,
+    "lang": "pt",
+    "gid": 79
+  },
+  {
+    "question": "Encontre o termo constante na expansão de $$\\left(10x^3-\\frac{1}{2x^2}\\right)^{5}$$",
+    "answer": "-125",
+    "data_source": "MATH500",
+    "data_source_id": 34,
+    "lang": "pt",
+    "gid": 80
+  },
+  {
+    "question": "Se $n \\equiv 2 \\pmod{7}$, então encontre o resto quando $(n + 2)(n + 4)(n + 6)$ é dividido por 7.",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 35,
+    "lang": "pt",
+    "gid": 81
+  },
+  {
+    "question": "Um pentágono regular é rotacionado no sentido anti-horário em torno de seu centro. Qual é o número mínimo de graus pelo qual ele deve ser rotacionado até coincidir com sua posição original?",
+    "answer": "72",
+    "data_source": "MATH500",
+    "data_source_id": 37,
+    "lang": "pt",
+    "gid": 82
+  },
+  {
+    "question": "Se uma lata de pêssegos do tamanho de um lanche tem $40$ calorias e corresponde a $2\\%$ da necessidade calórica diária de uma pessoa, quantas calorias satisfazem a necessidade calórica diária de uma pessoa?",
+    "answer": "2000",
+    "data_source": "MATH500",
+    "data_source_id": 38,
+    "lang": "pt",
+    "gid": 83
+  },
+  {
+    "question": "Qual é o resultado quando o maior fator comum entre 6432 e 132 é aumentado em 11?",
+    "answer": "23",
+    "data_source": "MATH500",
+    "data_source_id": 39,
+    "lang": "pt",
+    "gid": 84
+  },
+  {
+    "question": "Um octógono regular tem o mesmo perímetro que o hexágono regular mostrado aqui com lado de 16 cm. Qual é o comprimento de cada lado do octógono? \\[asy\\]size(80); pair A = dir(120); pair B=dir(60); pair M=(A+B)/2; draw(dir(360)--B--A--dir(180)--dir(240)--dir(300)--cycle); label(\"16 cm\", M, N);\\[/asy\\]",
+    "answer": "12",
+    "data_source": "MATH500",
+    "data_source_id": 40,
+    "lang": "pt",
+    "gid": 85
+  },
+  {
+    "question": "As coordenadas de um paralelogramo são (5, 3), (6, 8), (7, 4) e $(x, y)$ e $x > 7$. Qual é o valor de $x + y$?",
+    "answer": "17",
+    "data_source": "MATH500",
+    "data_source_id": 41,
+    "lang": "pt",
+    "gid": 86
+  },
+  {
+    "question": "A solução para $-4 < 2(x - 1) < 8$ é expressa na forma $a < x < b$. Encontre o valor de $a + b$.",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 42,
+    "lang": "pt",
+    "gid": 87
+  },
+  {
+    "question": "Em um triângulo retângulo $ABC$ com $\\angle B = 90^\\circ$, temos que $\\sin A = 2\\cos A$. Qual é o valor de $\\tan A$?",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 45,
+    "lang": "pt",
+    "gid": 88
+  },
+  {
+    "question": "Qual é o menor inteiro positivo $n$ tal que todas as raízes de $z^4 + z^2 + 1 = 0$ são raízes $n$-ésimas da unidade?",
+    "answer": "6",
+    "data_source": "MATH500",
+    "data_source_id": 46,
+    "lang": "pt",
+    "gid": 89
+  },
+  {
+    "question": "O gráfico de $f(x)=\\frac{2x}{x^2-5x-14}$ possui assíntotas verticais $x=a$ e $x=b$, e assíntota horizontal $y=c$. Encontre $a+b+c$.",
+    "answer": "5",
+    "data_source": "MATH500",
+    "data_source_id": 47,
+    "lang": "pt",
+    "gid": 90
+  },
+  {
+    "question": "A metade do valor de $3x-9$ é $x+37$. Qual é o valor de $x$?",
+    "answer": "83",
+    "data_source": "MATH500",
+    "data_source_id": 49,
+    "lang": "pt",
+    "gid": 91
+  },
+  {
+    "question": "Você tem sete sacos de moedas de ouro. Cada saco contém a mesma quantidade de moedas de ouro. Um dia, você encontra um saco com 53 moedas. Você decide redistribuir a quantidade de moedas que possui para que todos os oito sacos que você tem agora contenham a mesma quantidade de moedas. Você consegue redistribuir todas as moedas com sucesso, e também percebe que tem mais de 200 moedas. Qual é o menor número de moedas que você poderia ter tido antes de encontrar o saco com 53 moedas?",
+    "answer": "203",
+    "data_source": "MATH500",
+    "data_source_id": 50,
+    "lang": "pt",
+    "gid": 92
+  },
+  {
+    "question": "Simplifique: $\\frac{\\sqrt{2.5^2-0.7^2}}{2.7-2.5}$.",
+    "answer": "12",
+    "data_source": "MATH500",
+    "data_source_id": 52,
+    "lang": "pt",
+    "gid": 93
+  },
+  {
+    "question": "Suponha que $f$ seja um polinômio tal que \\[(x-1)\\cdot f(x)=3x^4+x^3 - 25x^2 +38x -17.\\] Qual é o grau de $f$?",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 55,
+    "lang": "pt",
+    "gid": 94
+  },
+  {
+    "question": "A soma dos primeiros $N$ números ímpares positivos é 121. Qual é o valor de $N$?",
+    "answer": "11",
+    "data_source": "MATH500",
+    "data_source_id": 56,
+    "lang": "pt",
+    "gid": 95
+  },
+  {
+    "question": "Ringo, o Arrebatador, estava laçando um novilho renitente. Ringo decidiu dar um descanso ao novilho calculando \\[|(1-i)^8|\\] antes de sair cavalgando atrás dele. Qual resposta Ringo deveria ter encontrado?",
+    "answer": "16",
+    "data_source": "MATH500",
+    "data_source_id": 57,
+    "lang": "pt",
+    "gid": 96
+  },
+  {
+    "question": "Calcule $99^2+99+1$ de cabeça.",
+    "answer": "9901",
+    "data_source": "MATH500",
+    "data_source_id": 58,
+    "lang": "pt",
+    "gid": 97
+  },
+  {
+    "question": "Em uma turma de 50 alunos, 28 participam do MATHCOUNTS, 21 participam do clube de ciências, e 6 alunos não participam de nenhum dos dois. Quantos alunos participam tanto do MATHCOUNTS quanto do clube de ciências?",
+    "answer": "5",
+    "data_source": "MATH500",
+    "data_source_id": 59,
+    "lang": "pt",
+    "gid": 98
+  },
+  {
+    "question": "Para alguns números reais $a$ e $b$, a equação \\[ 8x^3 + 4ax^2 + 2bx + a = 0 \\] possui três raízes positivas distintas. Se a soma dos logaritmos na base 2 das raízes é 5, qual é o valor de $a$?",
+    "answer": "-256",
+    "data_source": "MATH500",
+    "data_source_id": 61,
+    "lang": "pt",
+    "gid": 99
+  },
+  {
+    "question": "Encontre o menor número real positivo $C$ para o qual \\[\\left\\| \\begin{pmatrix} 2 & 3 \\\\ 0 & -2 \\end{pmatrix} \\bold{v} \\right\\| \\le C \\|\\bold{v}\\|\\]para todos os vetores bidimensionais $\\bold{v}.$  Note que para um vetor bidimensional $\\mathbf{a},$ $\\|\\mathbf{a}\\|$ é a magnitude de $\\mathbf{a}.$",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 62,
+    "lang": "pt",
+    "gid": 100
+  },
+  {
+    "question": "Seja \\[x^8 + 3x^4 - 4 = p_1(x) p_2(x) \\dotsm p_k(x),\\]onde cada polinômio não constante $p_i(x)$ é mônico com coeficientes inteiros e não pode ser mais fatorado sobre os inteiros. Calcule $p_1(1) + p_2(1) + \\dots + p_k(1).$",
+    "answer": "10",
+    "data_source": "MATH500",
+    "data_source_id": 63,
+    "lang": "pt",
+    "gid": 101
+  },
+  {
+    "question": "Qual é $1^{(2^{235423523})}$?",
+    "answer": "1",
+    "data_source": "MATH500",
+    "data_source_id": 65,
+    "lang": "pt",
+    "gid": 102
+  },
+  {
+    "question": "As dimensões de dois lados opostos de um quadrado são reduzidas em $40\\%$ enquanto as dimensões dos outros dois lados são aumentadas em $50\\%$ para formar um retângulo. De quantos por cento a área do quadrado diminui?",
+    "answer": "10",
+    "data_source": "MATH500",
+    "data_source_id": 67,
+    "lang": "pt",
+    "gid": 103
+  },
+  {
+    "question": "Para algum valor de $x,$ $0 < x < 180,$ \\[\\tan 53^\\circ \\tan 81^\\circ \\tan x^\\circ = \\tan 53^\\circ + \\tan 81^\\circ + \\tan x^\\circ.\\]Encontre $x.$",
+    "answer": "46",
+    "data_source": "MATH500",
+    "data_source_id": 68,
+    "lang": "pt",
+    "gid": 104
+  },
+  {
+    "question": "Seja $z$ um número complexo tal que $z^5 = 1$ e $z \\neq 1.$ Calcule \\[z + \\frac{1}{z} + z^2 + \\frac{1}{z^2}.\\]",
+    "answer": "-1",
+    "data_source": "MATH500",
+    "data_source_id": 69,
+    "lang": "pt",
+    "gid": 105
+  },
+  {
+    "question": "Qual é o comprimento, em unidades, do raio de uma esfera cujo volume e área de superfície, em unidades cúbicas e unidades quadradas, respectivamente, são numericamente iguais?",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 72,
+    "lang": "pt",
+    "gid": 106
+  },
+  {
+    "question": "Se o domínio da função $\\log x^2$ for $x < a$ ou $x > b$, para alguns $a$ e $b$, encontre $a + b$.",
+    "answer": "0",
+    "data_source": "MATH500",
+    "data_source_id": 76,
+    "lang": "pt",
+    "gid": 107
+  },
+  {
+    "question": "Se $2^8 = 4^x$, qual é o valor de $x$?",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 77,
+    "lang": "pt",
+    "gid": 108
+  },
+  {
+    "question": "Para qual valor de $x$ é $2^3\\cdot3^x=72$?",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 79,
+    "lang": "pt",
+    "gid": 109
+  },
+  {
+    "question": "Encontre o número de valores inteiros de $k$ no intervalo fechado $[-500,500]$ para os quais a equação $\\log(kx)=2\\log(x+2)$ tem exatamente uma solução real.",
+    "answer": "501",
+    "data_source": "MATH500",
+    "data_source_id": 80,
+    "lang": "pt",
+    "gid": 110
+  },
+  {
+    "question": "Dez treeks pesam o mesmo que três squigs e um goolee. Dois treeks e um goolee têm o mesmo peso que um squig. O peso combinado de quantos treeks é igual ao peso de um squig?",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 81,
+    "lang": "pt",
+    "gid": 111
+  },
+  {
+    "question": "Resolva para $x: 3^{2x} + 19 = 10^x$.",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 83,
+    "lang": "pt",
+    "gid": 112
+  },
+  {
+    "question": "O produto de $3t^2+5t+a$ e $4t^2+bt-2$ é $12t^4+26t^3-8t^2-16t+6$. Qual é o valor de $a+b$?",
+    "answer": "-1",
+    "data_source": "MATH500",
+    "data_source_id": 84,
+    "lang": "pt",
+    "gid": 113
+  },
+  {
+    "question": "Você tem 5 camisetas, 6 pares de calças e 8 chapéus. Quantos conjuntos de roupas você pode fazer consistindo de uma camiseta, um par de calças e um chapéu?",
+    "answer": "240",
+    "data_source": "MATH500",
+    "data_source_id": 86,
+    "lang": "pt",
+    "gid": 114
+  },
+  {
+    "question": "Encontre o maior valor de $x$ que satisfaz a equação $|5x-1|=x+3$.",
+    "answer": "1",
+    "data_source": "MATH500",
+    "data_source_id": 87,
+    "lang": "pt",
+    "gid": 115
+  },
+  {
+    "question": "Considere a função \\[ f(x) = \\begin{cases} ax^2 & \\text{se } x \\geq a,\\\\ ax +2a& \\text{se } x < a, \\end{cases} \\]onde $a$ é algum número.  Qual é o maior valor de $a$ de tal forma que o gráfico de $y=f(x)$ intercepta toda linha horizontal pelo menos uma vez?",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 88,
+    "lang": "pt",
+    "gid": 116
+  },
+  {
+    "question": "Encontre o máximo divisor comum de $3339$, $2961$ e $1491$.",
+    "answer": "21",
+    "data_source": "MATH500",
+    "data_source_id": 89,
+    "lang": "pt",
+    "gid": 117
+  },
+  {
+    "question": "Dada $f(x) = \\frac{\\sqrt{x-1}}{x-2}$, qual é o menor valor inteiro possível para $x$ de forma que $f(x)$ tenha um valor no conjunto dos números reais?",
+    "answer": "1",
+    "data_source": "MATH500",
+    "data_source_id": 91,
+    "lang": "pt",
+    "gid": 118
+  },
+  {
+    "question": "Para qual valor de $c$ a circunferência com a equação $x^2 - 10x + y^2 + 6y + c = 0$ terá um raio de comprimento 1?",
+    "answer": "33",
+    "data_source": "MATH500",
+    "data_source_id": 93,
+    "lang": "pt",
+    "gid": 119
+  },
+  {
+    "question": "No quadrilátero $ABCD$, o ângulo $BAD$ e o ângulo $CDA$ são trissectados como mostrado. Qual é a medida em graus do ângulo $AFD$?  [asy] size(150); pair A , B, C, D; A = (0,0); B = (2, 4); C = (7,4); D = (7, -2); draw( (0,0)--(2,4) -- (7,4) -- (7, -2)-- cycle); label(\"$A$\", A, SW); label(\"$B$\", B, NW); label(\"$C$\", C, NE); label(\"$D$\", D, SE); pair E, F; E = (4.5-.2,1-.2); F = (5, 3); draw(A--E--D); draw(A--F--D); label(\"$E$\", E, N); label(\"$F$\", F, NW); dot(A);dot(B);dot(C);dot(D);dot(E);dot(F); label(\"$x$\", (1, 1.5), S); label(\"$x$\", (2, 1), S+W); label(\"$x$\", (2, -1), N+N+N+W); label(\"$y$\", (5.5+.3, .5-.3), S); label(\"$y$\", (6.5+.3, 0)); label(\"$y$\", (5+.5, -1.5+.3)); label(\"$110^{\\circ}$\",(2.5,3.5)); label(\"$100^{\\circ}$\",(6.5-.2,3.5)); [/asy]",
+    "answer": "80",
+    "data_source": "MATH500",
+    "data_source_id": 94,
+    "lang": "pt",
+    "gid": 120
+  },
+  {
+    "question": "A projeção de $\\begin{pmatrix} 2 \\\\ y \\\\ -5 \\end{pmatrix}$ sobre $\\begin{pmatrix} 1 \\\\ -2 \\\\ 1 \\end{pmatrix}$ é \\[\\frac{5}{6} \\begin{pmatrix} 1 \\\\ -2 \\\\ 1 \\end{pmatrix}.\\]Encontre $y$.",
+    "answer": "-4",
+    "data_source": "MATH500",
+    "data_source_id": 95,
+    "lang": "pt",
+    "gid": 121
+  },
+  {
+    "question": "A equação \\[x^{10}+(13x-1)^{10}=0\\,\\]tem 10 raízes complexas $r_1,$ $\\overline{r}_1,$ $r_2,$ $\\overline{r}_2,$ $r_3,$ $\\overline{r}_3,$ $r_4,$ $\\overline{r}_4,$ $r_5,$ $\\overline{r}_5,$ onde a barra denota conjugação complexa. Encontre o valor de \\[\\frac 1{r_1\\overline{r}_1}+\\frac 1{r_2\\overline{r}_2}+\\frac 1{r_3\\overline{r}_3}+\\frac 1{r_4\\overline{r}_4}+\\frac 1{r_5\\overline{r}_5}.\\]",
+    "answer": "850",
+    "data_source": "MATH500",
+    "data_source_id": 101,
+    "lang": "pt",
+    "gid": 122
+  },
+  {
+    "question": "Os gráficos de $x^2 + y^2 + 6x - 24y + 72 = 0$ e $x^2 - y^2 + 6x + 16y - 46 = 0$ se intersectam em quatro pontos. Calcule a soma das distâncias desses quatro pontos até o ponto $(-3,2).$",
+    "answer": "40",
+    "data_source": "MATH500",
+    "data_source_id": 104,
+    "lang": "pt",
+    "gid": 123
+  },
+  {
+    "question": "Para os oito condados listados abaixo, qual foi o número mediano de estudantes em $2005$?  \\begin{tabular}[t]{|l|c|c|c|c|c|} \\multicolumn{6}{c}{\\textbf{Número de Estudantes por Condado}}\\\\\\hline \\textbf{CONDADO}&\\textbf{$2001$}&\\textbf{$2002$}&\\textbf{$2003$}&\\textbf{$2004$}&\\textbf{$2005$}\\\\\\hline Aiken&124&141&130&143&136\\\\\\hline Bamberg&17&15&15&14&11\\\\\\hline Barnwell&25&22&26&28&29\\\\\\hline Berkeley&583&557&554&553&524\\\\\\hline Calhoun&15&12&10&18&11\\\\\\hline Cherokee&19&13&18&13&19\\\\\\hline Chesterfield&46&18&13&22&29\\\\\\hline Colleton&64&49&52&46&41\\\\\\hline \\end{tabular}",
+    "answer": "29",
+    "data_source": "MATH500",
+    "data_source_id": 105,
+    "lang": "pt",
+    "gid": 124
+  },
+  {
+    "question": "Quantos elementos existem na interseção do conjunto de todos os números primos menores que 30 e o conjunto de todos os números ímpares maiores que zero?",
+    "answer": "9",
+    "data_source": "MATH500",
+    "data_source_id": 107,
+    "lang": "pt",
+    "gid": 125
+  },
+  {
+    "question": "Sejam $F_1$ e $F_2$ os focos da elipse $kx^2 + y^2 = 1,$ onde $k > 1$ é uma constante. Suponhamos que exista um círculo que passe por $F_1$ e $F_2$ e que seja tangente à elipse em dois pontos no eixo $x$. Calcule $k.$",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 108,
+    "lang": "pt",
+    "gid": 126
+  },
+  {
+    "question": "Uma sequência estritamente crescente de números inteiros positivos $a_1$, $a_2$, $a_3$, $\\dots$ tem a propriedade de que para todo número inteiro positivo $k$, a subsequência $a_{2k-1}$, $a_{2k}$, $a_{2k+1}$ é geométrica e a subsequência $a_{2k}$, $a_{2k+1}$, $a_{2k+2}$ é aritmética. Suponha que $a_{13} = 2016$. Encontre $a_1$.",
+    "answer": "504",
+    "data_source": "MATH500",
+    "data_source_id": 110,
+    "lang": "pt",
+    "gid": 127
+  },
+  {
+    "question": "O Sr. Brennan tem 7 meninos e 4 meninas na sua aula de estatística. De quantas maneiras ele pode escolher 3 meninos e 2 meninas para fazer uma apresentação em grupo amanhã? (A ordem em que os meninos e meninas são escolhidos não importa.)",
+    "answer": "210",
+    "data_source": "MATH500",
+    "data_source_id": 111,
+    "lang": "pt",
+    "gid": 128
+  },
+  {
+    "question": "Simplifique $\\frac{1+\\sqrt{2}}{2+\\sqrt{3}}$. Sua solução pode ser convertida para a forma $A(1+\\sqrt{B})-(\\sqrt{C}+\\sqrt{D})$, onde $A$, $B$, $C$ e $D$ são inteiros positivos. Qual é $A+B+C+D$?",
+    "answer": "13",
+    "data_source": "MATH500",
+    "data_source_id": 112,
+    "lang": "pt",
+    "gid": 129
+  },
+  {
+    "question": "Qual é o valor de $(26^2 - 24^2 - 10)^2 - 10^2$?",
+    "answer": "8000",
+    "data_source": "MATH500",
+    "data_source_id": 113,
+    "lang": "pt",
+    "gid": 130
+  },
+  {
+    "question": "Encontre o produto $CD$ dos inteiros $C$ e $D$ para os quais \\[\\frac{C}{x-3}+\\frac{D}{x+8}=\\frac{4x-23}{x^2+5x-24}\\]para todos os valores reais de $x$, exceto $-8$ e $3$.",
+    "answer": "-5",
+    "data_source": "MATH500",
+    "data_source_id": 114,
+    "lang": "pt",
+    "gid": 131
+  },
+  {
+    "question": "Determine o número de maneiras de arranjar as letras da palavra ELLIPSE.",
+    "answer": "1260",
+    "data_source": "MATH500",
+    "data_source_id": 115,
+    "lang": "pt",
+    "gid": 132
+  },
+  {
+    "question": "Resolva para $x$: $2^{2x} = 256^\\frac{1}{2}$.",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 116,
+    "lang": "pt",
+    "gid": 133
+  },
+  {
+    "question": "Se $\\sqrt{3x-5}=2$, encontre todos os possíveis valores de $x$.",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 117,
+    "lang": "pt",
+    "gid": 134
+  },
+  {
+    "question": "Encontre o número de pares ordenados $(a,b)$ de inteiros tais que $|a + bi| \\le 5.$",
+    "answer": "81",
+    "data_source": "MATH500",
+    "data_source_id": 118,
+    "lang": "pt",
+    "gid": 135
+  },
+  {
+    "question": "A expressão $$1 + 2 + 3 - 4 + 5 + 6$$ é equivalente a 13. Se adicionarmos parênteses em diversos locais, podemos mudar esse valor. Por exemplo, $1+2+3-(4+5)+6=1+2+3-9+6=6-9+6=3$. Se apenas adicionarmos parênteses (sem rearranjar a ordem dos termos), qual é o valor mínimo possível que esta expressão pode alcançar? (Para os fins deste problema, não podemos mudar a adição ou subtração para multiplicação. Por exemplo, $ (1+2+3)(-4)+5+6 $ não é uma colocação válida de parênteses.) Digite sua resposta como um único valor.",
+    "answer": "-9",
+    "data_source": "MATH500",
+    "data_source_id": 119,
+    "lang": "pt",
+    "gid": 136
+  },
+  {
+    "question": "Resolva para $x$: $\\frac{x}2 + \\frac{x}3 = 5$",
+    "answer": "6",
+    "data_source": "MATH500",
+    "data_source_id": 121,
+    "lang": "pt",
+    "gid": 137
+  },
+  {
+    "question": "Daniel trabalha em uma loja de eletrônicos e afirma que a popularidade de uma televisão (medida pelo número de vendas) é inversamente proporcional ao seu custo. Se 15 clientes compram uma televisão que custa $\\$$1500, de acordo com a teoria de Daniel, quantos clientes comprariam uma televisão que custa $\\$$2500?",
+    "answer": "9",
+    "data_source": "MATH500",
+    "data_source_id": 122,
+    "lang": "pt",
+    "gid": 138
+  },
+  {
+    "question": "No diagrama, $D$ e $E$ são os pontos médios de $\\overline{AB}$ e $\\overline{BC}$ respectivamente. Determine a área do quadrilátero $DBEF$. [asy] size(180); defaultpen(linewidth(.7pt)+fontsize(10pt)); pair A, B, C, D, E, F; A=(0,6); B=(0,0); C=(8,0); D=(0,3); E=(4,0); F=(8/3,2); draw(E--A--C--D); draw((-1,0)--(10,0), EndArrow); draw((0,-1)--(0,8), EndArrow); label(\"$A(0,6)$\", A, W); label(\"$B(0,0)$\", B, SW); label(\"$C(8,0)$\", C, S); label(\"$D$\", D, W); label(\"$E$\", E, S); label(\"$F$\", F, SW); label(\"$x$\", (10,0), dir(0)); label(\"$y$\", (0,8), dir(90)); [/asy]",
+    "answer": "8",
+    "data_source": "MATH500",
+    "data_source_id": 123,
+    "lang": "pt",
+    "gid": 139
+  },
+  {
+    "question": "Avalie $\\lceil (3.6)^2 \\rceil - ( \\lceil 3.6 \\rceil ) ^2$.",
+    "answer": "-3",
+    "data_source": "MATH500",
+    "data_source_id": 125,
+    "lang": "pt",
+    "gid": 140
+  },
+  {
+    "question": "Suzanne caminha quatro milhas a cada três dias. Qual é o menor número de milhas que ela pode caminhar em fevereiro?",
+    "answer": "36",
+    "data_source": "MATH500",
+    "data_source_id": 128,
+    "lang": "pt",
+    "gid": 141
+  },
+  {
+    "question": "Qual inteiro $n$ satisfaz $0\\le n<18$ e $$n\\equiv -11213141\\pmod{18}~?$$",
+    "answer": "13",
+    "data_source": "MATH500",
+    "data_source_id": 130,
+    "lang": "pt",
+    "gid": 142
+  },
+  {
+    "question": "Se $f(x)=ax^4-bx^2+x+5$ e $f(-3)=2,$ então qual é o valor de $f(3)$?",
+    "answer": "8",
+    "data_source": "MATH500",
+    "data_source_id": 131,
+    "lang": "pt",
+    "gid": 143
+  },
+  {
+    "question": "O Rick está pensando em um fator positivo de $14$ e o Steve está pensando em um fator positivo de $42$. Se o Rick e o Steve estão pensando no mesmo número, quantos números possíveis eles podem estar pensando?",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 132,
+    "lang": "pt",
+    "gid": 144
+  },
+  {
+    "question": "Em um quadrilátero convexo, a medida do maior ângulo é o dobro da medida do menor ângulo, e os outros dois ângulos são ambos retos. Quantos graus tem o maior ângulo?",
+    "answer": "120",
+    "data_source": "MATH500",
+    "data_source_id": 133,
+    "lang": "pt",
+    "gid": 145
+  },
+  {
+    "question": "Deixe $F_1 = (10,2)$ e $F_ 2= (-16,2).$ Então, o conjunto de pontos $P$ tal que \\[|PF_1 - PF_2| = 24\\] forma uma hipérbole. A equação desta hipérbole pode ser escrita como \\[\\frac{(x - h)^2}{a^2} - \\frac{(y - k)^2}{b^2} = 1.\\]Encontre $h + k + a + b.$",
+    "answer": "16",
+    "data_source": "MATH500",
+    "data_source_id": 134,
+    "lang": "pt",
+    "gid": 146
+  },
+  {
+    "question": "Quantos zeros estão no final de $42!$ (42 fatorial)? (Lembrete: O número $n!$ é o produto dos inteiros de 1 até $n$. Por exemplo, $5!=5\\cdot 4\\cdot3\\cdot2\\cdot 1= 120$.)",
+    "answer": "9",
+    "data_source": "MATH500",
+    "data_source_id": 135,
+    "lang": "pt",
+    "gid": 147
+  },
+  {
+    "question": "Considere $(a_1, a_2, \\dots, a_n)$ uma sequência de números reais positivos, tal que \\[\\sum_{i = 1}^n a_i = 96, \\quad \\sum_{i = 1}^n a_i^2 = 144, \\quad \\sum_{i = 1}^n a_i^3 = 216.\\]Encontre a soma de todos os valores possíveis de $n.$",
+    "answer": "64",
+    "data_source": "MATH500",
+    "data_source_id": 136,
+    "lang": "pt",
+    "gid": 148
+  },
+  {
+    "question": "Encontre o valor máximo de \\[f(x,y) = x \\sqrt{1 - y^2} + y \\sqrt{1 - x^2},\\]onde $-1 \\le x,$ $y \\le 1.$",
+    "answer": "1",
+    "data_source": "MATH500",
+    "data_source_id": 139,
+    "lang": "pt",
+    "gid": 149
+  },
+  {
+    "question": "Seja $n$ um inteiro positivo. Qual é o maior valor possível do $\\gcd(n + 7, 2n + 1)$?",
+    "answer": "13",
+    "data_source": "MATH500",
+    "data_source_id": 140,
+    "lang": "pt",
+    "gid": 150
+  },
+  {
+    "question": "Zach tem três sacos e um monte de lápis para serem colocados nos sacos. Ele é instruído a colocar o maior número possível de lápis em cada um dos três sacos, mantendo o mesmo número de lápis em cada saco. Qual é o maior número de lápis que ele pode ter sobrando?",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 141,
+    "lang": "pt",
+    "gid": 151
+  },
+  {
+    "question": "Uma comissão do Senado tem 5 Democratas, 5 Republicanos e 1 Independente. De quantas maneiras eles podem se sentar ao redor de uma mesa circular se todos os membros de cada partido se sentarem juntos? (Duas disposições são consideradas equivalentes se uma for uma rotação da outra.)",
+    "answer": "28800",
+    "data_source": "MATH500",
+    "data_source_id": 142,
+    "lang": "pt",
+    "gid": 152
+  },
+  {
+    "question": "Seja $z$ um número complexo tal que \\[z + \\frac{1}{z} = \\frac{1 + \\sqrt{5}}{2}.\\]Encontre \\[z^{85} + \\frac{1}{z^{85}}.\\]",
+    "answer": "-2",
+    "data_source": "MATH500",
+    "data_source_id": 145,
+    "lang": "pt",
+    "gid": 153
+  },
+  {
+    "question": "Sejam $x$, $y$ e $z$ números reais positivos tais que $xyz = 2$. Encontre o valor mínimo de \\[x^4 + 4y^2 + 4z^4.\\]",
+    "answer": "16",
+    "data_source": "MATH500",
+    "data_source_id": 147,
+    "lang": "pt",
+    "gid": 154
+  },
+  {
+    "question": "Resolva a seguinte equação para $x$: \\[ \\ \\frac{2}{3} = \\frac{4}{x-5}.\\]",
+    "answer": "11",
+    "data_source": "MATH500",
+    "data_source_id": 148,
+    "lang": "pt",
+    "gid": 155
+  },
+  {
+    "question": "Se a idade de Rosa for dividida por 2, 3, 4 ou 6, o resto é 1. Se a idade dela for dividida por 7, o resto é 0. Ela tem menos de 75 anos. Quantos anos Rosa tem?",
+    "answer": "49",
+    "data_source": "MATH500",
+    "data_source_id": 149,
+    "lang": "pt",
+    "gid": 156
+  },
+  {
+    "question": "Para todo número inteiro positivo $n$, seja $\\text{mod}_5 (n)$ o resto obtido quando $n$ é dividido por 5. Defina uma função $f: \\{0,1,2,3,\\dots\\} \\times \\{0,1,2,3,4\\} \\to \\{0,1,2,3,4\\}$ recursivamente da seguinte forma:  \\[f(i,j) = \\begin{cases}\\text{mod}_5 (j+1) & \\text{ se } i = 0 \\text{ e } 0 \\le j \\le 4 \\text{,}\\\\ f(i-1,1) & \\text{ se } i \\ge 1 \\text{ e } j = 0 \\text{, e} \\\\ f(i-1, f(i,j-1)) & \\text{ se } i \\ge 1 \\text{ e } 1 \\le j \\le 4. \\end{cases}\\]Qual é o valor de $f(2015,2)$?",
+    "answer": "1",
+    "data_source": "MATH500",
+    "data_source_id": 150,
+    "lang": "pt",
+    "gid": 157
+  },
+  {
+    "question": "Sejam $x_1,$ $x_2,$ $x_3,$ $y_1,$ $y_2$ e $y_3$ números reais tais que \\begin{align*} (x_1 - x_2)^2 + (y_1 - y_2)^2 &= 9, \\\\ (x_1 - x_3)^2 + (y_1 - y_3)^2 &= 16, \\\\ (x_2 - x_3)^2 + (y_2 - y_3)^2 &= 25. \\end{align*}Encontre $\\begin{vmatrix} x_1 & y_1 & 1 \\\\ x_2 & y_2 & 1 \\\\ x_3 & y_3 & 1 \\end{vmatrix}^2.$",
+    "answer": "144",
+    "data_source": "MATH500",
+    "data_source_id": 151,
+    "lang": "pt",
+    "gid": 158
+  },
+  {
+    "question": "As medianas $AD$, $BE$ e $CF$ do triângulo $ABC$ intersectam-se no centróide $G$. A linha através de $G$ que é paralela a $BC$ intersecta $AB$ e $AC$ em $M$ e $N$, respectivamente. Se a área do triângulo $ABC$ é 144, então encontre a área do triângulo $ENG$.",
+    "answer": "8",
+    "data_source": "MATH500",
+    "data_source_id": 152,
+    "lang": "pt",
+    "gid": 159
+  },
+  {
+    "question": "Qual é a soma de todos os múltiplos de 7 entre 100 e 200?",
+    "answer": "2107",
+    "data_source": "MATH500",
+    "data_source_id": 158,
+    "lang": "pt",
+    "gid": 160
+  },
+  {
+    "question": "O produto de dois inteiros positivos pares consecutivos é 288. Qual é o maior desses dois inteiros?",
+    "answer": "18",
+    "data_source": "MATH500",
+    "data_source_id": 160,
+    "lang": "pt",
+    "gid": 161
+  },
+  {
+    "question": "Avalie $\\log_264$.",
+    "answer": "6",
+    "data_source": "MATH500",
+    "data_source_id": 161,
+    "lang": "pt",
+    "gid": 162
+  },
+  {
+    "question": "O volume de um cone é dado pela fórmula $V = \\frac{1}{3}Bh$, onde $B$ é a área da base e $h$ é a altura. A área da base de um cone é 30 unidades quadradas, e sua altura é 6,5 unidades. Qual é o número de unidades cúbicas no seu volume?",
+    "answer": "65",
+    "data_source": "MATH500",
+    "data_source_id": 167,
+    "lang": "pt",
+    "gid": 163
+  },
+  {
+    "question": "Existem um total de 70 quadrados de três tamanhos cujos vértices são pontos nesta grade retangular de pontos de $3\\times n$. Qual é o valor de $n$?",
+    "answer": "19",
+    "data_source": "MATH500",
+    "data_source_id": 168,
+    "lang": "pt",
+    "gid": 164
+  },
+  {
+    "question": "Qual é o número de unidades quadradas na área de um triângulo cujos lados medem 5, 5 e 6 unidades?",
+    "answer": "12",
+    "data_source": "MATH500",
+    "data_source_id": 169,
+    "lang": "pt",
+    "gid": 165
+  },
+  {
+    "question": "Encontre o produto das coordenadas $y$ de todas as soluções distintas $(x,y)$ para as duas equações $y=x^2-8$ e $y^2=-5x+44$.",
+    "answer": "1736",
+    "data_source": "MATH500",
+    "data_source_id": 170,
+    "lang": "pt",
+    "gid": 166
+  },
+  {
+    "question": "Se o quarto termo de uma sequência aritmética é $200$ e o oitavo termo é $500$, qual é o sexto termo?",
+    "answer": "350",
+    "data_source": "MATH500",
+    "data_source_id": 172,
+    "lang": "pt",
+    "gid": 167
+  },
+  {
+    "question": "Considere a série geométrica $4+\\frac{12}{a}+\\frac{36}{a^2}+\\cdots$. Se a soma é um quadrado perfeito, qual é o menor valor possível de $a$, sendo $a$ um inteiro positivo?",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 173,
+    "lang": "pt",
+    "gid": 168
+  },
+  {
+    "question": "Quantos interceptos em $y$ o gráfico da parábola $x = y^2 - 4y - 1$ possui?",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 174,
+    "lang": "pt",
+    "gid": 169
+  },
+  {
+    "question": "Se $m$ e $n$ são números inteiros tais que $3m + 4n = 100$, qual é o menor valor possível de $\\left| m - n \\right|$?",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 175,
+    "lang": "pt",
+    "gid": 170
+  },
+  {
+    "question": "Qual é a raiz quadrada positiva do produto $10 \\times 15 \\times 24$?",
+    "answer": "60",
+    "data_source": "MATH500",
+    "data_source_id": 178,
+    "lang": "pt",
+    "gid": 171
+  },
+  {
+    "question": "Quantos inteiros positivos de dois dígitos são divisores tanto de 100 quanto de 150?",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 180,
+    "lang": "pt",
+    "gid": 172
+  },
+  {
+    "question": "Dois terços dos alunos da Escola Baker (nível médio) têm aulas de música. Existem 834 alunos que têm aulas de música. Quantos alunos existem na Escola Baker (nível médio)?",
+    "answer": "1251",
+    "data_source": "MATH500",
+    "data_source_id": 182,
+    "lang": "pt",
+    "gid": 173
+  },
+  {
+    "question": "Se escrevermos $\\sqrt{2}+\\frac{1}{\\sqrt{2}} + \\sqrt{3} + \\frac{1}{\\sqrt{3}}$ na forma $\\dfrac{a\\sqrt{2} + b\\sqrt{3}}{c}$ de modo que $a$, $b$, e $c$ sejam inteiros positivos e $c$ seja o menor possível, então qual é o valor de $a+b+c$?",
+    "answer": "23",
+    "data_source": "MATH500",
+    "data_source_id": 183,
+    "lang": "pt",
+    "gid": 174
+  },
+  {
+    "question": "Encontre $k$, se ${(3^k)}^6=3^6$.",
+    "answer": "1",
+    "data_source": "MATH500",
+    "data_source_id": 185,
+    "lang": "pt",
+    "gid": 175
+  },
+  {
+    "question": "Para quantos inteiros positivos $n>1$ é verdade que $2^{24}$ é uma potência perfeita de $n^{\\text{a}}$ ordem?",
+    "answer": "7",
+    "data_source": "MATH500",
+    "data_source_id": 186,
+    "lang": "pt",
+    "gid": 176
+  },
+  {
+    "question": "Hillary tem onze moedas, todas de dez ou cinco centavos. No total, as moedas valem 75 centavos. Quantas moedas de cinco centavos ela tem?",
+    "answer": "7",
+    "data_source": "MATH500",
+    "data_source_id": 187,
+    "lang": "pt",
+    "gid": 177
+  },
+  {
+    "question": "Encontre o maior valor de $x$ no qual os gráficos de $f(x)=e^{3x^2-|\\lfloor x \\rfloor|!}+\\binom{22+735235|\\lfloor x \\rfloor |}{2356}+\\phi(|\\lfloor x \\rfloor|+1)+72x^4+3x^3-6x^2+2x+1$ e $g(x)=e^{3x^2-|\\lfloor x \\rfloor|!}+\\binom{22+735235|\\lfloor x \\rfloor |}{2356}+\\phi(|\\lfloor x \\rfloor|+1)+72x^4+4x^3-11x^2-6x+13$ se interceptam, onde $\\lfloor x \\rfloor$ denota a função piso de $x$, e $\\phi(n)$ denota a soma dos inteiros positivos menores ou iguais a $n$ e relativamente primos a $n$.",
+    "answer": "6",
+    "data_source": "MATH500",
+    "data_source_id": 188,
+    "lang": "pt",
+    "gid": 178
+  },
+  {
+    "question": "Cinco pontos $A$, $B$, $C$, $D$ e $O$ estão localizados em um campo plano. $A$ está exatamente ao norte de $O$, $B$ está exatamente a oeste de $O$, $C$ está exatamente ao sul de $O$ e $D$ está exatamente a leste de $O$. A distância entre $C$ e $D$ é de 140 m. Um balão de ar quente está posicionado no ar no ponto $H$ diretamente acima de $O$. O balão é mantido no lugar por quatro cordas $HA$, $HB$, $HC$ e $HD$. A corda $HC$ tem comprimento de 150 m e a corda $HD$ tem comprimento de 130 m. [asy] size(250); pair A, B, C, D, O, H, W, X, Y, Z; O=(0,0); A=(1,1); D=(1.5,-.3); B=(-1.5,.3); C=(-1,-1); H=(0,2.5); W=(5/3)*(A+D); X=(5/3)*(A+B); Y=(-1)*(W); Z=(-1)*(X); draw(W--X--Y--Z--W); draw(A--C); draw(B--D); draw(O--H, linewidth(1)); draw(A--H, dashed); draw(B--H, dashed); draw(C--H, dashed); draw(D--H, dashed); dot(A); dot(B); dot(C); dot(D); dot(O); dot(H); label(\"A\", A, NE); label(\"B\", B, SW); label(\"C\", C, SE); label(\"D\", D, NE); label(\"O\", O, SE); label(\"H\", H, NW); [/asy]  Para reduzir o comprimento total das cordas utilizadas, a corda $HC$ e a corda $HD$ devem ser substituídas por uma única corda $HP$, onde $P$ é um ponto na linha reta entre $C$ e $D$. (O balão permanece na mesma posição $H$ acima de $O$, conforme descrito acima.) Determine o maior comprimento de corda que pode ser economizado.",
+    "answer": "160",
+    "data_source": "MATH500",
+    "data_source_id": 189,
+    "lang": "pt",
+    "gid": 179
+  },
+  {
+    "question": "O ponto $(a, b)$ está sobre a linha com a equação $3x + 2y = 12.$ Quando $a = 4$, qual é o valor de $b$?",
+    "answer": "0",
+    "data_source": "MATH500",
+    "data_source_id": 191,
+    "lang": "pt",
+    "gid": 180
+  },
+  {
+    "question": "No $\\triangle PQR$, temos $PQ = QR = 34$ e $PR = 32$. Encontre o comprimento da mediana $\\overline{QM}$.",
+    "answer": "30",
+    "data_source": "MATH500",
+    "data_source_id": 192,
+    "lang": "pt",
+    "gid": 181
+  },
+  {
+    "question": "Um polinômio com coeficientes inteiros é da forma  \\[2x^4 + a_3 x^3 + a_2 x^2 + a_1 x + 1 = 0.\\] Encontre o número de diferentes possíveis raízes racionais desse polinômio.",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 193,
+    "lang": "pt",
+    "gid": 182
+  },
+  {
+    "question": "Seja $p(x)$ um polinômio mônico de grau 4. Três das raízes de $p(x)$ são 1, 2 e 3. Encontre $p(0) + p(4)$.",
+    "answer": "24",
+    "data_source": "MATH500",
+    "data_source_id": 195,
+    "lang": "pt",
+    "gid": 183
+  },
+  {
+    "question": "$441+2(21)(19)+361=x$. Resolva para $x$.",
+    "answer": "1600",
+    "data_source": "MATH500",
+    "data_source_id": 196,
+    "lang": "pt",
+    "gid": 184
+  },
+  {
+    "question": "Se $x^3$ é um fator positivo de $10!$, quantos valores inteiros possíveis de $x$ existem? (Lembrete: Para um inteiro positivo $n$, a expressão $n!$ representa o produto dos inteiros de 1 até (incluindo) $n$.)",
+    "answer": "6",
+    "data_source": "MATH500",
+    "data_source_id": 197,
+    "lang": "pt",
+    "gid": 185
+  },
+  {
+    "question": "A média aritmética de 7, 2, $x$ e 10 é 9. Qual é o valor de $x$?",
+    "answer": "17",
+    "data_source": "MATH500",
+    "data_source_id": 199,
+    "lang": "pt",
+    "gid": 186
+  },
+  {
+    "question": "Se 4 daps = 7 yaps, e 5 yaps = 3 baps, quantos daps equivalem a 42 baps?",
+    "answer": "40",
+    "data_source": "MATH500",
+    "data_source_id": 200,
+    "lang": "pt",
+    "gid": 187
+  },
+  {
+    "question": "Um grupo de $N$ estudantes, onde $N < 50$, está em uma excursão. Se o professor deles os dividir em grupos de 8, o último grupo tem 5 estudantes. Se o professor, em vez disso, os dividir em grupos de 6, o último grupo tem 3 estudantes. Qual é a soma de todos os possíveis valores de $N$?",
+    "answer": "66",
+    "data_source": "MATH500",
+    "data_source_id": 201,
+    "lang": "pt",
+    "gid": 188
+  },
+  {
+    "question": "Encontre o resto quando $(5x + 9)^{611} + (x + 5)^{11} + (x - 1)^{11} + 3x^2 + 1$ é dividido por $x + 2.$",
+    "answer": "12",
+    "data_source": "MATH500",
+    "data_source_id": 203,
+    "lang": "pt",
+    "gid": 189
+  },
+  {
+    "question": "Sejam $a,$ $b,$ $c,$ $d$ números complexos distintos tais que $|a| = |b| = |c| = |d| = 1$ e $a + b + c + d = 0.$ Encontre o valor máximo de \\[|(a + b)(a + c)(a + d)(b + c)(b + d)(c + d)|.\\]",
+    "answer": "0",
+    "data_source": "MATH500",
+    "data_source_id": 204,
+    "lang": "pt",
+    "gid": 190
+  },
+  {
+    "question": "Mikka quer pedir uma pizza com dois recheios diferentes. Ele tem 8 diferentes recheios para escolher. Quantas pizzas diferentes ele poderia pedir?",
+    "answer": "28",
+    "data_source": "MATH500",
+    "data_source_id": 207,
+    "lang": "pt",
+    "gid": 191
+  },
+  {
+    "question": "Quantos dos cem primeiros números inteiros positivos são divisíveis por $3, 4,$ e $5?$",
+    "answer": "1",
+    "data_source": "MATH500",
+    "data_source_id": 208,
+    "lang": "pt",
+    "gid": 192
+  },
+  {
+    "question": "Quando o número inteiro de dois dígitos $``\\text{AB}\"$ é elevado ao cubo, o valor é $912,\\!673$. Qual é o valor de $A + B$?",
+    "answer": "16",
+    "data_source": "MATH500",
+    "data_source_id": 209,
+    "lang": "pt",
+    "gid": 193
+  },
+  {
+    "question": "Doze quadrados de 1 por 1 formam um retângulo, conforme mostrado. Qual é a área total da região sombreada? [asy] size(4cm);defaultpen(linewidth(0.75));  // Porções preenchidas fill((0, 4)--(0, 0)--(2, 0)--cycle, gray(0.75)); fill((0, 4)--(3, 4)--(3, 0)--cycle, gray(0.75));  // grade int j; for (j = 0; j < 4; ++j) {draw((j, 0)--(j, 4));} for (j = 0; j < 5; ++j) {draw((0, j)--(3, j));}  // diagonais draw((0, 4)--(3, 0)); draw((0, 4)--(2, 0)); [/asy]",
+    "answer": "10",
+    "data_source": "MATH500",
+    "data_source_id": 210,
+    "lang": "pt",
+    "gid": 194
+  },
+  {
+    "question": "Expresse $5^5\\div5^4-5^3+5^2\\cdot5^1$ como um inteiro.",
+    "answer": "5",
+    "data_source": "MATH500",
+    "data_source_id": 211,
+    "lang": "pt",
+    "gid": 195
+  },
+  {
+    "question": "Recentemente, Frank fez um teste de aptidão com cem questões, onde cada resposta correta valia $5$ pontos, cada resposta incorreta valia $-2$ pontos, e cada questão não respondida valia zero pontos. Frank respondeu a $80$ questões e obteve $232$ pontos. Quantas questões ele acertou corretamente?",
+    "answer": "56",
+    "data_source": "MATH500",
+    "data_source_id": 212,
+    "lang": "pt",
+    "gid": 196
+  },
+  {
+    "question": "Compute \\[\\sum_{n = 1}^\\infty \\frac{F_{n + 1}}{F_n F_{n + 2}},\\]onde $F_n$ denota o $n$-ésimo número de Fibonacci, de modo que $F_0 = 0$ e $F_1 = 1.$",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 213,
+    "lang": "pt",
+    "gid": 197
+  },
+  {
+    "question": "Existem 360 pessoas na minha escola. 15 fazem cálculo, física e química, e 15 não fazem nenhuma delas. 180 fazem cálculo. O dobro de alunos faz química em relação aos que fazem física. 75 fazem tanto cálculo quanto química, e 75 fazem tanto física quanto química. Apenas 30 fazem tanto física quanto cálculo. Quantos alunos fazem física?",
+    "answer": "110",
+    "data_source": "MATH500",
+    "data_source_id": 214,
+    "lang": "pt",
+    "gid": 198
+  },
+  {
+    "question": "Se $x^2 - x - 1 = 0$, qual é o valor de $x^3 - 2x + 1$?",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 215,
+    "lang": "pt",
+    "gid": 199
+  },
+  {
+    "question": "Na terra de Ink, o sistema monetário é único. Um Trinket é igual a 4 Blinkets, e 3 Blinkets são iguais a 7 Drinkets. Em Trinkets, qual é o valor de 56 Drinkets?",
+    "answer": "6",
+    "data_source": "MATH500",
+    "data_source_id": 216,
+    "lang": "pt",
+    "gid": 200
+  },
+  {
+    "question": "O produto dos inteiros 240 e $k$ é um cubo perfeito. Qual é o menor valor positivo possível de $k$?",
+    "answer": "900",
+    "data_source": "MATH500",
+    "data_source_id": 221,
+    "lang": "pt",
+    "gid": 201
+  },
+  {
+    "question": "A área do $\\triangle ABC$ é de 6 centímetros quadrados. $\\overline{AB} \\| \\overline{DE}$. $BD = 4BC$. Qual é o número de centímetros quadrados na área do $\\triangle CDE$? [asy] draw((-.3,-3)--(.1,1)--(-1,0)--(3,0)--cycle); label(\"$A$\",(.1,1),N); label(\"$B$\",(-1,0),W); label(\"$C$\",(0,0),NE); label(\"$D$\",(3,0),E); label(\"$E$\",(-.3,-3),S); [/asy]",
+    "answer": "54",
+    "data_source": "MATH500",
+    "data_source_id": 222,
+    "lang": "pt",
+    "gid": 202
+  },
+  {
+    "question": "Qual é a soma dos dígitos na representação decimal terminante da fração $\\frac{4321}{5^7\\cdot2^8}$?",
+    "answer": "14",
+    "data_source": "MATH500",
+    "data_source_id": 223,
+    "lang": "pt",
+    "gid": 203
+  },
+  {
+    "question": "Qual é o valor de $$ (3x-2)(4x+1)-(3x-2)4x+1 $$ quando $x=4$?",
+    "answer": "11",
+    "data_source": "MATH500",
+    "data_source_id": 225,
+    "lang": "pt",
+    "gid": 204
+  },
+  {
+    "question": "Quantas maneiras existem de colocar 5 bolas em 2 caixas se as bolas não são distinguíveis e as caixas também não são?",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 226,
+    "lang": "pt",
+    "gid": 205
+  },
+  {
+    "question": "Yann e Camille vão a um restaurante. Se há 10 itens no cardápio, e cada um pede um prato, quantas combinações diferentes de refeições Yann e Camille podem pedir se eles se recusam a pedir o mesmo prato? (Importa quem pede o quê - Yann pedindo frango e Camille pedindo peixe é diferente de Yann pedindo peixe e Camille pedindo frango.)",
+    "answer": "90",
+    "data_source": "MATH500",
+    "data_source_id": 229,
+    "lang": "pt",
+    "gid": 206
+  },
+  {
+    "question": "A média das idades de Amy, Ben e Chris é 6. Quatro anos atrás, Chris tinha a mesma idade que Amy tem agora. Daqui a quatro anos, a idade de Ben será $\\frac{3}{5}$ da idade que Amy terá naquele momento. Quantos anos Chris tem agora?",
+    "answer": "10",
+    "data_source": "MATH500",
+    "data_source_id": 231,
+    "lang": "pt",
+    "gid": 207
+  },
+  {
+    "question": "Seja $f$ a função definida por $f(x) = x^3 - 49x^2 + 623x - 2015,$ e seja $g(x) = f(x + 5).$ Calcule a soma das raízes de $g.$",
+    "answer": "34",
+    "data_source": "MATH500",
+    "data_source_id": 234,
+    "lang": "pt",
+    "gid": 208
+  },
+  {
+    "question": "Calcule \\[\\frac{1}{\\cos^2 10^\\circ} + \\frac{1}{\\sin^2 20^\\circ} + \\frac{1}{\\sin^2 40^\\circ}.\\]",
+    "answer": "12",
+    "data_source": "MATH500",
+    "data_source_id": 236,
+    "lang": "pt",
+    "gid": 209
+  },
+  {
+    "question": "Se $x$, $y$ e $z$ são positivos com $xy = 24$, $xz = 48$ e $yz = 72$, então encontre $x + y + z$.",
+    "answer": "22",
+    "data_source": "MATH500",
+    "data_source_id": 237,
+    "lang": "pt",
+    "gid": 210
+  },
+  {
+    "question": "Quais valores reais de $x$ não pertencem ao domínio da função  $f(x)=\\frac{1}{|x^2+3x-4|+|x^2+9x+20|}$?",
+    "answer": "-4",
+    "data_source": "MATH500",
+    "data_source_id": 238,
+    "lang": "pt",
+    "gid": 211
+  },
+  {
+    "question": "O paralelogramo delimitado pelas linhas $y=ax+c$, $y=ax+d$, $y=bx+c$, e $y=bx+d$ tem área 18. O paralelogramo delimitado pelas linhas $y=ax+c$, $y=ax-d$, $y=bx+c$, e $y=bx-d$ tem área 72. Dado que $a$, $b$, $c$ e $d$ são inteiros positivos, qual é o menor valor possível de $a+b+c+d$?",
+    "answer": "16",
+    "data_source": "MATH500",
+    "data_source_id": 239,
+    "lang": "pt",
+    "gid": 212
+  },
+  {
+    "question": "No diagrama, $PT$ é paralelo a $QR.$ Qual é a medida de $\\angle PQR$ em graus?  [asy] draw((0,0)--(10,0),black+linewidth(1)); draw((0,0)--(10,0),MidArrow); draw((10,0)--(20,0),black+linewidth(1)); draw((0,0)--(-7,10)--(7,10)--(10,0),black+linewidth(1)); draw((-5,10)--(7,10),MidArrow); label(\"$x^{\\circ}$\",(-6,10),SE); label(\"$2x^{\\circ}$\",(7,10),SW); label(\"$128^{\\circ}$\",(10,0),NE); label(\"$P$\",(-7,10),N); label(\"$T$\",(7,10),N); label(\"$R$\",(10,0),S); label(\"$Q$\",(0,0),S); [/asy]",
+    "answer": "116",
+    "data_source": "MATH500",
+    "data_source_id": 240,
+    "lang": "pt",
+    "gid": 213
+  },
+  {
+    "question": "A menor distância entre a origem e um ponto no gráfico de $y=\\frac{1}{2}x^2-9$ pode ser expressa como $a$. Encontre $a^2$.",
+    "answer": "17",
+    "data_source": "MATH500",
+    "data_source_id": 241,
+    "lang": "pt",
+    "gid": 214
+  },
+  {
+    "question": "Um triângulo tem lados medindo 1 unidade e 3 unidades. O comprimento do terceiro lado é um valor inteiro de unidades. Qual é o comprimento do terceiro lado, em unidades?",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 243,
+    "lang": "pt",
+    "gid": 215
+  },
+  {
+    "question": "Quantos lados teria um polígono convexo se a soma de todos os seus ângulos internos, exceto um, fosse $1070^{\\circ}$?",
+    "answer": "8",
+    "data_source": "MATH500",
+    "data_source_id": 244,
+    "lang": "pt",
+    "gid": 216
+  },
+  {
+    "question": "Doze amigos se encontraram para jantar na Casa de Ostras Super Recheadas do Oscar e cada um pediu uma refeição. As porções eram tão grandes que havia comida suficiente para 18 pessoas. Se eles compartilhassem, quantas refeições eles deveriam ter pedido para ter comida suficiente apenas para os 12?",
+    "answer": "8",
+    "data_source": "MATH500",
+    "data_source_id": 246,
+    "lang": "pt",
+    "gid": 217
+  },
+  {
+    "question": "Encontre o único inteiro $\\textbf{ímpar}$ $t$ tal que $0<t<23$ e $t+2$ é o inverso de $t$ módulo $23$.",
+    "answer": "17",
+    "data_source": "MATH500",
+    "data_source_id": 249,
+    "lang": "pt",
+    "gid": 218
+  },
+  {
+    "question": "Se $a$ é o intercepto em $x$, $b$ é o intercepto em $y$, e $m$ é o coeficiente angular da reta com equação $\\frac{x}{4} + \\frac{y}{12} = 1$, então qual é o valor de $a + b + m$?",
+    "answer": "13",
+    "data_source": "MATH500",
+    "data_source_id": 250,
+    "lang": "pt",
+    "gid": 219
+  },
+  {
+    "question": "Seis carros chegam a um semáforo vermelho, um de cada vez. No semáforo, existem três faixas, uma faixa para virar à esquerda, uma faixa reta e uma faixa para virar à direita. De quantas maneiras os carros podem se alinhar de forma que todas as três faixas estejam ocupadas?  Observe que, se o primeiro carro vira à esquerda e o segundo vai em frente, isso é considerado diferente do primeiro carro indo em frente e o segundo carro virando à esquerda. Em outras palavras, os carros são distinguíveis, mas chegam ao cruzamento numa ordem fixa.",
+    "answer": "540",
+    "data_source": "MATH500",
+    "data_source_id": 251,
+    "lang": "pt",
+    "gid": 220
+  },
+  {
+    "question": "Qual é o valor máximo de $4(x + 7)(2 - x)$, para todos os números reais $x$?",
+    "answer": "81",
+    "data_source": "MATH500",
+    "data_source_id": 252,
+    "lang": "pt",
+    "gid": 221
+  },
+  {
+    "question": "Pat deve selecionar seis biscoitos de uma bandeja que contém apenas biscoitos com gotas de chocolate, aveia e manteiga de amendoim. Há pelo menos seis de cada um desses três tipos de biscoitos na bandeja. Quantos conjuntos diferentes de seis biscoitos podem ser selecionados? (Observe que biscoitos do mesmo tipo não são distinguíveis.)",
+    "answer": "28",
+    "data_source": "MATH500",
+    "data_source_id": 254,
+    "lang": "pt",
+    "gid": 222
+  },
+  {
+    "question": "Eu tenho um saco com bolas amarelas e azuis dentro dele. No momento, a razão de bolas azuis para bolas amarelas é de 4:3. Se eu adicionar 5 bolas azuis e remover 3 bolas amarelas, a razão será de 7:3. Quantas bolas azuis estavam no saco antes de eu adicionar mais?",
+    "answer": "16",
+    "data_source": "MATH500",
+    "data_source_id": 258,
+    "lang": "pt",
+    "gid": 223
+  },
+  {
+    "question": "Calcule o produto do número $5+\\sqrt{3}$ e seu conjugado radical.",
+    "answer": "22",
+    "data_source": "MATH500",
+    "data_source_id": 259,
+    "lang": "pt",
+    "gid": 224
+  },
+  {
+    "question": "Se $10^x - 10 = 9990,$ qual é o valor de $x$?",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 262,
+    "lang": "pt",
+    "gid": 225
+  },
+  {
+    "question": "Em um polígono regular, a medida de um ângulo interno é 6,5 vezes a medida de um ângulo externo. Quantos lados tem o polígono?",
+    "answer": "15",
+    "data_source": "MATH500",
+    "data_source_id": 263,
+    "lang": "pt",
+    "gid": 226
+  },
+  {
+    "question": "Qual é o 2003º termo da sequência de números ímpares 1, 3, 5, 7, $\\dots$?",
+    "answer": "4005",
+    "data_source": "MATH500",
+    "data_source_id": 265,
+    "lang": "pt",
+    "gid": 227
+  },
+  {
+    "question": "Qual é o resto quando $1 + 2 + 3 + 4 + \\dots + 9 + 10$ é dividido por 9?",
+    "answer": "1",
+    "data_source": "MATH500",
+    "data_source_id": 268,
+    "lang": "pt",
+    "gid": 228
+  },
+  {
+    "question": "Um prodígio matemático deseja colocar 2 de suas indistinguíveis medalhas de ouro da IMO e 2 de suas indistinguíveis medalhas de ouro da IPhO em uma única fila. Quantos arranjos distintos são possíveis?",
+    "answer": "6",
+    "data_source": "MATH500",
+    "data_source_id": 269,
+    "lang": "pt",
+    "gid": 229
+  },
+  {
+    "question": "Um ingresso para um espetáculo custa $\\$20$ no preço cheio. Susan compra $4$ ingressos usando um cupom que lhe dá um desconto de $25\\%$. Pam compra $5$ ingressos usando um cupom que lhe dá um desconto de $30\\%$. Quantos dólares a mais Pam paga do que Susan?",
+    "answer": "10",
+    "data_source": "MATH500",
+    "data_source_id": 270,
+    "lang": "pt",
+    "gid": 230
+  },
+  {
+    "question": "Calcule $997^{-1}$ módulo $1000$. Expresse sua resposta como um inteiro de $0$ a $999$.",
+    "answer": "333",
+    "data_source": "MATH500",
+    "data_source_id": 271,
+    "lang": "pt",
+    "gid": 231
+  },
+  {
+    "question": "Se $0.\\overline{1331}$ é escrito como uma fração $\\frac{a}{b}$ com $a$ e $b$ sendo inteiros positivos com um máximo divisor comum de 1, qual é o valor de $a+b$?",
+    "answer": "1030",
+    "data_source": "MATH500",
+    "data_source_id": 272,
+    "lang": "pt",
+    "gid": 232
+  },
+  {
+    "question": "Em 1992, uma bola de gelato podia ser comprada na Itália por 1200 liras. O mesmo gelato custaria $\\$1,50$ nos EUA. No câmbio equivalente entre a lira e o dólar, quantos dólares seriam equivalentes a 1.000.000 de liras?",
+    "answer": "1250",
+    "data_source": "MATH500",
+    "data_source_id": 273,
+    "lang": "pt",
+    "gid": 233
+  },
+  {
+    "question": "Sejam $f(x) = 2x-3$ e $g(x) = x+1$. Qual é o valor de $g(f(5)-1)$?",
+    "answer": "7",
+    "data_source": "MATH500",
+    "data_source_id": 275,
+    "lang": "pt",
+    "gid": 234
+  },
+  {
+    "question": "Para quantos valores reais de $x$ é $\\sqrt{120-\\sqrt{x}}$ um número inteiro?",
+    "answer": "11",
+    "data_source": "MATH500",
+    "data_source_id": 276,
+    "lang": "pt",
+    "gid": 235
+  },
+  {
+    "question": "Qual é o maior inteiro de oito dígitos na base 2? Expresse sua resposta na base 10.",
+    "answer": "255",
+    "data_source": "MATH500",
+    "data_source_id": 278,
+    "lang": "pt",
+    "gid": 236
+  },
+  {
+    "question": "Suponha que $a$ e $b$ sejam números primos distintos maiores que 2. Quantos divisores inteiros existem para o inteiro $a(2a+b)-2a^{2}+ab$?",
+    "answer": "8",
+    "data_source": "MATH500",
+    "data_source_id": 280,
+    "lang": "pt",
+    "gid": 237
+  },
+  {
+    "question": "Na sequência 0, 1, 1, 3, 6, 9, 27, ..., o primeiro termo é 0. Os termos subsequentes são produzidos alternando entre adicionar e multiplicar por cada número inteiro sucessivo começando com 1. Por exemplo, o segundo termo é produzido adicionando 1 ao primeiro termo; o terceiro termo é produzido multiplicando o segundo termo por 1; o quarto termo é produzido adicionando 2 ao terceiro termo; e assim por diante. Qual é o valor do primeiro termo que é maior que 125?",
+    "answer": "129",
+    "data_source": "MATH500",
+    "data_source_id": 282,
+    "lang": "pt",
+    "gid": 238
+  },
+  {
+    "question": "Qual é $\\left(4\\dfrac{5}{8}\\right)^{55} \\cdot \\left(\\dfrac{8}{37}\\right)^{55}$?",
+    "answer": "1",
+    "data_source": "MATH500",
+    "data_source_id": 283,
+    "lang": "pt",
+    "gid": 239
+  },
+  {
+    "question": "Steve diz a Jon: \"Estou pensando em um polinômio cujas raízes são todos números inteiros positivos. O polinômio tem a forma $P(x) = 2x^3 - 2ax^2 + (a^2 - 81)x - c$ para alguns números inteiros positivos $a$ e $c$. Você pode me dizer os valores de $a$ e $c$?\"  Após alguns cálculos, Jon diz: \"Há mais de um polinômio assim.\"  Steve diz: \"Você está certo. Aqui está o valor de $a$.\" Ele escreve um número inteiro positivo e pergunta: \"Você pode me dizer o valor de $c$?\"  Jon diz: \"Ainda há dois valores possíveis para $c$.\"  Encontre a soma dos dois possíveis valores de $c$.",
+    "answer": "440",
+    "data_source": "MATH500",
+    "data_source_id": 285,
+    "lang": "pt",
+    "gid": 240
+  },
+  {
+    "question": "Uma engrenagem gira $33\\frac{1}{3}$ vezes em um minuto. Outra engrenagem gira 45 vezes em um minuto. Inicialmente, uma marca em cada engrenagem está apontando para o norte verdadeiro. Após quantos segundos as duas engrenagens terão novamente ambas as suas marcas apontando para o norte verdadeiro?",
+    "answer": "36",
+    "data_source": "MATH500",
+    "data_source_id": 287,
+    "lang": "pt",
+    "gid": 241
+  },
+  {
+    "question": "Uma reta é definida por \\[\\begin{pmatrix} 3 \\\\ -10 \\\\ 1 \\end{pmatrix} + t \\begin{pmatrix} 2 \\\\ -9 \\\\ -2 \\end{pmatrix}.\\]Outra reta é definida por \\[\\begin{pmatrix} -5 \\\\ -3 \\\\ 6 \\end{pmatrix} + u \\begin{pmatrix} 4 \\\\ -18 \\\\ -4 \\end{pmatrix}.\\]Estas duas retas são paralelas. Encontre a distância entre essas duas retas.",
+    "answer": "7",
+    "data_source": "MATH500",
+    "data_source_id": 288,
+    "lang": "pt",
+    "gid": 242
+  },
+  {
+    "question": "Sejam $a,$ $b,$ $c,$ $d$ números reais positivos. Encontre o valor mínimo de \\[(a + b + c + d) \\left( \\frac{1}{a} + \\frac{1}{b} + \\frac{1}{c} + \\frac{1}{d} \\right).\\]",
+    "answer": "16",
+    "data_source": "MATH500",
+    "data_source_id": 289,
+    "lang": "pt",
+    "gid": 243
+  },
+  {
+    "question": "Encontre o valor de $r$ tal que $$\\frac{6r^2 -19r - 7}{2r-7} = 4r-3.$$",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 290,
+    "lang": "pt",
+    "gid": 244
+  },
+  {
+    "question": "Considere a região retangular com os seguintes pontos como vértices: $$(5,4), (-5,4), (-5,-4), (5,-4).$$ Quantos pontos com coordenadas inteiras estarão estritamente no interior dessa região retangular?",
+    "answer": "63",
+    "data_source": "MATH500",
+    "data_source_id": 291,
+    "lang": "pt",
+    "gid": 245
+  },
+  {
+    "question": "Dado que \\begin{align*}x_{1}&=211,\\\\ x_{2}&=375,\\\\ x_{3}&=420,\\\\ x_{4}&=523,\\ \\text{e}\\\\ x_{n}&=x_{n-1}-x_{n-2}+x_{n-3}-x_{n-4}\\ \\text{quando}\\ n\\geq5, \\end{align*}encontre o valor de $x_{531}+x_{753}+x_{975}$.",
+    "answer": "898",
+    "data_source": "MATH500",
+    "data_source_id": 292,
+    "lang": "pt",
+    "gid": 246
+  },
+  {
+    "question": "Um palíndromo é um número que é lido da mesma forma de trás para frente. A soma de um determinado conjunto de três inteiros positivos consecutivos é um palíndromo de três dígitos. Se a soma é menor que 220, qual é o maior valor possível para o maior dos três inteiros no conjunto?",
+    "answer": "58",
+    "data_source": "MATH500",
+    "data_source_id": 294,
+    "lang": "pt",
+    "gid": 247
+  },
+  {
+    "question": "As soluções da equação $z^4+4z^3i-6z^2-4zi-i=0$ são os vértices de um polígono convexo no plano complexo. A área deste polígono pode ser expressa na forma $p^{a/b},$ onde $a,$ $b,$ $p$ são inteiros positivos, $p$ é primo, e $a$ e $b$ são primos entre si. Encontre $a + b + p.$",
+    "answer": "11",
+    "data_source": "MATH500",
+    "data_source_id": 295,
+    "lang": "pt",
+    "gid": 248
+  },
+  {
+    "question": "Diz-se que um livro tem $n$ folhas se for composto por $n$ pedaços de papel. Por outro lado, o número de páginas é o dobro do número de folhas, porque cada lado de um pedaço de papel é definido como uma página.  Se o número de páginas em um livro é $3$ a mais que um múltiplo de $7$, e o número de folhas é maior que $100$, então qual é o menor número possível de folhas?",
+    "answer": "103",
+    "data_source": "MATH500",
+    "data_source_id": 297,
+    "lang": "pt",
+    "gid": 249
+  },
+  {
+    "question": "Considere o retângulo com vértices em $(5,4),$ $(5,-4),$ $(-5,4),$ $(-5,-4)$. Quantas coordenadas inteiras estarão estritamente dentro da região retangular?",
+    "answer": "63",
+    "data_source": "MATH500",
+    "data_source_id": 299,
+    "lang": "pt",
+    "gid": 250
+  },
+  {
+    "question": "Quatro círculos distintos são desenhados em um plano. Qual é o número máximo de pontos onde pelo menos dois dos círculos se intersectam?",
+    "answer": "12",
+    "data_source": "MATH500",
+    "data_source_id": 300,
+    "lang": "pt",
+    "gid": 251
+  },
+  {
+    "question": "Ao converter $\\frac{31}{11111}$ para decimal, o decimal resulta ser uma decimal periódica. Quantos dígitos se repetem nesta decimal periódica?  Por exemplo, se você obtém a decimal periódica $0.\\overline{123},$ então sua resposta deve ser $3,$ e se você obtém $0.436\\overline{7},$ sua resposta deve ser $1.$",
+    "answer": "5",
+    "data_source": "MATH500",
+    "data_source_id": 302,
+    "lang": "pt",
+    "gid": 252
+  },
+  {
+    "question": "Suponha que $ABCD$ seja um trapézio no qual $\\overline{AD}|| \\overline{BC}$. Dado $\\overline{AC}\\perp\\overline{CD}$, $\\overline{AC}$ bisseta o ângulo $\\angle BAD$ e $[ABCD]=42$, então calcule $[\\triangle ACD]$.",
+    "answer": "28",
+    "data_source": "MATH500",
+    "data_source_id": 303,
+    "lang": "pt",
+    "gid": 253
+  },
+  {
+    "question": "Encontre o valor mínimo de  \\[\\frac{(x + 5)(x + 2)}{x + 1}\\]para $x > 0.$",
+    "answer": "9",
+    "data_source": "MATH500",
+    "data_source_id": 304,
+    "lang": "pt",
+    "gid": 254
+  },
+  {
+    "question": "Encontre o número de equações quadráticas da forma $x^2 + ax + b = 0,$ tal que sempre que $c$ é uma raiz da equação, $c^2 - 2$ também é uma raiz da equação.",
+    "answer": "6",
+    "data_source": "MATH500",
+    "data_source_id": 306,
+    "lang": "pt",
+    "gid": 255
+  },
+  {
+    "question": "O produto de um conjunto de inteiros positivos distintos é 84. Qual é a menor soma possível desses inteiros?",
+    "answer": "14",
+    "data_source": "MATH500",
+    "data_source_id": 309,
+    "lang": "pt",
+    "gid": 256
+  },
+  {
+    "question": "A operação @ é definida como $\\frac{m}{n} @ \\frac{p}{q} = (m)(p)\\left(\\frac{q}{n}\\right)$ para frações simplificadas $\\frac{p}{q}$. Qual é o valor simplificado de $\\frac{7}{30} @ \\frac{10}{21}$?",
+    "answer": "49",
+    "data_source": "MATH500",
+    "data_source_id": 310,
+    "lang": "pt",
+    "gid": 257
+  },
+  {
+    "question": "Se $$1+12+123+1234+12345+123456+1234567+12345678$$ é congruente com $n$ módulo 9, onde $0\\le n<9$, qual é o valor de $n$?",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 311,
+    "lang": "pt",
+    "gid": 258
+  },
+  {
+    "question": "Os números inteiros positivos $a$, $b$, e $2009$, com $a<b<2009$, formam uma sequência geométrica com uma razão inteira. Qual é o valor de $a$?",
+    "answer": "41",
+    "data_source": "MATH500",
+    "data_source_id": 315,
+    "lang": "pt",
+    "gid": 259
+  },
+  {
+    "question": "A expressão $10x^2-x-24$ pode ser escrita como $(Ax-8)(Bx+3),$ onde $A$ e $B$ são inteiros. Qual é o valor de $AB + B$?",
+    "answer": "12",
+    "data_source": "MATH500",
+    "data_source_id": 316,
+    "lang": "pt",
+    "gid": 260
+  },
+  {
+    "question": "Sejam $a,$ $b$ e $c$ números reais distintos. Encontre o grau do polinômio \\[p(x) = \\frac{(x - b)(x - c)}{(a - b)(a - c)} + \\frac{(x - a)(x - c)}{(b - a)(b - c)} + \\frac{(x - a)(x - b)}{(c - a)(c - b)}.\\]",
+    "answer": "0",
+    "data_source": "MATH500",
+    "data_source_id": 317,
+    "lang": "pt",
+    "gid": 261
+  },
+  {
+    "question": "Na equação $|x-4| -10 = 2$, qual é o produto de todos os possíveis valores de $x$?",
+    "answer": "-128",
+    "data_source": "MATH500",
+    "data_source_id": 319,
+    "lang": "pt",
+    "gid": 262
+  },
+  {
+    "question": "Um robô movendo-se para a frente a uma velocidade constante leva 2,5 horas para percorrer 1 quilômetro. Avançando à mesma velocidade constante, demora 90 segundos para o robô percorrer o comprimento de um corredor específico. Quantos metros tem o corredor?",
+    "answer": "10",
+    "data_source": "MATH500",
+    "data_source_id": 321,
+    "lang": "pt",
+    "gid": 263
+  },
+  {
+    "question": "Seja $f(x) = x - 3$ e $q(x) = bx +1$. Se $f(q(1)) = -3$, qual é o valor de $b$?",
+    "answer": "-1",
+    "data_source": "MATH500",
+    "data_source_id": 322,
+    "lang": "pt",
+    "gid": 264
+  },
+  {
+    "question": "No diagrama, dois círculos, ambos com centro $D$, possuem raios de $1$ e $2$. A área total da região sombreada é $\\frac{5}{12}$ da área do círculo maior. Quantos graus há na medida do (menor) $\\angle ADC$? [asy] size(4cm); defaultpen(linewidth(0.75)); real adc = 100; pair d = (0, 0); pair a = 2 * dir(100); pair c = (2, 0); path inner = arc(d, a/2, c/2, CW);  path outer = arc(d, c, a, CCW); guide region1 = (a--a/2)..inner..(c/2--c)..outer..cycle; guide region2 = arc(d, a/2, c/2, CCW)..(c/2--d--a/2)..cycle; fill(region1, gray(0.75)); fill(region2, gray(0.75)); draw(unitcircle); draw(scale(2) * unitcircle); draw(a--d--c); label(\"$A$\", a, N); label(\"$C$\", c, E); label(\"$D$\", d, NE); [/asy]",
+    "answer": "120",
+    "data_source": "MATH500",
+    "data_source_id": 324,
+    "lang": "pt",
+    "gid": 265
+  },
+  {
+    "question": "Um copo cilíndrico tem 8 cm de altura e um raio de 3 cm. Quantos desses copos de água serão necessários para encher um tanque esférico de raio 6 cm?",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 325,
+    "lang": "pt",
+    "gid": 266
+  },
+  {
+    "question": "Seja $P(x)$ um polinômio mônico de grau 3. Suponha que $P(x)$ tenha resto $R(x)$ quando é dividido por $(x - 1)(x - 4),$ e resto $2R(x)$ quando é dividido por $(x - 2)(x - 3).$ Dado que $P(0) = 5,$ encontre $P(5).$",
+    "answer": "15",
+    "data_source": "MATH500",
+    "data_source_id": 327,
+    "lang": "pt",
+    "gid": 267
+  },
+  {
+    "question": "Considere $f(x) = \\left\\lfloor\\left(-\\frac{5}{8}\\right)^x\\right\\rfloor$ uma função que é definida para todos os valores de $x$ no intervalo $[0,\\infty)$ de tal forma que $f(x)$ é um número real. Quantos valores distintos existem no conjunto imagem de $f(x)$?",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 328,
+    "lang": "pt",
+    "gid": 268
+  },
+  {
+    "question": "Uma bicicleta está viajando a 20 pés por minuto. Qual é a velocidade da bicicleta expressa em polegadas por segundo?",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 329,
+    "lang": "pt",
+    "gid": 269
+  },
+  {
+    "question": "Uma comissão do Senado tem 8 republicanos e 6 democratas. De quantas maneiras podemos formar uma subcomissão de 5 membros que tenha pelo menos um membro de cada partido?",
+    "answer": "1940",
+    "data_source": "MATH500",
+    "data_source_id": 330,
+    "lang": "pt",
+    "gid": 270
+  },
+  {
+    "question": "Deixe $x,$ $y,$ e $z$ serem números reais positivos tal que $xyz(x + y + z) = 1.$ Encontre o valor mínimo de \\[(x + y)(y + z).\\]",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 332,
+    "lang": "pt",
+    "gid": 271
+  },
+  {
+    "question": "Se \\[\\sqrt[3]{2} = a + \\cfrac{1}{b + \\cfrac{1}{c + \\cfrac{1}{d + \\dotsb}}},\\]onde $a,$ $b,$ $c,$ $d$ são inteiros positivos, calcule $b.$",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 333,
+    "lang": "pt",
+    "gid": 272
+  },
+  {
+    "question": "Se $a+b=8$, $b+c=-3$ e $a+c= -5$, qual é o valor do produto $abc$?",
+    "answer": "-120",
+    "data_source": "MATH500",
+    "data_source_id": 334,
+    "lang": "pt",
+    "gid": 273
+  },
+  {
+    "question": "A sequência de Fibonacci é a sequência 1, 1, 2, 3, 5, $\\ldots$ onde cada termo é a soma dos dois termos anteriores. Qual é o resto quando o $100^{\\mathrm{º}}$ termo da sequência é dividido por 4?",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 335,
+    "lang": "pt",
+    "gid": 274
+  },
+  {
+    "question": "Qual é o valor de $513^2 - 487^2$?",
+    "answer": "26000",
+    "data_source": "MATH500",
+    "data_source_id": 336,
+    "lang": "pt",
+    "gid": 275
+  },
+  {
+    "question": "O produto de três inteiros consecutivos é 120. Esse produto dividido pela média dos três inteiros é 24. Qual é o maior dos três inteiros consecutivos?",
+    "answer": "6",
+    "data_source": "MATH500",
+    "data_source_id": 337,
+    "lang": "pt",
+    "gid": 276
+  },
+  {
+    "question": "Qual é o menor número que é um a menos que o dobro do seu recíproco?",
+    "answer": "-2",
+    "data_source": "MATH500",
+    "data_source_id": 341,
+    "lang": "pt",
+    "gid": 277
+  },
+  {
+    "question": "Qual inteiro $x$ satisfaz $\\frac{1}{4}<\\frac{x}{7}<\\frac{1}{3}$?",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 342,
+    "lang": "pt",
+    "gid": 278
+  },
+  {
+    "question": "Seja \\[f(n) = \\begin{cases} 4n+3 &\\text{se }n<a, \\\\ 7n-12 &\\text{se }n\\ge{a}. \\end{cases} \\]Encontre $a$ se o gráfico de $y=f(n)$ for contínuo.",
+    "answer": "5",
+    "data_source": "MATH500",
+    "data_source_id": 344,
+    "lang": "pt",
+    "gid": 279
+  },
+  {
+    "question": "Se $t(x) = 3-g(x)$ e $g(x) = \\sqrt{x}$, então qual é $t(g(16))$?",
+    "answer": "1",
+    "data_source": "MATH500",
+    "data_source_id": 345,
+    "lang": "pt",
+    "gid": 280
+  },
+  {
+    "question": "Resolva para o valor positivo de $x$ tal que $\\sqrt[3]{x^2 - 4x + 4} = 16$.",
+    "answer": "66",
+    "data_source": "MATH500",
+    "data_source_id": 346,
+    "lang": "pt",
+    "gid": 281
+  },
+  {
+    "question": "Calcule $\\dbinom{31}{28}$.",
+    "answer": "4495",
+    "data_source": "MATH500",
+    "data_source_id": 348,
+    "lang": "pt",
+    "gid": 282
+  },
+  {
+    "question": "De quantas maneiras podemos sentar 8 pessoas ao redor de uma mesa quadrada com 2 pessoas em cada lado? (Duas configurações são consideradas equivalentes se uma é uma rotação da outra.)",
+    "answer": "10080",
+    "data_source": "MATH500",
+    "data_source_id": 349,
+    "lang": "pt",
+    "gid": 283
+  },
+  {
+    "question": "Encontre o algarismo das unidades de $18^6.$",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 350,
+    "lang": "pt",
+    "gid": 284
+  },
+  {
+    "question": "Suponha que eu tenha $6$ livros diferentes, dos quais $2$ são livros de matemática. De quantas maneiras posso empilhar meus $6$ livros em uma prateleira se eu não quiser que os livros de matemática fiquem um ao lado do outro?",
+    "answer": "480",
+    "data_source": "MATH500",
+    "data_source_id": 353,
+    "lang": "pt",
+    "gid": 285
+  },
+  {
+    "question": "A soma de 27 inteiros positivos consecutivos é $3^7$. Qual é a mediana deles?",
+    "answer": "81",
+    "data_source": "MATH500",
+    "data_source_id": 354,
+    "lang": "pt",
+    "gid": 286
+  },
+  {
+    "question": "Sejam $a,$ $b,$ e $c$ números reais positivos. Encontre o valor mínimo de \\[\\frac{(a + b + c)[(a + b)^2 + (a + b + 4c)^2]}{abc}.\\]",
+    "answer": "100",
+    "data_source": "MATH500",
+    "data_source_id": 355,
+    "lang": "pt",
+    "gid": 287
+  },
+  {
+    "question": "Eu tenho um baralho de $54$ cartas, e distribuo todas as cartas para $x$ jogadores, com cada jogador recebendo $y$ cartas. Se $x$ é pelo menos $2$ e $y$ é pelo menos $5$, então quantos valores possíveis existem para $x$?",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 357,
+    "lang": "pt",
+    "gid": 288
+  },
+  {
+    "question": "Suponha que $x,$ $y,$ e $z$ satisfaçam as equações \\begin{align*} xyz &= 4, \\\\ x^3 + y^3 + z^3 &= 4, \\\\ xy^2 + x^2 y + xz^2 + x^2 z + yz^2 + y^2 z &= 12. \\end{align*}Calcule o valor de $xy + yz + zx.$",
+    "answer": "6",
+    "data_source": "MATH500",
+    "data_source_id": 359,
+    "lang": "pt",
+    "gid": 289
+  },
+  {
+    "question": "Três mais o inverso de um número é igual a 7 dividido por esse número. Qual é o número?",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 363,
+    "lang": "pt",
+    "gid": 290
+  },
+  {
+    "question": "Se $a$ e $b$ são números inteiros positivos tais que $\\gcd(a,b)=210$, $\\mathop{\\text{mmc}}[a,b]=210^3$ e $a<b$, quantos valores possíveis existem para $a$?",
+    "answer": "8",
+    "data_source": "MATH500",
+    "data_source_id": 365,
+    "lang": "pt",
+    "gid": 291
+  },
+  {
+    "question": "Encontre o resto da soma $1+3+5+7+9+\\dots+195+197+199$ módulo $7$.",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 366,
+    "lang": "pt",
+    "gid": 292
+  },
+  {
+    "question": "Suponha que $f$ seja uma função e $f^{-1}$ seja a inversa de $f$. Se $f(1)=2$, $f(2) = 6$, e $f(3)=5$, então qual é o valor de $f^{-1}(f^{-1}(6))$?",
+    "answer": "1",
+    "data_source": "MATH500",
+    "data_source_id": 367,
+    "lang": "pt",
+    "gid": 293
+  },
+  {
+    "question": "Dois lados de um triângulo têm cada um $8$ unidades de comprimento. Se o terceiro lado tem um comprimento de número inteiro, qual é o maior perímetro possível, em unidades, para o triângulo?",
+    "answer": "31",
+    "data_source": "MATH500",
+    "data_source_id": 368,
+    "lang": "pt",
+    "gid": 294
+  },
+  {
+    "question": "Qual é o número de centímetros quadrados na área deste trapézio?  [asy] defaultpen(linewidth(0.7)); draw((0,0)--(27,0)--(15,9)--(0,9)--cycle); label(\"5 cm\",(21,4.5),NE); label(\"5 cm\",(7.5,9),N); label(\"3 cm\",(0,4.5),W); label(\"9 cm\",(13.5,0),S); draw(rightanglemark((0,9),(0,0),(27,0),35)); draw(rightanglemark((0,0),(0,9),(15,9),35)); [/asy]",
+    "answer": "21",
+    "data_source": "MATH500",
+    "data_source_id": 369,
+    "lang": "pt",
+    "gid": 295
+  },
+  {
+    "question": "Encontre o produto escalar de $\\begin{pmatrix} -2 \\\\ 0 \\\\ 7 \\end{pmatrix}$ e $\\begin{pmatrix} 3 \\\\ 4 \\\\ -5 \\end{pmatrix}.$",
+    "answer": "-41",
+    "data_source": "MATH500",
+    "data_source_id": 370,
+    "lang": "pt",
+    "gid": 296
+  },
+  {
+    "question": "Sejam $a,$ $b,$ $c$ números reais tais que \\[|ax^2 + bx + c| \\le 1\\]para todo $0 \\le x \\le 1.$ Encontre o maior valor possível de $|a| + |b| + |c|.$",
+    "answer": "17",
+    "data_source": "MATH500",
+    "data_source_id": 371,
+    "lang": "pt",
+    "gid": 297
+  },
+  {
+    "question": "Qual é a diferença entre a raiz quadrada positiva de 64 e a raiz cúbica de 64?",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 374,
+    "lang": "pt",
+    "gid": 298
+  },
+  {
+    "question": "Se $A$ é a soma dos divisores positivos de $500$, qual é a soma dos divisores primos distintos de $A$?",
+    "answer": "25",
+    "data_source": "MATH500",
+    "data_source_id": 375,
+    "lang": "pt",
+    "gid": 299
+  },
+  {
+    "question": "A superfactorial $n\\$$ é definida como $n\\$ = \\underbrace{ n!^{{n!}^{{\\cdot}^{{\\cdot}^{{\\cdot}^{n!}}}}}}_{n!}$. Qual é o algarismo das unidades de $4\\$$?",
+    "answer": "6",
+    "data_source": "MATH500",
+    "data_source_id": 377,
+    "lang": "pt",
+    "gid": 300
+  },
+  {
+    "question": "Para quantos primos de dois dígitos a soma dos dígitos é igual a 8?",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 378,
+    "lang": "pt",
+    "gid": 301
+  },
+  {
+    "question": "Os dados na tabela abaixo mostram a porcentagem de estudantes que utilizam o ônibus em uma pesquisa realizada com os alunos do Ensino Médio Central; 300 meninos e 300 meninas em cada série foram pesquisados. Para qual série o número de meninos que utilizam o ônibus está mais próximo de $135\\%$ do número de meninas que utilizam o ônibus? \\begin{tabular}{|l|c|c|}\\hline Série & Meninos & Meninas \\\\ \\hline $9^{\\mathrm{a}}$ série & $41.1\\%$ & $39.4\\%$ \\\\ \\hline $10^{\\mathrm{a}}$ série & $34.4\\%$ & $33.1\\%$ \\\\ \\hline $11^{\\mathrm{a}}$ série & $20.6\\%$ & $13.8\\%$ \\\\ \\hline $12^{\\mathrm{a}}$ série & $11.6\\%$ & $8.6\\%$ \\\\ \\hline \\end{tabular}",
+    "answer": "12",
+    "data_source": "MATH500",
+    "data_source_id": 379,
+    "lang": "pt",
+    "gid": 302
+  },
+  {
+    "question": "Kathy precisa de dinheiro para sua viagem à Europa. Se ela tem 300 dólares americanos no banco, mas quer sacar metade em libras esterlinas e a outra metade em euros, quantos euros a mais do que libras ela terá? Assuma que 1 libra = 1,64 USD e 1 euro = 1,32 USD, e arredonde para o número inteiro mais próximo.",
+    "answer": "22",
+    "data_source": "MATH500",
+    "data_source_id": 385,
+    "lang": "pt",
+    "gid": 303
+  },
+  {
+    "question": "Quantos inteiros existem no conjunto solução de $|x-2|\\leq5.6$?",
+    "answer": "11",
+    "data_source": "MATH500",
+    "data_source_id": 386,
+    "lang": "pt",
+    "gid": 304
+  },
+  {
+    "question": "Se $f(x)=5x^2+3x+4$, qual é o valor de $f(-2)$?",
+    "answer": "18",
+    "data_source": "MATH500",
+    "data_source_id": 387,
+    "lang": "pt",
+    "gid": 305
+  },
+  {
+    "question": "A menor distância entre a origem e um ponto no gráfico de $y=\\frac{1}{\\sqrt{2}}\\left(x^2-3\\right)$ pode ser expressa como $\\sqrt{a}/b$, onde $a$ e $b$ são inteiros positivos, de forma que $a$ não é divisível pelo quadrado de nenhum inteiro maior que um. Encontre $a+b$.",
+    "answer": "12",
+    "data_source": "MATH500",
+    "data_source_id": 390,
+    "lang": "pt",
+    "gid": 306
+  },
+  {
+    "question": "Considere $f$ definida por \\[f(x) = \\left\\{ \\begin{array}{cl} 3-x & \\text{ se } x \\leq 3, \\\\ -x^3+2x^2+3x & \\text{ se } x>3. \\end{array} \\right.\\] Calcule $f^{-1}(0)+f^{-1}(6)$.",
+    "answer": "0",
+    "data_source": "MATH500",
+    "data_source_id": 391,
+    "lang": "pt",
+    "gid": 307
+  },
+  {
+    "question": "Se $a = 8$, qual é o valor de $\\left(16\\sqrt[3]{a^2}\\right)^{\\frac 13}$?",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 395,
+    "lang": "pt",
+    "gid": 308
+  },
+  {
+    "question": "O quadrilátero $ABCD$ é um quadrado com área de 16 polegadas quadradas. A figura representa as peças de um tangram chinês no qual todos os triângulos são isósceles e a peça \"e\" é um quadrado. Qual é a área da peça cinza, em polegadas quadradas?  [asy] fill((2,0)--(4,2)--(4,0)--cycle,gray(.7)); draw((0,0)--(0,4)--(4,4)--(4,0)--cycle,linewidth(1)); draw((0,0)--(4,4),linewidth(1)); draw((1,1)--(2,0)--(4,2),linewidth(1)); draw((0,4)--(3,1)--(3,3),linewidth(1)); label(\"$A$\",(0,4),W); label(\"$B$\",(4,4),E); label(\"$C$\",(4,0),E); label(\"$D$\",(0,0),W); label(\"e\",(2,1));  [/asy]",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 396,
+    "lang": "pt",
+    "gid": 309
+  },
+  {
+    "question": "Se $3x + 2(1 + x) = 17$, qual é o valor de $6x + 5$?",
+    "answer": "23",
+    "data_source": "MATH500",
+    "data_source_id": 397,
+    "lang": "pt",
+    "gid": 310
+  },
+  {
+    "question": "Quantos dos mesmos dígitos são encontrados nas representações em base 7 e base 8 do número $629_{10}$? Por exemplo, $121_{3}$ e $413_{5}$ teriam um dígito em comum.",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 403,
+    "lang": "pt",
+    "gid": 311
+  },
+  {
+    "question": "Roslyn tem dez caixas. Cinco das caixas contêm lápis, quatro das caixas contêm canetas e duas das caixas contêm tanto canetas quanto lápis. Quantas caixas não contêm nem canetas nem lápis?",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 404,
+    "lang": "pt",
+    "gid": 312
+  },
+  {
+    "question": "Se ninguém compartilha um escritório, de quantas maneiras 3 pessoas podem ser designadas para 5 escritórios diferentes? (Cada pessoa fica exatamente com um escritório).",
+    "answer": "60",
+    "data_source": "MATH500",
+    "data_source_id": 405,
+    "lang": "pt",
+    "gid": 313
+  },
+  {
+    "question": "Qual é o resto da divisão de 2004 por 12?",
+    "answer": "0",
+    "data_source": "MATH500",
+    "data_source_id": 406,
+    "lang": "pt",
+    "gid": 314
+  },
+  {
+    "question": "Se $f(x)=\\dfrac{2}{x+1}$, qual é o valor de $f^{-1}\\left(\\frac{1}{5}\\right)$?",
+    "answer": "9",
+    "data_source": "MATH500",
+    "data_source_id": 407,
+    "lang": "pt",
+    "gid": 315
+  },
+  {
+    "question": "Seja $N$ o algarismo das unidades do número $21420N$. Qual valor não nulo de $N$ torna esse número divisível por $6$?",
+    "answer": "6",
+    "data_source": "MATH500",
+    "data_source_id": 410,
+    "lang": "pt",
+    "gid": 316
+  },
+  {
+    "question": "Seis bruxas e dez feiticeiros estão em um encontro arcano. As bruxas decidiram apertar a mão de cada um dos feiticeiros. Nenhuma das bruxas se deu ao trabalho de apertar as mãos umas das outras, já que todas já são boas amigas, e os feiticeiros meio que se odeiam e não apertaram as mãos entre si. Quantos apertos de mão ocorreram no encontro?",
+    "answer": "60",
+    "data_source": "MATH500",
+    "data_source_id": 411,
+    "lang": "pt",
+    "gid": 317
+  },
+  {
+    "question": "Seja $P(x)$ um polinômio quadrático com coeficientes reais que satisfaz $x^2 - 2x + 2 \\le P(x) \\le 2x^2 - 4x + 3$ para todos os números reais $x$, e suponha que $P(11) = 181$. Determine $P(16)$.",
+    "answer": "406",
+    "data_source": "MATH500",
+    "data_source_id": 412,
+    "lang": "pt",
+    "gid": 318
+  },
+  {
+    "question": "Qual é a soma dos valores de $a$ que satisfazem a equação $$(3)5^2-4(5-a)^2 \\div 3=63?$$",
+    "answer": "10",
+    "data_source": "MATH500",
+    "data_source_id": 414,
+    "lang": "pt",
+    "gid": 319
+  },
+  {
+    "question": "Qual é o resto quando $129^{34} + 96^{38}$ é dividido por $11$?",
+    "answer": "9",
+    "data_source": "MATH500",
+    "data_source_id": 415,
+    "lang": "pt",
+    "gid": 320
+  },
+  {
+    "question": "Seja $f(x)$ o polinômio \\[f(x)=3x^4+5x^2-9x-2.\\] Se $g(x)$ é igual ao polinômio $f(x-1)$, qual é a soma dos coeficientes de $g$?",
+    "answer": "-2",
+    "data_source": "MATH500",
+    "data_source_id": 417,
+    "lang": "pt",
+    "gid": 321
+  },
+  {
+    "question": "Se $\\arccos x + \\arccos 2x + \\arccos 3x = \\pi$, então $x$ satisfaz um polinômio cúbico da forma \\[ax^3 + bx^2 + cx + d = 0,\\] onde $a,$ $b,$ $c,$ e $d$ são inteiros e $a \\neq 0.$ Encontre o menor valor possível de $|a| + |b| + |c| + |d|.$",
+    "answer": "27",
+    "data_source": "MATH500",
+    "data_source_id": 421,
+    "lang": "pt",
+    "gid": 322
+  },
+  {
+    "question": "Qual é o maior inteiro menor que $2010$ que tem um resto de $5$ quando dividido por $7$, um resto de $10$ quando dividido por $11$ e um resto de $10$ quando dividido por $13$?",
+    "answer": "1440",
+    "data_source": "MATH500",
+    "data_source_id": 423,
+    "lang": "pt",
+    "gid": 323
+  },
+  {
+    "question": "O valor de $y$ varia inversamente como $\\sqrt x$ e quando $x=24$, $y=15$. Qual é o valor de $x$ quando $y=3$?",
+    "answer": "600",
+    "data_source": "MATH500",
+    "data_source_id": 424,
+    "lang": "pt",
+    "gid": 324
+  },
+  {
+    "question": "Três lápis e uma borracha jumbo custam $\\$1,24$. Cinco lápis e uma borracha jumbo custam $\\$1,82$. Nenhum preço inclui imposto. Em centavos, qual é o custo de um lápis?",
+    "answer": "29",
+    "data_source": "MATH500",
+    "data_source_id": 427,
+    "lang": "pt",
+    "gid": 325
+  },
+  {
+    "question": "Sejam $a,$ $b,$ $c,$ $d$ números reais positivos tais que $a + b + c + d = 1.$ Encontre o valor mínimo de \\[\\frac{1}{a} + \\frac{1}{b} + \\frac{4}{c} + \\frac{16}{d}.\\]",
+    "answer": "64",
+    "data_source": "MATH500",
+    "data_source_id": 428,
+    "lang": "pt",
+    "gid": 326
+  },
+  {
+    "question": "Sejam $a$ e $b$ números reais positivos tais que $ab^2 = 5.$ Encontre o valor mínimo de $a^4 + b^8.$",
+    "answer": "50",
+    "data_source": "MATH500",
+    "data_source_id": 429,
+    "lang": "pt",
+    "gid": 327
+  },
+  {
+    "question": "Se \\[f(n + 1) = (-1)^{n + 1} n - 2f(n)\\]para $n \\ge 1,$ e $f(1) = f(1986),$ calcule \\[f(1) + f(2) + f(3) + \\dots + f(1985).\\]",
+    "answer": "331",
+    "data_source": "MATH500",
+    "data_source_id": 432,
+    "lang": "pt",
+    "gid": 328
+  },
+  {
+    "question": "Em um certo triângulo retângulo isósceles, a altura em relação à hipotenusa tem comprimento $4\\sqrt{2}$. Qual é a área do triângulo?",
+    "answer": "32",
+    "data_source": "MATH500",
+    "data_source_id": 434,
+    "lang": "pt",
+    "gid": 329
+  },
+  {
+    "question": "$n$ dados justos de 6 lados são lançados simultaneamente. A probabilidade de que exatamente dois deles mostrem um número diferente de 1 é $\\frac{25}{216}$. Encontre $n$.",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 436,
+    "lang": "pt",
+    "gid": 330
+  },
+  {
+    "question": "Os símbolos $\\triangle$, $\\square$, $\\diamond$, $\\clubsuit$ representam quatro inteiros diferentes de 1 a 9. Usando as equações abaixo, qual é o valor de $\\square$ ? \\begin{align*} \\triangle + \\square &= \\clubsuit \\\\ \\triangle + \\triangle &= \\diamond +\\diamond + \\diamond + \\diamond + \\diamond \\\\ \\triangle + \\triangle &= \\clubsuit + \\diamond. \\end{align*}",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 437,
+    "lang": "pt",
+    "gid": 331
+  },
+  {
+    "question": "Qual é o último dígito diferente de zero à direita da vírgula na expansão decimal de $\\frac{137}{500}$?",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 438,
+    "lang": "pt",
+    "gid": 332
+  },
+  {
+    "question": "Simplifique $(u+4)(u-1) - (u-3)(u+6)$.",
+    "answer": "14",
+    "data_source": "MATH500",
+    "data_source_id": 440,
+    "lang": "pt",
+    "gid": 333
+  },
+  {
+    "question": "Karla dirigiu seu veículo 12.000 milhas no ano passado. Quantos galões de gasolina ela teria economizado no ano passado se tivesse dirigido um carro híbrido eficiente com média de 48 milhas por galão em vez de um SUV com média de 15 milhas por galão?",
+    "answer": "550",
+    "data_source": "MATH500",
+    "data_source_id": 441,
+    "lang": "pt",
+    "gid": 334
+  },
+  {
+    "question": "Seja $f(x) = 2^x$. Encontre $\\sqrt{f(f(f(f(1))))}.$",
+    "answer": "256",
+    "data_source": "MATH500",
+    "data_source_id": 442,
+    "lang": "pt",
+    "gid": 335
+  },
+  {
+    "question": "Qual é o valor inteiro de $x$ na sequência aritmética $3^2, x, 3^4$?",
+    "answer": "45",
+    "data_source": "MATH500",
+    "data_source_id": 443,
+    "lang": "pt",
+    "gid": 336
+  },
+  {
+    "question": "O círculo $x^2 + y^2 = 2$ e a parábola $y^2 = 8x$ possuem duas tangentes comuns, formando quatro pontos de tangência. Encontre a área do quadrilátero formado pelos quatro pontos de tangência.  [asy] unitsize(0.8 cm);  real upperparab (real x) {   return (sqrt(8*x)); }  real lowerparab (real x) {   return (-sqrt(8*x)); }  pair A, B, C, D;  A = (-1,1); B = (2,4); C = (-1,-1); D = (2,-4);  draw(graph(upperparab,0,3)); draw(graph(lowerparab,0,3)); draw(Circle((0,0),sqrt(2))); draw(interp(A,B,-0.2)--interp(A,B,1.2)); draw(interp(C,D,-0.2)--interp(C,D,1.2)); draw(A--C); draw(B--D);  dot(A); dot(B); dot(C); dot(D); [/asy]",
+    "answer": "15",
+    "data_source": "MATH500",
+    "data_source_id": 445,
+    "lang": "pt",
+    "gid": 337
+  },
+  {
+    "question": "A soma dos primeiros $n$ termos na sequência geométrica infinita $\\left\\{\\frac{1}{4},\\frac{1}{8},\\frac{1}{16},\\dots \\right\\}$ é $\\frac{255}{512}$. Encontre $n$.",
+    "answer": "8",
+    "data_source": "MATH500",
+    "data_source_id": 446,
+    "lang": "pt",
+    "gid": 338
+  },
+  {
+    "question": "Trinta e cinco estudantes participam de uma reunião de um clube de matemática. O número de meninas na reunião é um múltiplo de 13, e há mais meninas do que meninos participando da reunião. Quantos meninos estão presentes na reunião?",
+    "answer": "9",
+    "data_source": "MATH500",
+    "data_source_id": 447,
+    "lang": "pt",
+    "gid": 339
+  },
+  {
+    "question": "Calcule $17^{-1} \\pmod{83}$. Expresse sua resposta como um resíduo de $0$ a $82$, inclusive.  (Você pode achar útil considerar o fato de que $17 \\cdot 5 = 85$.)",
+    "answer": "44",
+    "data_source": "MATH500",
+    "data_source_id": 448,
+    "lang": "pt",
+    "gid": 340
+  },
+  {
+    "question": "Se $a\\star b = 9a+2b-ab+5$, qual é o valor de $5\\star1$?",
+    "answer": "47",
+    "data_source": "MATH500",
+    "data_source_id": 449,
+    "lang": "pt",
+    "gid": 341
+  },
+  {
+    "question": "Qual é a média das duas menores soluções inteiras positivas para a congruência $$14u \\equiv 46 \\pmod{100}~?$$",
+    "answer": "64",
+    "data_source": "MATH500",
+    "data_source_id": 450,
+    "lang": "pt",
+    "gid": 342
+  },
+  {
+    "question": "A soma dos dígitos de um número de dois dígitos é $13$. A diferença entre o número e o número com seus dígitos invertidos é $27$. Qual é a soma do número original e do número com os dígitos invertidos?",
+    "answer": "143",
+    "data_source": "MATH500",
+    "data_source_id": 452,
+    "lang": "pt",
+    "gid": 343
+  },
+  {
+    "question": "As turmas do 7º e 8º anos têm, respectivamente, 520 e 650 alunos matriculados. As duas turmas têm um total de 18 representantes no Conselho Estudantil. Quantos representantes deveria ter o 8º ano para que houvesse uma representação justa das duas turmas?",
+    "answer": "10",
+    "data_source": "MATH500",
+    "data_source_id": 453,
+    "lang": "pt",
+    "gid": 344
+  },
+  {
+    "question": "De quantas maneiras podemos selecionar 5 alunos de um grupo de 6 alunos?",
+    "answer": "6",
+    "data_source": "MATH500",
+    "data_source_id": 455,
+    "lang": "pt",
+    "gid": 345
+  },
+  {
+    "question": "Determine o resto de 54 (mod 6).",
+    "answer": "0",
+    "data_source": "MATH500",
+    "data_source_id": 457,
+    "lang": "pt",
+    "gid": 346
+  },
+  {
+    "question": "A cada semana, entre 30 e 50 alunos aparecem para uma aula de arco e flecha conduzida por Betty e Wilma. Geralmente os alunos se dividem em grupos de tamanho igual para a prática de tiro ao alvo. No entanto, nesta semana, Betty notou que não conseguia dividir os alunos em múltiplos grupos de tamanho igual. Wilma notou que, mesmo que ela e Betty se juntassem aos alunos na prática, ainda assim não conseguiriam dividir os arqueiros em grupos de tamanho igual. Quantos alunos apareceram para a aula de arco e flecha esta semana?",
+    "answer": "41",
+    "data_source": "MATH500",
+    "data_source_id": 458,
+    "lang": "pt",
+    "gid": 347
+  },
+  {
+    "question": "Considere \\[f(n) = \\left\\{ \\begin{array}{cl} \\lfloor n \\rfloor & \\text{ se }n \\geq 4, \\\\ \\lceil n \\rceil & \\text{ se } n < 4. \\end{array} \\right.\\]Encontre $f\\left(\\frac{\\pi}{3}\\right) + f(\\sqrt{45}) + f(8^{2/3})$.",
+    "answer": "12",
+    "data_source": "MATH500",
+    "data_source_id": 461,
+    "lang": "pt",
+    "gid": 348
+  },
+  {
+    "question": "Linda, Sherry, June e Connie andaram pelos seus bairros vendendo biscoitos de escoteiras. Linda ganhou $\\$27,47$, Sherry ganhou $\\$35,23$, June ganhou $\\$37,37$ e Connie ganhou $\\$26,52$. Após a venda, elas juntaram o dinheiro e foram ao banco para converter as moedas em cédulas. Quanto dinheiro, em centavos, sobrou depois que elas converteram tantas moedas em cédulas quanto possível?",
+    "answer": "59",
+    "data_source": "MATH500",
+    "data_source_id": 462,
+    "lang": "pt",
+    "gid": 349
+  },
+  {
+    "question": "Para quantos valores de $x$ a expressão $\\frac{x-5}{x^2-9}$ não é definida?",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 463,
+    "lang": "pt",
+    "gid": 350
+  },
+  {
+    "question": "Se $\\log_6 (x-y) + \\log_6 (x+y) = 2$ e $\\log_y 5x = 2$, então encontre $x$.",
+    "answer": "9",
+    "data_source": "MATH500",
+    "data_source_id": 464,
+    "lang": "pt",
+    "gid": 351
+  },
+  {
+    "question": "Quando os números inteiros positivos com exatamente três divisores positivos são listados em ordem ascendente, qual é o quinto número listado?",
+    "answer": "121",
+    "data_source": "MATH500",
+    "data_source_id": 465,
+    "lang": "pt",
+    "gid": 352
+  },
+  {
+    "question": "A raiz quadrada de $t$ é maior que $2$ e menor que $3.5$. Quantos valores inteiros de $t$ satisfazem essa condição?",
+    "answer": "8",
+    "data_source": "MATH500",
+    "data_source_id": 468,
+    "lang": "pt",
+    "gid": 353
+  },
+  {
+    "question": "Avalie $\\lceil{\\sqrt{20}}\\rceil^2$.",
+    "answer": "25",
+    "data_source": "MATH500",
+    "data_source_id": 469,
+    "lang": "pt",
+    "gid": 354
+  },
+  {
+    "question": "Sejam $a,$ $b,$ $c,$ e $d$ números reais positivos tal que $a + b + c + d = 10.$ Encontre o valor máximo de $ab^2 c^3 d^4.$",
+    "answer": "27648",
+    "data_source": "MATH500",
+    "data_source_id": 470,
+    "lang": "pt",
+    "gid": 355
+  },
+  {
+    "question": "Uma turma de 30 alunos fez recentemente uma prova. Se 20 alunos tiraram 80, 8 alunos tiraram 90 e 2 alunos tiraram 100, qual foi a média da turma (a média aritmética) nesta prova?",
+    "answer": "84",
+    "data_source": "MATH500",
+    "data_source_id": 471,
+    "lang": "pt",
+    "gid": 356
+  },
+  {
+    "question": "Abaixo está um quadrado mágico, o que significa que a soma dos números em cada linha, em cada coluna e em cada uma das $2$ diagonais principais é igual. Qual é o valor de $n$?  [asy]size(125); for(int i = 0; i<4; ++i) {  draw((0,i)--(3,i),linewidth(1)); }  for(int j = 0; j<4; ++j) {  draw((j,0)--(j,3),linewidth(1)); }  label(\"$n-3$\",(.5,.5)); label(\"3\",(.5,1.5)); label(\"$n+1$\",(.5,2.5));  label(\"$n+2$\",(1.5,.5)); label(\"$2n-9$\",(1.5,1.5)); label(\"$1$\",(1.5,2.5));  label(\"$2$\",(2.5,.5)); label(\"$n$\",(2.5,1.5)); label(\"$n-1$\",(2.5,2.5)); [/asy]",
+    "answer": "7",
+    "data_source": "MATH500",
+    "data_source_id": 473,
+    "lang": "pt",
+    "gid": 357
+  },
+  {
+    "question": "Encontre o valor de $\\log_2{3} \\cdot \\log_3{4} \\cdot \\log_4{5} \\cdot \\log_5{6} \\cdot \\log_6{7} \\cdot \\log_7{8}$.",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 474,
+    "lang": "pt",
+    "gid": 358
+  },
+  {
+    "question": "Ao lançar um certo dado de seis lados desonesto com faces numeradas de 1, 2, 3, 4, 5 e 6, a probabilidade de obter a face $F$ é maior que $1/6$, a probabilidade de obter a face oposta à face $F$ é menor que $1/6$, a probabilidade de obter cada uma das outras faces é $1/6$ e a soma dos números em cada par de faces opostas é 7. Quando dois desses dados são lançados, a probabilidade de obter uma soma de 7 é $\\frac{47}{288}$. Dado que a probabilidade de obter a face $F$ é $m/n$, onde $m$ e $n$ são inteiros positivos primos entre si, encontre $m+n$.",
+    "answer": "29",
+    "data_source": "MATH500",
+    "data_source_id": 475,
+    "lang": "pt",
+    "gid": 359
+  },
+  {
+    "question": "Jim e Martha estão juntos no canto de um campo retangular. Jim caminha na diagonal do campo. Martha chega no mesmo local caminhando ao longo da largura e comprimento do campo. O campo tem 300 pés de largura e 400 pés de comprimento. Quantos pés Jim caminha a menos do que Martha?",
+    "answer": "200",
+    "data_source": "MATH500",
+    "data_source_id": 476,
+    "lang": "pt",
+    "gid": 360
+  },
+  {
+    "question": "O número de dois dígitos $\"B6\"$, onde $B$ é o dígito das dezenas, é o quadrado de um número inteiro positivo. Quantos valores possíveis distintos existem para $B$?",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 477,
+    "lang": "pt",
+    "gid": 361
+  },
+  {
+    "question": "Existem finitamente muitos primos $p$ para os quais a congruência $$8x\\equiv 1\\pmod{p}$$ não tem soluções $x$. Determine a soma de todos esses $p$.",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 479,
+    "lang": "pt",
+    "gid": 362
+  },
+  {
+    "question": "Seja $\\omega$ um número complexo tal que $\\omega^3 = 1.$ Encontre todos os possíveis valores de \\[\\frac{1}{1 + \\omega} + \\frac{1}{1 + \\omega^2}.\\]Insira todos os valores possíveis, separados por vírgulas.",
+    "answer": "1",
+    "data_source": "MATH500",
+    "data_source_id": 480,
+    "lang": "pt",
+    "gid": 363
+  },
+  {
+    "question": "Se $\\frac{a}{b}$ é a probabilidade de que o recíproco de um número ímpar positivo escolhido aleatoriamente menor que 2010 dê um decimal terminado, com $a$ e $b$ sendo números inteiros positivos relativamente primos, qual é $a+b$?",
+    "answer": "202",
+    "data_source": "MATH500",
+    "data_source_id": 482,
+    "lang": "pt",
+    "gid": 364
+  },
+  {
+    "question": "Resolva \\[\\sqrt{x + \\sqrt{3x + 6}} + \\sqrt{x - \\sqrt{3x + 6}} = 6.\\]",
+    "answer": "10",
+    "data_source": "MATH500",
+    "data_source_id": 484,
+    "lang": "pt",
+    "gid": 365
+  },
+  {
+    "question": "Qual é a menor distância que pode ser percorrida se você começar em qualquer ponto, $A$, $B$, $C$ ou $D$, e visitar os outros três pontos uma vez? [asy] pair A,B,C, D; A = (-3,3); B = (3,0); C = (0, -4); D = (0,0); draw(D--B--C--cycle); draw(D--A--B--cycle);draw(D--A--C--cycle); label(\"$A$\", A, NW);label(\"$B$\", B, E); label(\"$C$\", C, S);label(\"$D$\", D, NE); label(\"3\", D--B, S); label(\"6\", A--B, NE); label(\"6\", A--C, SW); label(\"4\", D--C, NW+N); label(\"5\", A--D, SE+NE); label(\"5\", C--B, E); [/asy]",
+    "answer": "13",
+    "data_source": "MATH500",
+    "data_source_id": 485,
+    "lang": "pt",
+    "gid": 366
+  },
+  {
+    "question": "Uma esfera de aço com um raio de 3 polegadas é feita removendo-se metal dos cantos de um cubo que tem os menores comprimentos de lado possíveis. Quantas polegadas cúbicas há no volume do cubo?",
+    "answer": "216",
+    "data_source": "MATH500",
+    "data_source_id": 486,
+    "lang": "pt",
+    "gid": 367
+  },
+  {
+    "question": "Determine o resto da seguinte soma no módulo 4: $$ 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12. $$",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 487,
+    "lang": "pt",
+    "gid": 368
+  },
+  {
+    "question": "Seja $f(x)=|x-p|+|x-15|+|x-p-15|$, onde $0 < p < 15$. Determine o valor mínimo assumido por $f(x)$ para $x$ no intervalo $p \\leq x \\leq 15$.",
+    "answer": "15",
+    "data_source": "MATH500",
+    "data_source_id": 489,
+    "lang": "pt",
+    "gid": 369
+  },
+  {
+    "question": "Suponha que o polinômio $$f(x) = a_nx^n + a_{n-1}x^{n-1} + \\cdots + a_2x^2 + a_1x + a_0$$ tenha coeficientes inteiros, e suas raízes sejam inteiros distintos.  Dado que $a_n=2$ e $a_0=66$, qual é o menor valor possível de $|a_{n-1}|$?",
+    "answer": "14",
+    "data_source": "MATH500",
+    "data_source_id": 490,
+    "lang": "pt",
+    "gid": 370
+  },
+  {
+    "question": "Tom ganhou um Sr. Cabeça de Batata de aniversário. Veio com 3 estilos de cabelo, 2 conjuntos de sobrancelhas, 1 par de olhos esbugalhados, 2 conjuntos de orelhas e 2 conjuntos de lábios, um par de sapatos normais e um par de sapatos de palhaço de bônus. Se uma personalidade completa do Sr. Cabeça de Batata inclui sobrancelhas, olhos, orelhas, lábios, sapatos e opcionalmente cabelo, quantas diferentes personalidades malucas Tom pode criar? Observe que o Sr. Cabeça de Batata pode ser careca.  Observação: Você não pode \"misturar e combinar\". Por exemplo, você não pode pegar a sobrancelha esquerda de um par e a sobrancelha direita do outro par.",
+    "answer": "64",
+    "data_source": "MATH500",
+    "data_source_id": 491,
+    "lang": "pt",
+    "gid": 371
+  },
+  {
+    "question": "O número $(\\sqrt{2}+\\sqrt{3})^3$ pode ser escrito na forma $a\\sqrt{2} + b\\sqrt{3} + c\\sqrt{6}$, onde $a$, $b$ e $c$ são inteiros. Qual é o valor de $a+b+c$?",
+    "answer": "20",
+    "data_source": "MATH500",
+    "data_source_id": 493,
+    "lang": "pt",
+    "gid": 372
+  },
+  {
+    "question": "Uma sequência $(a_n)$ é definida da seguinte forma: \\[a_{i + 1} = \\frac{1}{1 - a_i}\\] para $i \\ge 1.$ Se $a_3 = a_1,$ calcule $(a_9)^9.$",
+    "answer": "-1",
+    "data_source": "MATH500",
+    "data_source_id": 498,
+    "lang": "pt",
+    "gid": 373
+  }
+]

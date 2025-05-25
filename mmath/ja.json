@@ -1,0 +1,2994 @@
+[
+  {
+    "question": "アヤは毎朝$9$キロメートルの散歩に出かけ、その後コーヒーショップに立ち寄ります。時速$s$キロメートルの一定速度で歩くと、コーヒーショップでの滞在時間$t$分を含めて4時間かかります。時速$s+2$キロメートルで歩くと、コーヒーショップでの滞在時間$t$分を含めて2時間24分かかります。アヤが時速$s+\\frac{1}{2}$キロメートルで歩くと仮定します。喫茶店での滞在時間$t$分を含め、散歩にかかる時間（分）を求めなさい。",
+    "answer": "204",
+    "data_source": "aime2024",
+    "data_source_id": 0,
+    "lang": "ja",
+    "gid": 0
+  },
+  {
+    "question": "三角形$ABC$が円$\\omega$に内接しているとき、$\\omega$において点$B$と点$C$に接する接線が点$D$で交わるとします。$\\overline{AD}$が$\\omega$と交わる点を$P$としましょう。$AB=5$、$BC=9$、$AC=10$の場合、$AP$は互いに素な整数$m$と$n$を用いて$\\frac{m}{n}$の形で表すことができます。$m + n$を求めなさい。",
+    "answer": "113",
+    "data_source": "aime2024",
+    "data_source_id": 1,
+    "lang": "ja",
+    "gid": 1
+  },
+  {
+    "question": "正八角形の各頂点は、赤と青の色が等しい確率で独立して塗られます。青い頂点が全てもともと赤かった位置に終わるように正八角形を回転させることができる確率は$\\tfrac{m}{n}$です。ここで、$m$と$n$は相互に素な正の整数です。$m+n$を求めなさい。",
+    "answer": "371",
+    "data_source": "aime2024",
+    "data_source_id": 2,
+    "lang": "ja",
+    "gid": 2
+  },
+  {
+    "question": "関数 $f(x)=|| x|-\\tfrac{1}{2}|$ と $g(x)=|| x|-\\tfrac{1}{4}|$ を定義する。グラフ \\[y=4 g(f(\\sin (2 \\pi x))) \\quad\\text{及び}\\quad x=4 g(f(\\cos (3 \\pi y)))\\] の交点の数を求めなさい。",
+    "answer": "385",
+    "data_source": "aime2024",
+    "data_source_id": 3,
+    "lang": "ja",
+    "gid": 3
+  },
+  {
+    "question": "$p$を最小の素数とし、$n^{4}+1$が$p^{2}$で割り切れる正の整数$n$が存在するとします。$m^{4}+1$が$p^{2}$で割り切れる最小の正の整数$m$を求めなさい。",
+    "answer": "110",
+    "data_source": "aime2024",
+    "data_source_id": 4,
+    "lang": "ja",
+    "gid": 4
+  },
+  {
+    "question": "次のような四面体 $ABCD$ があるとします。$AB=CD=\\sqrt{41}$、$AC=BD=\\sqrt{80}$、そして $BC=AD=\\sqrt{89}$ 。四面体の内部には点 $I$ が存在し、それぞれの面から $I$ までの距離はすべて等しくなります。この距離は $\\frac{m \\sqrt n}{p}$ の形式で書くことができ、ここで $m$、$n$、および $p$ は正の整数、$m$ と $p$ は互いに素であり、$n$ はどの素数の二乗でも割り切れません。$m+n+p$ を求めなさい。",
+    "answer": "104",
+    "data_source": "aime2024",
+    "data_source_id": 5,
+    "lang": "ja",
+    "gid": 5
+  },
+  {
+    "question": "表面積が$54$で体積が$23$の長方形の箱の集合を$\\mathcal{B}$とします。$\\mathcal{B}$の要素である長方形の箱それぞれを含むことができる最小の球の半径を$r$とします。$r^2$の値は$\\frac{p}{q}$と書くことができます。ここで$p$と$q$は互いに素な正の整数です。$p+q$を求めなさい。",
+    "answer": "721",
+    "data_source": "aime2024",
+    "data_source_id": 6,
+    "lang": "ja",
+    "gid": 6
+  },
+  {
+    "question": "$x$ と $y$ がともに 1 より大きい実数であるとして、$\\log_x\\left(y^x\\right)=\\log_y\\left(x^{4y}\\right)=10$ を満たすとき、$xy$ の値を求めなさい。",
+    "answer": "25",
+    "data_source": "aime2024",
+    "data_source_id": 7,
+    "lang": "ja",
+    "gid": 7
+  },
+  {
+    "question": "アリスとボブは次のようなゲームをします。彼らの前には$n$枚のトークンの山があります。プレイヤーは交互にターンを行い、アリスが先に行きます。各ターンで、プレイヤーは山から$1$枚または$4枚のトークンを取り除きます。最後のトークンを取り除いたプレイヤーが勝ちます。アリスのプレイに関係なくボブがゲームに勝つことを保証する戦略が存在するような正の整数$n$の数を$2024$以下で見つけてください。",
+    "answer": "809",
+    "data_source": "aime2024",
+    "data_source_id": 8,
+    "lang": "ja",
+    "gid": 8
+  },
+  {
+    "question": "ジェンは$S=\\{1,2,3,\\cdots,9,10\\}$から$4$つの異なる数字を選んで宝くじに参加します。$S$からランダムに$4$つの数字が選ばれます。彼女が選んだ数字のうち少なくとも$2$つがランダムに選ばれた$4$つの数字に含まれていた場合、彼女は賞を獲得し、彼女が選んだ$4$つの数字すべてがランダムに選ばれた数字だった場合、彼女は大賞を獲得します。賞を獲得したことが分かっている状態で、彼女が大賞を獲得する確率は$\\tfrac{m}{n}$です。ここで、$m$と$n$は互いに素な正整数です。$m+n$を求めなさい。",
+    "answer": "116",
+    "data_source": "aime2024",
+    "data_source_id": 9,
+    "lang": "ja",
+    "gid": 9
+  },
+  {
+    "question": "長方形$ABCD$と$EFGH$は、$D,E,C,F$が同一直線上にあるように描かれています。また、$A,D,H,G$はすべて円周上にあります。$BC=16$、$AB=107$、$FG=17$、$EF=184$のとき、$CE$の長さはいくらですか？",
+    "answer": "104",
+    "data_source": "aime2024",
+    "data_source_id": 10,
+    "lang": "ja",
+    "gid": 10
+  },
+  {
+    "question": "$8\\times 8$ のグリッド上で、左下の隅から右上の隅へ線に沿って長さ $16$ の経路を考えます。下に示す例のように、ちょうど 4 回方向が変わるような経路の数を求めなさい。",
+    "answer": "294",
+    "data_source": "aime2024",
+    "data_source_id": 11,
+    "lang": "ja",
+    "gid": 11
+  },
+  {
+    "question": "複素数$z$が$|z|=4$を満たすとき、\\[(75+117i)z+\\frac{96+144i}{z}\\]の実部の最大値を求めなさい。",
+    "answer": "540",
+    "data_source": "aime2024",
+    "data_source_id": 12,
+    "lang": "ja",
+    "gid": 12
+  },
+  {
+    "question": "半径$34$の円8個が順に接しており、そのうち2個はそれぞれ三角形$ABC$の$AB$と$BC$に接しています。半径$1$の円$2024$個も同様に並べることができます。三角形$ABC$の内接円の半径は$\\frac{m}{n}$で表されます。ここで、$m$と$n$は互いに素な正の整数です。$m+n$を求めなさい。",
+    "answer": "197",
+    "data_source": "aime2024",
+    "data_source_id": 13,
+    "lang": "ja",
+    "gid": 13
+  },
+  {
+    "question": "$A$、$B$、$C$、$D$を双曲線$\\frac{x^2}{20}- \\frac{y^2}{24} = 1$上の点とし、$ABCD$は対角線が原点で交わる菱形とします。このようなすべての菱形について、$BD^2$より小さい最大の実数を求めなさい。",
+    "answer": "480",
+    "data_source": "aime2024",
+    "data_source_id": 14,
+    "lang": "ja",
+    "gid": 14
+  },
+  {
+    "question": "エメヴィルの住民900人のうち、ダイヤモンドの指輪を持っている人は195人、ゴルフクラブセットを持っている人は367人、園芸用のスコップを持っている人は562人います。さらに、900人の住民はそれぞれハート型のキャンディーが入った袋を1つ持っています。これらのものをちょうど2つ持っている住民は437人、3つ持っている住民は234人です。エメヴィルの住民のうち、これら4つすべてを所有している人の数を求めなさい。",
+    "answer": "73",
+    "data_source": "aime2024",
+    "data_source_id": 15,
+    "lang": "ja",
+    "gid": 15
+  },
+  {
+    "question": "三角形$\\triangle ABC$が外心$O$と内心$I$を持つとし、$\\overline{IA}\\perp\\overline{OI}$、外接円の半径が$13$、内接円の半径が$6$であるとします。$AB\\cdot AC$を求めなさい。",
+    "answer": "468",
+    "data_source": "aime2024",
+    "data_source_id": 16,
+    "lang": "ja",
+    "gid": 16
+  },
+  {
+    "question": "非負の整数の組 \\((a,b,c)\\) で \\(a + b + c = 300\\) を満たし、かつ \\begin{equation*} a^2b + a^2c + b^2a + b^2c + c^2a + c^2b = 6,000,000 \\end{equation*} を満たす組の数を求めなさい。",
+    "answer": "601",
+    "data_source": "aime2024",
+    "data_source_id": 17,
+    "lang": "ja",
+    "gid": 17
+  },
+  {
+    "question": "次の条件を満たす座標平面上の点\\( O=(0,0)\\)、\\( A=\\left(\\tfrac{1}{2},0\\right)\\)、\\( B=\\left(0,\\tfrac{\\sqrt{3}}{2}\\right)\\) を考えます。1辺の長さが1の線分 \\( \\overline{PQ}\\) を含む家族 \\( \\mathcal{F}\\) は、第1象限にあり、\\( P\\) は \\( x\\)-軸上に、\\( Q\\) は \\( y\\)-軸上にあります。\\( \\overline{AB}\\) 上には、\\( A\\) と \\( B\\) から異なる一意の点 \\( C\\)があり、これは \\( \\mathcal{F}\\) のどの線分にも属していません。ただし \\( \\overline{AB}\\) を除きます。次に \\( OC^2=\\tfrac{p}{q}\\) となりますが、ここで \\( p\\) と \\( q\\) は互いに素な正の整数です。\\( p+q\\) を求めなさい。",
+    "answer": "23",
+    "data_source": "aime2024",
+    "data_source_id": 18,
+    "lang": "ja",
+    "gid": 18
+  },
+  {
+    "question": "$\\omega\\neq 1$ を1の13乗根とします。次の式 \\[\\prod_{k=0}^{12}(2-2\\omega^k+\\omega^{2k})\\] を1000で割った余りを求めなさい。",
+    "answer": "321",
+    "data_source": "aime2024",
+    "data_source_id": 19,
+    "lang": "ja",
+    "gid": 19
+  },
+  {
+    "question": "\\(b\\ge 2\\) を整数とします。正の整数 \\(n\\) が \\(b\\) を基数として表したときにちょうど2桁の数字を持ち、その2桁の数字の合計が \\(\\sqrt n\\) となるとき、その整数を \\(b\\text-\\textit{eautiful}\\) と呼びます。例えば、\\(81\\) は \\(81 = \\underline{6} \\ \\underline{3}_{13} \\) であり、\\(6 + 3 = \\sqrt{81}\\) であるため、\\(13\\text-\\textit{eautiful}\\) です。10 個を超える \\(b\\text-\\textit{eautiful}\\) 整数が存在する最小の整数 \\(b\\ge 2\\) を求めなさい。",
+    "answer": "211",
+    "data_source": "aime2024",
+    "data_source_id": 20,
+    "lang": "ja",
+    "gid": 20
+  },
+  {
+    "question": "固定された正十二角形（$12$-gon）の内部に形成できる長方形の数を求めなさい。長方形の各辺は、正十二角形の辺または対角線上に位置します。下の図は、そのような長方形を3つ示しています。[asy] unitsize(0.6 inch); for(int i=0; i<360; i+=30) { dot(dir(i), 4+black); draw(dir(i)--dir(i+30)); } draw(dir(120)--dir(330)); filldraw(dir(210)--dir(240)--dir(30)--dir(60)--cycle, mediumgray, linewidth(1.5)); draw((0,0.366)--(0.366,0), linewidth(1.5)); [/asy]",
+    "answer": "315",
+    "data_source": "aime2024",
+    "data_source_id": 21,
+    "lang": "ja",
+    "gid": 21
+  },
+  {
+    "question": "以下の性質を持つ正の整数のリストがあります：$\\bullet$ リスト内の項目の合計は$30$です。$\\bullet$ リストの唯一の最頻値は$9$です。$\\bullet$ リストの中央値はリスト自体には現れない正の整数です。リスト内の全項目の平方和を求めなさい。",
+    "answer": "236",
+    "data_source": "aime2024",
+    "data_source_id": 22,
+    "lang": "ja",
+    "gid": 22
+  },
+  {
+    "question": "2x3グリッドの各セルに数字を入れる方法の数を求めてください。条件としては、左から右へ読んだときの2つの数の合計が$999$、上から下へ読んだときの3つの数の合計が$99$であることです。以下のグリッドは、$8+991=999$ および $9+9+81=99$ であるため、該当する配置の一例です。 \\[\\begin{array}{|c|c|c|} \\hline 0 & 0 & 8 \\\\ \\hline 9 & 9 & 1 \\\\ \\hline \\end{array}\\]",
+    "answer": "45",
+    "data_source": "aime2024",
+    "data_source_id": 23,
+    "lang": "ja",
+    "gid": 23
+  },
+  {
+    "question": "$x,y$、$z$を次の連立方程式を満たす正の実数とします: \\[\\log_2\\left({x \\over yz}\\right) = {1 \\over 2}\\]\\[\\log_2\\left({y \\over xz}\\right) = {1 \\over 3}\\]\\[\\log_2\\left({z \\over xy}\\right) = {1 \\over 4}\\] このとき、$\\left|\\log_2(x^4y^3z^2)\\right|$の値は$\\tfrac{m}{n}$です。ここで、$m$と$n$は互いに素な正の整数です。$m+n$を求めなさい。",
+    "answer": "33",
+    "data_source": "aime2024",
+    "data_source_id": 24,
+    "lang": "ja",
+    "gid": 24
+  },
+  {
+    "question": "ABCDEFを、すべての対辺が平行な凸正六角形とします。辺AB、CD、EFの延長線が成す三角形の辺の長さが 200, 240, 300 である場合、六角形の辺の長さを求めなさい。",
+    "answer": "80",
+    "data_source": "aime2024",
+    "data_source_id": 25,
+    "lang": "ja",
+    "gid": 25
+  },
+  {
+    "question": "アリスは正の整数の集合$A$を選びます。その後、ボブは$B$の最大要素が$A$に属するべての有限で非空の正の整数の集合$B$を列挙します。ボブのリストには2024個の集合があります。集合$A$の要素の和を求めなさい。",
+    "answer": "55",
+    "data_source": "aime2024",
+    "data_source_id": 26,
+    "lang": "ja",
+    "gid": 26
+  },
+  {
+    "question": "$N$を、そのいずれかの桁を$1$に置き換えると、その数が$7$で割り切れるという性質を持つ、4桁の正の整数のうち最大のものとし、$N$を$1000$で割ったときの商と余りをそれぞれ$Q$と$R$とします。$Q+R$を求めなさい。",
+    "answer": "699",
+    "data_source": "aime2024",
+    "data_source_id": 27,
+    "lang": "ja",
+    "gid": 27
+  },
+  {
+    "question": "トーラス $T$ は、半径 $3$ の円がその円の平面内にある軸の周りを回転して生じる表面ですが、その軸は円の中心から距離 $6$ の位置にあります（ドーナツのように）。球 $S$ は半径が $11$ の球です。トーラス $T$ が球 $S$ の内側に接するとき、半径 $r_i$ の円に沿って外接し、トーラス $T$ が球 $S$ の外側に接するとき、半径 $r_o$ の円に沿って外接します。差 $r_i-r_o$ は $\\tfrac{m}{n}$ として表すことができますが、ここで $m$ と $n$ は互いに素な正の整数です。$m+n$ を求めてください。 [asy] unitsize(0.3 inch); draw(ellipse((0,0), 3, 1.75)); draw((-1.2,0.1)..(-0.8,-0.03)..(-0.4,-0.11)..(0,-0.15)..(0.4,-0.11)..(0.8,-0.03)..(1.2,0.1)); draw((-1,0.04)..(-0.5,0.12)..(0,0.16)..(0.5,0.12)..(1,0.04)); draw((0,2.4)--(0,-0.15)); draw((0,-0.15)--(0,-1.75), dashed); draw((0,-1.75)--(0,-2.25)); draw(ellipse((2,0), 1, 0.9)); draw((2.03,-0.02)--(2.9,-0.4)); [/asy]",
+    "answer": "127",
+    "data_source": "aime2024",
+    "data_source_id": 28,
+    "lang": "ja",
+    "gid": 28
+  },
+  {
+    "question": "区別できない白いチップが25個、黒いチップが25個あります。これらのチップを、5×5のグリッドの25個の単位セルに配置する方法の数を求めてください。ただし、各セルには最大で1個のチップしか含まれません。同じ行と列にあるすべてのチップは同じ色です。グリッドにチップを追加すると、前述の2つの条件の1つ以上に違反します。",
+    "answer": "902",
+    "data_source": "aime2024",
+    "data_source_id": 29,
+    "lang": "ja",
+    "gid": 29
+  },
+  {
+    "question": "すべての整数基数 $b>9$ のうち、$17_{b}$ が $97_{b}$ の約数となるものの和を求めなさい。",
+    "answer": "70",
+    "data_source": "aime2025",
+    "data_source_id": 0,
+    "lang": "ja",
+    "gid": 30
+  },
+  {
+    "question": "$\\triangle ABC$上に点 $A,D,E,B$がその順で辺 $\\overline{AB}$ 上に存在し、$AD=4, DE=16, EB=8$です。点$A,F,G,C$がその順で辺$\\overline{AC}$上に存在し、$AF=13, FG=52, GC=26$です。$D$から$F$を貫く鏡映を$M$とし、$G$から$E$を貫く鏡映を$N$とします。四角形$DEGF$の面積は288です。七角形$AFNBCEM$の面積を求めなさい。",
+    "answer": "588",
+    "data_source": "aime2025",
+    "data_source_id": 1,
+    "lang": "ja",
+    "gid": 31
+  },
+  {
+    "question": "野球チームの9人のメンバーが試合後にアイスクリームパーラーに行きました。各選手はチョコレート、バニラ、ストロベリーのアイスクリームを1スクープずつ食べました。各フレーバーは少なくとも1人の選手が選び、チョコレートを選んだ選手の数はバニラを選んだ選手の数より多く、バニラを選んだ選手の数はストロベリーを選んだ選手の数よりも多かったです。これらの条件に合う選手へのフレーバーの割り当て方の数を$N$とすると、$N$を1000で割った余りを求めなさい。",
+    "answer": "16",
+    "data_source": "aime2025",
+    "data_source_id": 2,
+    "lang": "ja",
+    "gid": 32
+  },
+  {
+    "question": "整数$x$、$y$について、$-100 \\leq x \\leq 100$かつ$-100 \\leq y \\leq 100$を満たしながら、$12x^{2} - xy - 6y^{2} = 0$となるような順序対$(x,y)$の数を求めよ。",
+    "answer": "117",
+    "data_source": "aime2025",
+    "data_source_id": 3,
+    "lang": "ja",
+    "gid": 33
+  },
+  {
+    "question": "8桁の正の整数のうち、$1,2,3,4,5,6,7,8$の数字をそれぞれ1回ずつ使うものは$8!=40320$個あります。これらの整数のうち22で割り切れる数を$N$とします。$N$と2025の差を求めなさい。",
+    "answer": "279",
+    "data_source": "aime2025",
+    "data_source_id": 4,
+    "lang": "ja",
+    "gid": 34
+  },
+  {
+    "question": "等脚台形には、それぞれの4つの辺に接する内接円があります。その円の半径は3で、台形の面積は72です。台形の平行な辺の長さを$r$および$s$とし、$r \\neq s$とします。$r^{2}+s^{2}$を求めてください。",
+    "answer": "504",
+    "data_source": "aime2025",
+    "data_source_id": 5,
+    "lang": "ja",
+    "gid": 35
+  },
+  {
+    "question": "12個の文字 $A, B, C, D, E, F, G, H, I, J, K, L$ がランダムに6組のペアにグループ化されます。各ペアの2文字はアルファベット順に隣り合わせに配置され、6つの二文字の単語を形成し、それら6つの単語はアルファベット順にリストされます。例えば、可能な結果は $AB, CJ, DG, EK, FL, HI$ です。リストされた最後の単語に $G$ が含まれる確率は $\\frac{m}{n}$ であり、ここで $m$ と $n$ は互いに素な正の整数です。$m+n$ を求めなさい。",
+    "answer": "821",
+    "data_source": "aime2025",
+    "data_source_id": 6,
+    "lang": "ja",
+    "gid": 36
+  },
+  {
+    "question": "$k$を実数とし、系$|25+20i-z|=5$かつ$|z-4-k|=|z-3i-k|$にちょうど1つの複素解$z$が存在するものとします。$k$のすべての可能な値の合計は$\\frac{m}{n}$と表すことができます。ここで、$m$と$n$は互いに素な正の整数です。$m+n$を求めなさい。ここで$i=\\sqrt{-1}$です。",
+    "answer": "77",
+    "data_source": "aime2025",
+    "data_source_id": 7,
+    "lang": "ja",
+    "gid": 37
+  },
+  {
+    "question": "方程式$y = x^{2}-4$を満たす放物線が原点を中心に$60^{\\circ}$反時計回りに回転します。元の放物線とその像が交差する第四象限の一意の点の$y$座標は$\\frac{a-\\sqrt{b}}{c}$、ここで$a$、$b$、$c$は正の整数で、$a$と$c$は互いに素です。$a+b+c$を求めてください。",
+    "answer": "62",
+    "data_source": "aime2025",
+    "data_source_id": 8,
+    "lang": "ja",
+    "gid": 38
+  },
+  {
+    "question": "下記の例で示すような、$3\\times9$のグリッドの27セルが、1から9までの数で埋められています。それぞれの行には9つの異なる数が含まれており、3つの$3\\times3$のブロック（下記の例で強調表示されている）がそれぞれ9つの異なる数を含んでいます。これは、数独パズルの最初の3行と同様です。  | 4 | 2 | 8 | 9 | 6 | 3 | 1 | 7 | 5 |   | 3 | 7 | 9 | 5 | 2 | 1 | 6 | 8 | 4 |   | 5 | 6 | 1 | 8 | 4 | 7 | 9 | 2 | 3 |  このようなグリッドを構成する異なる方法の数を$p^a\\cdot q^b\\cdot r^c\\cdot s^d$と表すことができます。ここで、$p,q,r,s$は異なる素数であり、$a,b,c,d$は正の整数です。$p\\cdot a+q\\cdot b+r\\cdot c+s\\cdot d$を求めてください。",
+    "answer": "81",
+    "data_source": "aime2025",
+    "data_source_id": 9,
+    "lang": "ja",
+    "gid": 39
+  },
+  {
+    "question": "分岐型線形周期関数は、$f(x)=\\begin{cases}x&\\text{if }x\\in[-1,1)\\\\2-x&\\text{if }x\\in[1,3)\\end{cases}$ およびすべての実数 $x$ に対して $f(x+4)=f(x)$ により定義されます。$f(x)$ のグラフはノコギリ波型をしています。放物線 $x=34y^2$ は $f(x)$ のグラフと有限個の点で交わります。これら交点の $y$ 座標の合計は $\\frac{a+b\\sqrt{c}}{d}$ の形で表されます。ここで $a,b,c,d$ は正の整数で、$a,b$ と $d$ の最大公約数は1であり、$c$ はどの素数の二乗でも割り切れません。$a+b+c+d$ を求めなさい。",
+    "answer": "259",
+    "data_source": "aime2025",
+    "data_source_id": 10,
+    "lang": "ja",
+    "gid": 40
+  },
+  {
+    "question": "３次元座標空間において、平面 $x+y+z=75$ 上にあり、不等式 $x-yz<y-zx<z-xy$ を満たす点の集合は、三つの互いに素な凸領域を形成します。その領域の中で、面積が有限のものが正確に一つ存在します。この有限な領域の面積は $a\\sqrt{b}$ の形で表すことができ、ここで $a$ と $b$ は正の整数であり、$b$ はどの素数の平方でも割り切れません。$a+b$ を求めなさい。",
+    "answer": "510",
+    "data_source": "aime2025",
+    "data_source_id": 11,
+    "lang": "ja",
+    "gid": 41
+  },
+  {
+    "question": "アレックスはディスクを中心で交わる2つの垂直な直径によって4つの象限に分けます。彼はディスク上にさらに25本の線分を引き、それぞれの線分はディスクの周囲にある異なる象限のランダムな2点を選んで接続して描きます。これら27本の線分がディスクを分ける領域の期待値を求めなさい。",
+    "answer": "204",
+    "data_source": "aime2025",
+    "data_source_id": 12,
+    "lang": "ja",
+    "gid": 42
+  },
+  {
+    "question": "凸五角形$ABCDE$で、辺$AB=14, BC=7, CD=24, DE=13, EA=26$、そして角$\\angle B=\\angle E=60^\\circ$であるとします。平面上の各点$X$に対して、関数$f(X)=AX+BX+CX+DX+EX$を定義します。$f(X)$の最小の可能な値は$m+n\\sqrt{p}$と表せます。ここで、$m$ と $n$ は正の整数で、$p$ は素数の平方で割り切れない整数です。$m+n+p$を求めなさい。",
+    "answer": "60",
+    "data_source": "aime2025",
+    "data_source_id": 13,
+    "lang": "ja",
+    "gid": 43
+  },
+  {
+    "question": "正の整数$(a,b,c)$の順序付き3組で、$a,b,c\\leq3^6$かつ$a^3+b^3+c^3$が$3^7$の倍数となるものの個数を$N$とします。$N$を$1000$で割ったときの余りを求めなさい。",
+    "answer": "735",
+    "data_source": "aime2025",
+    "data_source_id": 14,
+    "lang": "ja",
+    "gid": 44
+  },
+  {
+    "question": "実数 $m > 1$ が $\\log_9(\\log_8 m) = 2024$ を満足するとすると、 $\\log_3(\\log_2 m)$ の値は何でしょうか？",
+    "answer": "$4049$",
+    "data_source": "CNMO",
+    "data_source_id": 0,
+    "lang": "ja",
+    "gid": 45
+  },
+  {
+    "question": "無限等比数列$\\{a_n\\}$が共通比$q$を持ち、$0 < |q| < 1$を満たすとします。$\\{a_n\\}$のすべての項の和が、すべての項の二乗の和と等しい場合、$a_2$の値域は何ですか？",
+    "answer": "$[-\\frac{1}{4}, 0) \\cup (0, 2)$",
+    "data_source": "CNMO",
+    "data_source_id": 1,
+    "lang": "ja",
+    "gid": 46
+  },
+  {
+    "question": "実数 $a, b$ が次のように与えられています。集合 $A = \\{x \\in \\mathbf{R} \\mid x^2-10x+a \\leq 0\\}$ および $B = \\{x \\in \\mathbf{R} \\mid bx \\leq b^3\\}$ が [4,9] で交差します。$a+b$ の値は何ですか？",
+    "answer": "$7$",
+    "data_source": "CNMO",
+    "data_source_id": 2,
+    "lang": "ja",
+    "gid": 47
+  },
+  {
+    "question": "三角錐$P-ABC$において、$PA \\perp$基面$ABC$、そして辺$AB$、$BP$、$BC$、$CP$の長さがそれぞれ1、2、3、4である場合、この三角錐の体積は何ですか？",
+    "answer": "$\\frac{3}{4}$",
+    "data_source": "CNMO",
+    "data_source_id": 3,
+    "lang": "ja",
+    "gid": 48
+  },
+  {
+    "question": "不均一なサイコロがあります。出る目が $1, 2, 3, 4, 5, 6$ 点のそれぞれの確率は等差数列を形成しています。このサイコロを独立して2回振り、出た目をそれぞれ $a, b$ とします。事象 $a+b=7$ が起こる確率が $\\frac{1}{7}$ であるとき、事象 $a=b$ が起こる確率はいくつですか？",
+    "answer": "$\\frac{4}{21}$",
+    "data_source": "CNMO",
+    "data_source_id": 4,
+    "lang": "ja",
+    "gid": 49
+  },
+  {
+    "question": "関数 $f(x)$ が定義域 $\\mathbf{R}$ を持ち、最小正周期が5であるとします。関数 $g(x)=f(2^x)$ が区間 $[0,5)$ で25個の零点を持つ場合、$g(x)$ は区間 $[1,4)$ で何個の零点を持つでしょうか？",
+    "answer": "$11$",
+    "data_source": "CNMO",
+    "data_source_id": 5,
+    "lang": "ja",
+    "gid": 50
+  },
+  {
+    "question": "楕円$\\Omega$の焦点を$F_1$、$F_2$とします。$P$を$\\Omega$上の点（主軸の端点ではない）とし、$O$を三角形$PF_1F_2$の外心とします。もし$\\overrightarrow{PO} \\cdot \\overrightarrow{F_1F_2} = 2\\overrightarrow{PF_1} \\cdot \\overrightarrow{PF_2}$であるならば、$\\Omega$の離心率の最小値は何でしょうか？",
+    "answer": "$\\frac{\\sqrt{6}}{4}$",
+    "data_source": "CNMO",
+    "data_source_id": 6,
+    "lang": "ja",
+    "gid": 51
+  },
+  {
+    "question": "もし3つの正の整数$a, b, c$が合計で8つの桁を持ち、その８つの桁が2、0、2、4、0、9、0、8と並べることができるならば、$(a, b, c)$は'ラッキーアレイ'と呼ばれます。たとえば (9, 8, 202400)はラッキーアレイです。$10 < a < b < c$を満たすラッキーアレイ$(a, b, c)$はいくつありますか？",
+    "answer": "$591$",
+    "data_source": "CNMO",
+    "data_source_id": 7,
+    "lang": "ja",
+    "gid": 52
+  },
+  {
+    "question": "$\\triangle ABC$において、$\\cos C = \\frac{\\sin A + \\cos A}{2} = \\frac{\\sin B + \\cos B}{2}$のとき、$\\cos C$の値を求めなさい。",
+    "answer": "$\\frac{\\sqrt{7}}{4}$",
+    "data_source": "CNMO",
+    "data_source_id": 8,
+    "lang": "ja",
+    "gid": 53
+  },
+  {
+    "question": "デカルト座標系において、双曲線 $\\Gamma: x^2 - y^2 = 1$ の右頂点を $A$ とします。$y$ 軸上に中心を持ち、$\\Gamma$ のそれぞれの枝にちょうど一度接する円を「良い円」と呼びます。$P$ 点で外接する二つの良い円があり、それらの中心は距離 $d$ だけ離れているとき、$\\frac{d}{|PA|}$ のすべての可能な値を求めなさい。",
+    "answer": "$2\\sqrt{2}$",
+    "data_source": "CNMO",
+    "data_source_id": 9,
+    "lang": "ja",
+    "gid": 54
+  },
+  {
+    "question": "与えられた複素数 $z, w$ について $z + w = 2$ であるとき、$S = |z^2 - 2w| + |w^2 - 2z|$ の最小値を求めなさい。",
+    "answer": "$8\\sqrt{5} - 16$",
+    "data_source": "CNMO",
+    "data_source_id": 10,
+    "lang": "ja",
+    "gid": 55
+  },
+  {
+    "question": "実数 $a, b$ が与えられ、二次不等式 $x^2 + b < ax$ の解集合が $(1,5)$ であるとき、二次不等式 $x^2 - ax > bx$ の解集合は何ですか？",
+    "answer": "$(-\\infty,-1)\\cup(6,+\\infty)$",
+    "data_source": "CNMO",
+    "data_source_id": 11,
+    "lang": "ja",
+    "gid": 56
+  },
+  {
+    "question": "$y=\\frac{4^x+1}{2^x+1}$の最小値は何ですか？",
+    "answer": "$2\\sqrt{2}-2$",
+    "data_source": "CNMO",
+    "data_source_id": 12,
+    "lang": "ja",
+    "gid": 57
+  },
+  {
+    "question": "カエルが正方形$ABCD$の四つの頂点間を跳び移ります。それぞれのジャンプでは、等確率で隣接する2つの頂点のいずれかに移動しますし、各ジャンプは独立しています。もしカエルが頂点$A$からスタートするならば、6回目のジャンプ後に再び頂点$A$に戻る確率は何ですか？",
+    "answer": "$\\frac{1}{2}$",
+    "data_source": "CNMO",
+    "data_source_id": 13,
+    "lang": "ja",
+    "gid": 58
+  },
+  {
+    "question": "数列 $\\{a_n\\}$ は $a_1=1$ を満たし、任意の正の整数 $n$ について $a_{n+1}=10^{n}{a_n^2}$ が成り立つ。数列 $\\{a_n\\}$ の一般項の公式は何ですか？",
+    "answer": "$10^{2^n-n-1}$",
+    "data_source": "CNMO",
+    "data_source_id": 14,
+    "lang": "ja",
+    "gid": 59
+  },
+  {
+    "question": "3つの正の整数 \\(a, b, c\\) の桁数が合計で8であり、そしてその8桁を2、0、2、4、0、9、0、8のように並べることができる場合、\\((a, b, c)\\) を 'ラッキーアレイ'と呼びます。例えば、(9, 8, 202400)はラッキーアレイです。\\(10 < a < b < 100\\)を満たすラッキーアレイ \\((a, b, c)\\) は何通りありますか？",
+    "answer": "$291$",
+    "data_source": "CNMO",
+    "data_source_id": 15,
+    "lang": "ja",
+    "gid": 60
+  },
+  {
+    "question": "三角形$\\triangle ABC$において、$\\cos C = \\frac{\\sin A + \\cos A}{2} = \\frac{\\sin B + \\cos B}{2}$が与えられた場合、$\\sin C$の値を求めなさい。",
+    "answer": "$\\frac{3}{4}$",
+    "data_source": "CNMO",
+    "data_source_id": 16,
+    "lang": "ja",
+    "gid": 61
+  },
+  {
+    "question": "デカルト座標系において、中心が$y$軸上にあり、双曲線$\\Gamma: x^2 - y^2 = 1$の各枝にちょうど一度触れる円を「良い円」と呼びます。2つの良い円が点$P$で外接している場合、その中心間の距離$d$が$d = \\lambda |PA|$となるような定数$\\lambda$と、$x$軸上に固定された点$A$は存在しますか？",
+    "answer": "$\\lambda=2\\sqrt{2}, A(\\pm 1, 0)$",
+    "data_source": "CNMO",
+    "data_source_id": 17,
+    "lang": "ja",
+    "gid": 62
+  },
+  {
+    "question": "196はいくつの正の整数の約数を持っていますか？",
+    "answer": "9",
+    "data_source": "MATH500",
+    "data_source_id": 3,
+    "lang": "ja",
+    "gid": 63
+  },
+  {
+    "question": "正六角形は、六つの正三角形に分割することができます。一つの正三角形の周囲の長さが21インチの場合、正六角形の周囲の長さは何インチですか？",
+    "answer": "42",
+    "data_source": "MATH500",
+    "data_source_id": 5,
+    "lang": "ja",
+    "gid": 64
+  },
+  {
+    "question": "3つの連続した整数の和として表すことができる最小の正の完全立方数は何ですか？",
+    "answer": "27",
+    "data_source": "MATH500",
+    "data_source_id": 6,
+    "lang": "ja",
+    "gid": 65
+  },
+  {
+    "question": "式 $2\\cdot 3 \\cdot 4\\cdot 5+1$ は、加算の前に乗算が実行されるため、121 になります。しかし、括弧を挿入することで式を変形できる場合、121以外の値を得ることができます。例えば、\\[ (2\\cdot (3\\cdot 4)) \\cdot (5+1) = 144 と書くことで、144を得ることができます。\\]式 $2\\cdot 3\\cdot 4 \\cdot 5 + 1$ から括弧を挿入することで、合計でいくつの値が得られますか？（注: 項を並べ替えることは許されず、括弧を挿入することのみが可能です）。",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 9,
+    "lang": "ja",
+    "gid": 66
+  },
+  {
+    "question": "0と2の数字のみを使用して記述できる最小の正の整数で30の倍数は何ですか？",
+    "answer": "2220",
+    "data_source": "MATH500",
+    "data_source_id": 10,
+    "lang": "ja",
+    "gid": 67
+  },
+  {
+    "question": "12の真約数は1、2、3、4、6です。整数$N$の真約数とは、$N$の正の約数で$N$より小さいものです。284の真約数の和の真約数の和はいくらですか？",
+    "answer": "284",
+    "data_source": "MATH500",
+    "data_source_id": 12,
+    "lang": "ja",
+    "gid": 68
+  },
+  {
+    "question": "示された円柱の体積は $45\\pi$ 立方センチメートルです。円柱の高さは何センチメートルですか？ [asy] size(120); draw(shift(2.2,0)*yscale(0.3)*Circle((0,0), 1.2));  draw((1,0)--(1,-2)); draw((3.4,0)--(3.4,-2));  draw((1,-2)..(2.2,-2.36)..(3.4,-2));  label(\"$h$\",midpoint((3.4,0)--(3.4,-2)),E);  draw (((2.2,0)--(3.4,0)));  label(\"$r=3$\",midpoint((2.2,0)--(3.4,0)),N);  [/asy]",
+    "answer": "5",
+    "data_source": "MATH500",
+    "data_source_id": 13,
+    "lang": "ja",
+    "gid": 69
+  },
+  {
+    "question": "計算: $1-2+3-4+5- \\dots +99-100$。",
+    "answer": "-50",
+    "data_source": "MATH500",
+    "data_source_id": 16,
+    "lang": "ja",
+    "gid": 70
+  },
+  {
+    "question": "$\\overline{BC}$は点$A$を通る線分に平行で、$AB = BC$です。$x$が表す角度は何度ですか？  [asy] draw((0,0)--(10,0)); draw((0,3)--(10,3)); draw((2,3)--(8,0)); draw((2,3)--(4,0)); label(\"$A$\",(2,3),N); label(\"$B$\",(4,0),S); label(\"$C$\",(8,0),S); label(\"$124^{\\circ}$\",(2,3),SW); label(\"$x^{\\circ}$\",(4.5,3),S); [/asy]",
+    "answer": "28",
+    "data_source": "MATH500",
+    "data_source_id": 18,
+    "lang": "ja",
+    "gid": 71
+  },
+  {
+    "question": "$a$を、\\[x^3 + ax^2 + ax + 1 = 0\\] のすべての根が実数となるような正の実数とします。$a$ の最小値を求めなさい。",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 19,
+    "lang": "ja",
+    "gid": 72
+  },
+  {
+    "question": "$(\\sqrt{7} + \\sqrt{5})^6$ より小さい最大の整数を求めなさい。（電卓は使用しないでください！）",
+    "answer": "13535",
+    "data_source": "MATH500",
+    "data_source_id": 21,
+    "lang": "ja",
+    "gid": 73
+  },
+  {
+    "question": "デナリとネイトは犬の散歩ビジネスで働いており、散歩させた犬一匹ごとに支払われます。デナリは$16$匹の犬を担当し、ネイトは$12$匹の犬を担当しています。会社の新しい方針により、彼らには$x$匹ずつの犬が新しく割り当てられたり、割り当てが解除されたりします。デナリが$4x$匹の犬を追加で散歩し始めてネイトが$12$匹の犬で変わらずいた場合と、ネイトの犬$x$匹がデナリに再割り当てされた場合に、デナリの給与とネイトの給与の比率が同じになります。$x\\neq0$のとき、$x$を求めなさい。",
+    "answer": "5",
+    "data_source": "MATH500",
+    "data_source_id": 22,
+    "lang": "ja",
+    "gid": 74
+  },
+  {
+    "question": "この労働者は年間$\\$20{,}000$の給料を受け取り、毎年年末に預金口座に預けます。3年目の終わり（3回目の預金を行う時）には、家を購入するために少なくとも$\\$66,200$を口座に持っていることを目指しています。最低限必要な複合利子率はいくらですか？答えをパーセントで表現してくださいが、パーセント記号は含めないでください。",
+    "answer": "10",
+    "data_source": "MATH500",
+    "data_source_id": 24,
+    "lang": "ja",
+    "gid": 75
+  },
+  {
+    "question": "ピエール、ローザ、トーマスの$3$人のうち2人が隣り合って座れない場合、$7$人が円卓の周りに座る方法は何通りありますか？(お互いに回転する座席配置は同じものとして扱われます。)",
+    "answer": "144",
+    "data_source": "MATH500",
+    "data_source_id": 26,
+    "lang": "ja",
+    "gid": 76
+  },
+  {
+    "question": "数学クラブは、今後の旅行のための資金を集めるためのベイクセールを開催しています。彼らは、$1$ ドルで3つのクッキーを $54$ 個、$2$ ドルでカップケーキを $20$ 個、そして $1$ ドルでブラウニーを $35$ 個売りました。これらの品物を焼くのに数学クラブが $15$ ドルかかった場合、彼らの利益はいくらでしたか？",
+    "answer": "78",
+    "data_source": "MATH500",
+    "data_source_id": 27,
+    "lang": "ja",
+    "gid": 77
+  },
+  {
+    "question": "ギリシャの軍隊は、上級兵士と下級兵士の2種類の兵士で構成されていました。アテネのある地域に上級兵士が5人、下級兵士が10人いて、テルモピュライの戦いでは上級兵士が4人、下級兵士が8人の兵力が必要な場合、異なる大隊を何個派遣できるでしょうか？",
+    "answer": "225",
+    "data_source": "MATH500",
+    "data_source_id": 29,
+    "lang": "ja",
+    "gid": 78
+  },
+  {
+    "question": "ピエール、ローザ、トーマスの3人が一緒に座りたい場合、8人が円卓の周りに座る方法は何通りありますか。(お互いに回転する座席配置は同じものとして扱われます。)",
+    "answer": "720",
+    "data_source": "MATH500",
+    "data_source_id": 32,
+    "lang": "ja",
+    "gid": 79
+  },
+  {
+    "question": "$$ \\left(10x^3-\\frac{1}{2x^2}\\right)^{5} $$ の展開における定数項を求めなさい。",
+    "answer": "-125",
+    "data_source": "MATH500",
+    "data_source_id": 34,
+    "lang": "ja",
+    "gid": 80
+  },
+  {
+    "question": "$n \\equiv 2 \\pmod{7}$の場合、$(n + 2)(n + 4)(n + 6)$を7で割った余りを求めなさい。",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 35,
+    "lang": "ja",
+    "gid": 81
+  },
+  {
+    "question": "正五角形がその中心を基点に反時計回りに回転します。元の位置に一致するまでに最小で何度回転させる必要がありますか？",
+    "answer": "72",
+    "data_source": "MATH500",
+    "data_source_id": 37,
+    "lang": "ja",
+    "gid": 82
+  },
+  {
+    "question": "スナックサイズの桃の缶が$40$カロリーで、それが人の1日のカロリー必要量の$2\\%$であるならば、人の1日のカロリー必要量を満たすには何カロリー必要ですか？",
+    "answer": "2000",
+    "data_source": "MATH500",
+    "data_source_id": 38,
+    "lang": "ja",
+    "gid": 83
+  },
+  {
+    "question": "6432と132の最大公約数に11を加えた結果は何ですか？",
+    "answer": "23",
+    "data_source": "MATH500",
+    "data_source_id": 39,
+    "lang": "ja",
+    "gid": 84
+  },
+  {
+    "question": "正八角形は、ここに示された一辺が16cmの正六角形と同じ周長を持ちます。八角形の各辺の長さはいくつですか？ [asy]size(80); pair A = dir(120); pair B=dir(60); pair M=(A+B)/2; draw(dir(360)--B--A--dir(180)--dir(240)--dir(300)--cycle); label(\"16 cm\", M, N);[/asy]",
+    "answer": "12",
+    "data_source": "MATH500",
+    "data_source_id": 40,
+    "lang": "ja",
+    "gid": 85
+  },
+  {
+    "question": "平行四辺形の座標は (5, 3), (6, 8), (7, 4) および $(x, y)$ で、$x > 7$ です。$x + y$ の値は何ですか？",
+    "answer": "17",
+    "data_source": "MATH500",
+    "data_source_id": 41,
+    "lang": "ja",
+    "gid": 86
+  },
+  {
+    "question": "$-4 < 2(x - 1) < 8$ の解は $a < x < b$ の形式で表されます。$a + b$ の値を求めなさい。",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 42,
+    "lang": "ja",
+    "gid": 87
+  },
+  {
+    "question": "直角三角形$ABC$で$\\angle B = 90^\\circ$のとき、$\\sin A = 2\\cos A$となります。$\\tan A$は何ですか？",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 45,
+    "lang": "ja",
+    "gid": 88
+  },
+  {
+    "question": "すべての根が$ n ^ {\\text {th}} $の単位の根であるような$ z ^ 4 + z ^ 2 + 1 = 0 $の最小の正の整数$n$は何ですか？",
+    "answer": "6",
+    "data_source": "MATH500",
+    "data_source_id": 46,
+    "lang": "ja",
+    "gid": 89
+  },
+  {
+    "question": "関数 $f(x)=\\frac{2x}{x^2-5x-14}$ のグラフには垂直漸近線 $x=a$ と $x=b$、水平漸近線 $y=c$ が存在します。$a+b+c$ を求めなさい。",
+    "answer": "5",
+    "data_source": "MATH500",
+    "data_source_id": 47,
+    "lang": "ja",
+    "gid": 90
+  },
+  {
+    "question": "$3x - 9$ の値の半分が $x + 37$ です。$x$ の値は何ですか？",
+    "answer": "83",
+    "data_source": "MATH500",
+    "data_source_id": 49,
+    "lang": "ja",
+    "gid": 91
+  },
+  {
+    "question": "あなたは金のコインを7つの袋に入れて持っています。各袋には同じ枚数の金のコインが入っています。ある日、あなたは53枚のコインが入った袋を見つけます。あなたは持っているコインの枚数を再分配し、すべての8つの袋に同じ枚数のコインが入るようにします。すべてのコインの再分配に成功し、また200枚以上のコインを持っていることに気づきました。53枚のコインの袋を見つける前に持っていた可能性のあるコインの最少枚数は何枚ですか？",
+    "answer": "203",
+    "data_source": "MATH500",
+    "data_source_id": 50,
+    "lang": "ja",
+    "gid": 92
+  },
+  {
+    "question": "簡単化してください: $\\frac{\\sqrt{2.5^2-0.7^2}}{2.7-2.5}$.",
+    "answer": "12",
+    "data_source": "MATH500",
+    "data_source_id": 52,
+    "lang": "ja",
+    "gid": 93
+  },
+  {
+    "question": "$f$が以下の条件を満たす多項式であるとします： \\[(x-1)\\cdot f(x)=3x^4+x^3 - 25x^2 +38x -17.\\] $f$の次数は何ですか？",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 55,
+    "lang": "ja",
+    "gid": 94
+  },
+  {
+    "question": "最初の$N$個の正の奇数の合計が121です。 $N$の値は何ですか？",
+    "answer": "11",
+    "data_source": "MATH500",
+    "data_source_id": 56,
+    "lang": "ja",
+    "gid": 95
+  },
+  {
+    "question": "リンゴは反抗的な犬をロープで捕まえようとしていました。リンゴは犬を追いかける前に\\[|(1-i)^8|\\]を計算することで、犬に猶予を与えることにしました。リンゴは何と答えるべきだったでしょうか？",
+    "answer": "16",
+    "data_source": "MATH500",
+    "data_source_id": 57,
+    "lang": "ja",
+    "gid": 96
+  },
+  {
+    "question": "頭の中で$99^2+99+1$を計算せよ。",
+    "answer": "9901",
+    "data_source": "MATH500",
+    "data_source_id": 58,
+    "lang": "ja",
+    "gid": 97
+  },
+  {
+    "question": "50人のクラスで、28人がMATHCOUNTSに参加しており、21人が科学クラブに参加しており、6人がどちらにも参加していません。何人の生徒がMATHCOUNTSと科学クラブの両方に参加していますか？",
+    "answer": "5",
+    "data_source": "MATH500",
+    "data_source_id": 59,
+    "lang": "ja",
+    "gid": 98
+  },
+  {
+    "question": "実数 $a$ と $b$ において、方程式 \\[ 8x^3 + 4ax^2 + 2bx + a = 0 \\] は3つの異なる正の根を持っています。根の2を底とする対数の合計が5である場合、$a$ の値はいくつですか？",
+    "answer": "-256",
+    "data_source": "MATH500",
+    "data_source_id": 61,
+    "lang": "ja",
+    "gid": 99
+  },
+  {
+    "question": "すべての二次元ベクトル $\\bold{v}$ に対して、\\[\\left\\| \\begin{pmatrix} 2 & 3 \\\\ 0 & -2 \\end{pmatrix} \\bold{v} \\right\\| \\le C \\|\\bold{v}\\|\\] となる最小の正の実数 $C$ を見つけます。注:二次元ベクトル $\\mathbf{a},$ の場合、$\\|\\mathbf{a}\\|$ は $\\mathbf{a} の大きさです。$",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 62,
+    "lang": "ja",
+    "gid": 100
+  },
+  {
+    "question": "\\[x^8 + 3x^4 - 4 = p_1(x) p_2(x) \\dotsm p_k(x),\\]とします。ここで、各非定数多項式$p_i(x)$は整数係数のモニック多項式であり、それ以上整数で因数分解することはできません。$p_1(1) + p_2(1) + \\dots + p_k(1).$を計算します。",
+    "answer": "10",
+    "data_source": "MATH500",
+    "data_source_id": 63,
+    "lang": "ja",
+    "gid": 101
+  },
+  {
+    "question": "$1^{(2^{235423523})}$は何ですか？",
+    "answer": "1",
+    "data_source": "MATH500",
+    "data_source_id": 65,
+    "lang": "ja",
+    "gid": 102
+  },
+  {
+    "question": "正方形の反対側の2辺の長さが$40\\%$減少し、他の2辺の長さが$50\\%$増加して長方形を形成します。正方形の面積は何パーセント減少しますか？",
+    "answer": "10",
+    "data_source": "MATH500",
+    "data_source_id": 67,
+    "lang": "ja",
+    "gid": 103
+  },
+  {
+    "question": "ある$x$の値について$0 < x < 180$、 \\[\\tan 53^\\circ \\tan 81^\\circ \\tan x^\\circ = \\tan 53^\\circ + \\tan 81^\\circ + \\tan x^\\circ.\\] $x$を求めなさい。",
+    "answer": "46",
+    "data_source": "MATH500",
+    "data_source_id": 68,
+    "lang": "ja",
+    "gid": 104
+  },
+  {
+    "question": "$z$を$z^5 = 1$かつ$z \\neq 1$を満たす複素数とします。以下を計算してください。 \\[z + \\frac{1}{z} + z^2 + \\frac{1}{z^2}.\\]",
+    "answer": "-1",
+    "data_source": "MATH500",
+    "data_source_id": 69,
+    "lang": "ja",
+    "gid": 105
+  },
+  {
+    "question": "球の体積と表面積がそれぞれ立方単位と平方単位で数値的に等しいとき、半径の長さは何単位ですか？",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 72,
+    "lang": "ja",
+    "gid": 106
+  },
+  {
+    "question": "関数$\\log x^2$の定義域が$x < a$または$x > b$の場合、ある$a$と$b$に対して$a + b$を求めなさい。",
+    "answer": "0",
+    "data_source": "MATH500",
+    "data_source_id": 76,
+    "lang": "ja",
+    "gid": 107
+  },
+  {
+    "question": "もし$2^8=4^x$なら、$x$の値は何ですか？",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 77,
+    "lang": "ja",
+    "gid": 108
+  },
+  {
+    "question": "$x$の値が$2^3\\cdot3^x=72$となるのは何か？",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 79,
+    "lang": "ja",
+    "gid": 109
+  },
+  {
+    "question": "閉区間$[-500,500]$内で方程式$\\log(kx)=2\\log(x+2)$がちょうど一つの実数解を持つようなの$k$の整数値の数を求めなさい。",
+    "answer": "501",
+    "data_source": "MATH500",
+    "data_source_id": 80,
+    "lang": "ja",
+    "gid": 110
+  },
+  {
+    "question": "3個のスクイグと1個のゴーリーは、10個のトリークと同じ重さです。 2個のトリークと1個のゴーリーは、1個のスクイグと同じ重さです。 1個のスクイグの重さに匹敵するトリークは何個合わせるとなるでしょうか？",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 81,
+    "lang": "ja",
+    "gid": 111
+  },
+  {
+    "question": "$x$ について解け：$3^{2x} + 19 = 10^x$。",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 83,
+    "lang": "ja",
+    "gid": 112
+  },
+  {
+    "question": "$3t^2+5t+a$と$4t^2+bt-2$の積は$12t^4+26t^3-8t^2-16t+6$です。$a+b$は何ですか？",
+    "answer": "-1",
+    "data_source": "MATH500",
+    "data_source_id": 84,
+    "lang": "ja",
+    "gid": 113
+  },
+  {
+    "question": "シャツが5枚、ズボンが6本、帽子が8個あります。シャツ1枚、ズボン1本、帽子1つで何着の服が作れますか？",
+    "answer": "240",
+    "data_source": "MATH500",
+    "data_source_id": 86,
+    "lang": "ja",
+    "gid": 114
+  },
+  {
+    "question": "等式$|5x-1|=x+3$を満たす$x$の最大値を求めてください。",
+    "answer": "1",
+    "data_source": "MATH500",
+    "data_source_id": 87,
+    "lang": "ja",
+    "gid": 115
+  },
+  {
+    "question": "次の関数を考えます。 \\[ f(x) = \\begin{cases} ax^2 & \\text{if } x \\geq a,\\\\ ax +2a& \\text{if } x <a, \\end{cases} \\]ここで、$a$はある数です。  $y=f(x)$のグラフがすべての水平線と少なくとも一度は交わるような$a$の最大値はいくつですか？",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 88,
+    "lang": "ja",
+    "gid": 116
+  },
+  {
+    "question": "$3339$、$2961$、および$1491$の最大公約数を求めなさい。",
+    "answer": "21",
+    "data_source": "MATH500",
+    "data_source_id": 89,
+    "lang": "ja",
+    "gid": 117
+  },
+  {
+    "question": "$f(x) = \\frac{\\sqrt{x-1}}{x-2}$ としたとき、$f(x)$ が実数値を持つような $x$ の最小の整数値は何ですか?",
+    "answer": "1",
+    "data_source": "MATH500",
+    "data_source_id": 91,
+    "lang": "ja",
+    "gid": 118
+  },
+  {
+    "question": "半径の長さが1である円の方程式$x^2 - 10x + y^2 + 6y + c = 0$において、$c$の値は何になりますか？",
+    "answer": "33",
+    "data_source": "MATH500",
+    "data_source_id": 93,
+    "lang": "ja",
+    "gid": 119
+  },
+  {
+    "question": "四角形$ABCD$において、角度$BAD$と角度$CDA$が図のように三等分されています。角度$AFD$の大きさは何度ですか？  [asy] size(150); pair A , B, C, D; A = (0,0); B = (2, 4); C = (7,4); D = (7, -2); draw( (0,0)--(2,4) -- (7,4) -- (7, -2)-- cycle); label(\"$A$\", A, SW); label(\"$B$\", B, NW); label(\"$C$\", C, NE); label(\"$D$\", D, SE); pair E, F; E = (4.5-.2,1-.2); F = (5, 3); draw(A--E--D); draw(A--F--D); label(\"$E$\", E, N); label(\"$F$\", F, NW); dot(A);dot(B);dot(C);dot(D);dot(E);dot(F); label(\"$x$\", (1, 1.5), S); label(\"$x$\", (2, 1), S+W); label(\"$x$\", (2, -1), N+N+N+W); label(\"$y$\", (5.5+.3, .5-.3), S); label(\"$y$\", (6.5+.3, 0)); label(\"$y$\", (5+.5, -1.5+.3)); label(\"$110^{\\circ}$\",(2.5,3.5)); label(\"$100^{\\circ}$\",(6.5-.2,3.5)); [/asy]",
+    "answer": "80",
+    "data_source": "MATH500",
+    "data_source_id": 94,
+    "lang": "ja",
+    "gid": 120
+  },
+  {
+    "question": "$\\begin{pmatrix} 2 \\\\ y \\\\ -5 \\end{pmatrix}$の$\\begin{pmatrix} 1 \\\\ -2 \\\\ 1 \\end{pmatrix}$への射影は \\[\\frac{5}{6} \\begin{pmatrix} 1 \\\\ -2 \\\\ 1 \\end{pmatrix}.\\]$y$を求めなさい。",
+    "answer": "-4",
+    "data_source": "MATH500",
+    "data_source_id": 95,
+    "lang": "ja",
+    "gid": 121
+  },
+  {
+    "question": "方程式 \\[x^{10}+(13x-1)^{10}=0\\,\\]には10個の複素数根 $r_1,$ $\\overline{r}_1,$ $r_2,$ $\\overline{r}_2,$ $r_3,$ $\\overline{r}_3,$ $r_4,$ $\\overline{r}_4,$ $r_5,$ $\\overline{r}_5,$ があり、ここでバーは複素共役を表します。次の値を求めなさい。 \\[\\frac 1{r_1\\overline{r}_1}+\\frac 1{r_2\\overline{r}_2}+\\frac 1{r_3\\overline{r}_3}+\\frac 1{r_4\\overline{r}_4}+\\frac 1{r_5\\overline{r}_5}.\\]",
+    "answer": "850",
+    "data_source": "MATH500",
+    "data_source_id": 101,
+    "lang": "ja",
+    "gid": 122
+  },
+  {
+    "question": "$x^2 + y^2 + 6x - 24y + 72 = 0$ と $x^2 - y^2 + 6x + 16y - 46 = 0$ のグラフは四点で交わる。これら四点から点 $(-3,2)$ までの距離の和を計算せよ。",
+    "answer": "40",
+    "data_source": "MATH500",
+    "data_source_id": 104,
+    "lang": "ja",
+    "gid": 123
+  },
+  {
+    "question": "以下に挙げた8つの郡の中で、$2005$年の生徒数の中央値はいくつでしたか？  \\begin{tabular}[t]{|l|c|c|c|c|c|} \\multicolumn{6}{c}{\\textbf{郡ごとの生徒数}}\\\\\\hline \\textbf{郡}&\\textbf{$2001$}&\\textbf{$2002$}&\\textbf{$2003$}&\\textbf{$2004$}&\\textbf{$2005$}\\\\\\hline Aiken&124&141&130&143&136\\\\\\hline Bamberg&17&15&15&14&11\\\\\\hline Barnwell&25&22&26&28&29\\\\\\hline Berkeley&583&557&554&553&524\\\\\\hline Calhoun&15&12&10&18&11\\\\\\hline Cherokee&19&13&18&13&19\\\\\\hline Chesterfield&46&18&13&22&29\\\\\\hline Colleton&64&49&52&46&41\\\\\\hline \\end{tabular}",
+    "answer": "29",
+    "data_source": "MATH500",
+    "data_source_id": 105,
+    "lang": "ja",
+    "gid": 124
+  },
+  {
+    "question": "30未満のすべての素数の集合と0より大きいすべての奇数の集合の共通部分には、いくつの要素がありますか?",
+    "answer": "9",
+    "data_source": "MATH500",
+    "data_source_id": 107,
+    "lang": "ja",
+    "gid": 125
+  },
+  {
+    "question": "楕円 $kx^2 + y^2 = 1$ の焦点を $F_1$ と $F_2$ とします。ここで、 $k > 1$ は定数です。$F_1$ と $F_2$ を通り、 $x$ 軸上の 2 点で楕円に接する円があるとします。$k$ を求めなさい。",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 108,
+    "lang": "ja",
+    "gid": 126
+  },
+  {
+    "question": "正の整数$a_1$、$a_2$、$a_3$、$\\dots$の厳格に増加する数列は、すべての正の整数$k$に対して、部分数列$a_{2k-1}$、$a_{2k}$、$a_{2k+1}$が等比数列であり、部分数列$a_{2k}$、$a_{2k+1}$、$a_{2k+2}$が等差数列であるという性質を持っています。 $a_{13} = 2016$と仮定します。$a_1$を求めなさい。",
+    "answer": "504",
+    "data_source": "MATH500",
+    "data_source_id": 110,
+    "lang": "ja",
+    "gid": 127
+  },
+  {
+    "question": "ブレナン氏は統計学のクラスで7人の男の子と4人の女の子を持っています。彼は明日のグループ発表をするために3人の男の子と2人の女の子を何通り選ぶことができますか？（男の子と女の子を選ぶ順序は問いません。）",
+    "answer": "210",
+    "data_source": "MATH500",
+    "data_source_id": 111,
+    "lang": "ja",
+    "gid": 128
+  },
+  {
+    "question": "$\\frac{1+\\sqrt{2}}{2+\\sqrt{3}}$ を簡単化しなさい。解は $A(1+\\sqrt{B})-(\\sqrt{C}+\\sqrt{D})$ の形に変換することができます。ここで、$A$、$B$、$C$、および $D$ は正の整数です。$A+B+C+D$ はいくつですか？",
+    "answer": "13",
+    "data_source": "MATH500",
+    "data_source_id": 112,
+    "lang": "ja",
+    "gid": 129
+  },
+  {
+    "question": "$(26^2 - 24^2 - 10)^2 - 10^2$ の値は何ですか？",
+    "answer": "8000",
+    "data_source": "MATH500",
+    "data_source_id": 113,
+    "lang": "ja",
+    "gid": 130
+  },
+  {
+    "question": "整数$C$と$D$について、すべての実数$x$の範囲（ただし$x\\neq -8$、$x\\neq 3$）で \\[\\frac{C}{x-3}+\\frac{D}{x+8}=\\frac{4x-23}{x^2+5x-24}\\] が成り立つとき、$CD$の積を求めなさい。",
+    "answer": "-5",
+    "data_source": "MATH500",
+    "data_source_id": 114,
+    "lang": "ja",
+    "gid": 131
+  },
+  {
+    "question": "ELLIPSEの文字を並べる方法は何通りありますか？",
+    "answer": "1260",
+    "data_source": "MATH500",
+    "data_source_id": 115,
+    "lang": "ja",
+    "gid": 132
+  },
+  {
+    "question": "$x$ について解け： $2^{2x} = 256^{\\frac{1}{2}}$。",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 116,
+    "lang": "ja",
+    "gid": 133
+  },
+  {
+    "question": "$\\sqrt{3x-5}=2$の場合、$x$のすべての可能な値を見つけます。",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 117,
+    "lang": "ja",
+    "gid": 134
+  },
+  {
+    "question": "整数の順序対 $(a,b)$ であって $|a + bi| \\le 5$ を満たすものの数を求めなさい。",
+    "answer": "81",
+    "data_source": "MATH500",
+    "data_source_id": 118,
+    "lang": "ja",
+    "gid": 135
+  },
+  {
+    "question": "次の式 $$1 + 2 + 3 - 4 + 5 + 6$$ は13と等価です。私たちは様々な箇所に括弧を追加することで、この値を変更することができます。たとえば、$1+2+3-(4+5)+6=1+2+3-9+6=6-9+6=3$です。項の順序を入れ替えずに括弧を追加するだけで、この式が取り得る最小の値は何になるでしょうか？（この問題の目的のため、加法や減法を乗法に変更することはできません。たとえば、$(1+2+3)(-4)+5+6$ は、括弧の有効な位置ではありません。）  答えを一つの値として入力してください。",
+    "answer": "-9",
+    "data_source": "MATH500",
+    "data_source_id": 119,
+    "lang": "ja",
+    "gid": 136
+  },
+  {
+    "question": "$x$について解け：$\\frac{x}2 + \\frac{x}3 = 5$",
+    "answer": "6",
+    "data_source": "MATH500",
+    "data_source_id": 121,
+    "lang": "ja",
+    "gid": 137
+  },
+  {
+    "question": "ダニエルは電器店で働いており、彼はテレビの人気度（販売台数で測定）がそのコストに反比例すると主張しています。もし15人の顧客がコストが$\\$$1500のテレビを買ったとしたら、ダニエルの理論によれば、コストが$\\$$2500のテレビをいくつの顧客が買うでしょうか？",
+    "answer": "9",
+    "data_source": "MATH500",
+    "data_source_id": 122,
+    "lang": "ja",
+    "gid": 138
+  },
+  {
+    "question": "この図で、$D$ と $E$ はそれぞれ $\\overline{AB}$ と $\\overline{BC}$ の中点です。四角形 $DBEF$ の面積を求めなさい。[asy] size(180); defaultpen(linewidth(.7pt)+fontsize(10pt)); pair A, B, C, D, E, F; A=(0,6); B=(0,0); C=(8,0); D=(0,3); E=(4,0); F=(8/3,2); draw(E--A--C--D); draw((-1,0)--(10,0), EndArrow); draw((0,-1)--(0,8), EndArrow); label(\"$A(0,6)$\", A, W); label(\"$B(0,0)$\", B, SW); label(\"$C(8,0)$\", C, S); label(\"$D$\", D, W); label(\"$E$\", E, S); label(\"$F$\", F, SW); label(\"$x$\", (10,0), dir(0)); label(\"$y$\", (0,8), dir(90)); [/asy]",
+    "answer": "8",
+    "data_source": "MATH500",
+    "data_source_id": 123,
+    "lang": "ja",
+    "gid": 139
+  },
+  {
+    "question": "$\\lceil (3.6)^2 \\rceil - ( \\lceil 3.6 \\rceil ) ^2$ を評価しなさい。",
+    "answer": "-3",
+    "data_source": "MATH500",
+    "data_source_id": 125,
+    "lang": "ja",
+    "gid": 140
+  },
+  {
+    "question": "スザンヌは3日ごとに4マイル歩きます。2月に彼女が歩くことができる最少マイル数は何マイルですか？",
+    "answer": "36",
+    "data_source": "MATH500",
+    "data_source_id": 128,
+    "lang": "ja",
+    "gid": 141
+  },
+  {
+    "question": "どの整数 $n$ が $0\\le n<18$ を満たし、かつ $$n\\equiv -11213141\\pmod{18}~?$$",
+    "answer": "13",
+    "data_source": "MATH500",
+    "data_source_id": 130,
+    "lang": "ja",
+    "gid": 142
+  },
+  {
+    "question": "もし $f(x)=ax^4-bx^2+x+5$ で $f(-3)=2$ ならば、$f(3)$ の値は何ですか？",
+    "answer": "8",
+    "data_source": "MATH500",
+    "data_source_id": 131,
+    "lang": "ja",
+    "gid": 143
+  },
+  {
+    "question": "リックは14の正の因数を、そしてスティーブは42の正の因数を考えています。リックとスティーブが同じ数を考えている場合、彼らが考えうる可能性のある数字はいくつですか？",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 132,
+    "lang": "ja",
+    "gid": 144
+  },
+  {
+    "question": "凸四辺形において、最大の角度は最小の角度の2倍であり、他の2つの角度はいずれも直角です。最大の角度は何度ですか？",
+    "answer": "120",
+    "data_source": "MATH500",
+    "data_source_id": 133,
+    "lang": "ja",
+    "gid": 145
+  },
+  {
+    "question": "$F_1 = (10,2)$、$F_2= (-16,2)$とします。すると、\\[|PF_1 - PF_2| = 24\\]となる点の集合$P$は双曲線を形成します。この双曲線の方程式は\\[\\frac{(x - h)^2}{a^2} - \\frac{(y - k)^2}{b^2} = 1\\]と表すことができます。$h + k + a + b$を求めなさい。",
+    "answer": "16",
+    "data_source": "MATH500",
+    "data_source_id": 134,
+    "lang": "ja",
+    "gid": 146
+  },
+  {
+    "question": "$42!$（42の階乗）の末尾には何個のゼロがありますか？（ヒント：数$n!$は1から$n$までの整数の積です。例えば、$5!=5\\cdot 4\\cdot 3\\cdot 2\\cdot 1=120$です。）",
+    "answer": "9",
+    "data_source": "MATH500",
+    "data_source_id": 135,
+    "lang": "ja",
+    "gid": 147
+  },
+  {
+    "question": "$(a_1, a_2, \\dots, a_n)$ を \\[\\sum_{i = 1}^n a_i = 96, \\quad \\sum_{i = 1}^n a_i^2 = 144, \\quad \\sum_{i = 1}^n a_i^3 = 216 となる正の実数の列とします。$n.$ のすべての可能な値の合計を求めなさい。",
+    "answer": "64",
+    "data_source": "MATH500",
+    "data_source_id": 136,
+    "lang": "ja",
+    "gid": 148
+  },
+  {
+    "question": "\\[f(x,y) = x \\sqrt{1 - y^2} + y \\sqrt{1 - x^2},\\]において $-1 \\le x,$ $y \\le 1$ の範囲での最大値を求めなさい。",
+    "answer": "1",
+    "data_source": "MATH500",
+    "data_source_id": 139,
+    "lang": "ja",
+    "gid": 149
+  },
+  {
+    "question": "正の整数 $n$ に対して、$\\gcd(n + 7, 2n + 1)$ の可能な最大値は何ですか？",
+    "answer": "13",
+    "data_source": "MATH500",
+    "data_source_id": 140,
+    "lang": "ja",
+    "gid": 150
+  },
+  {
+    "question": "ザックは3つの袋とたくさんの鉛筆を持っていて、それらを袋に入れることになりました。彼は3つの袋それぞれにできるだけ多くの鉛筆を入れるように言われましたが、同時に各袋に入る鉛筆の数を同じにする必要があります。彼が最大で余らせることができる鉛筆の数はいくつですか？",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 141,
+    "lang": "ja",
+    "gid": 151
+  },
+  {
+    "question": "上院委員会には民主党員が5人、共和党員が5人、無所属が1人います。もし党ごとに全員が隣り合って座る場合、円卓の周りに彼らが座る方法は何通りありますか？（座席が他の座席の回転によって得られる場合、それらは同じものとみなされます。）",
+    "answer": "28800",
+    "data_source": "MATH500",
+    "data_source_id": 142,
+    "lang": "ja",
+    "gid": 152
+  },
+  {
+    "question": "$z$ を複素数とし、 \\[z + \\frac{1}{z} = \\frac{1 + \\sqrt{5}}{2}.\\] である時、 \\[z^{85} + \\frac{1}{z^{85}}.\\] を求めよ。",
+    "answer": "-2",
+    "data_source": "MATH500",
+    "data_source_id": 145,
+    "lang": "ja",
+    "gid": 153
+  },
+  {
+    "question": "正の実数 $x,$ $y,$ $z$ が $xyz = 2$ を満たすとき、 \\[x^4 + 4y^2 + 4z^4\\] の最小値を求めよ。",
+    "answer": "16",
+    "data_source": "MATH500",
+    "data_source_id": 147,
+    "lang": "ja",
+    "gid": 154
+  },
+  {
+    "question": "次の等式を$x$について解く: \\[ \\ \\frac{2}{3} = \\frac{4}{x-5}.\\]",
+    "answer": "11",
+    "data_source": "MATH500",
+    "data_source_id": 148,
+    "lang": "ja",
+    "gid": 155
+  },
+  {
+    "question": "ローザの年齢を2、3、4、6で割ると、余りは1です。彼女の年齢を7で割ると、余りは0です。彼女は75歳未満です。ローザは何歳ですか？",
+    "answer": "49",
+    "data_source": "MATH500",
+    "data_source_id": 149,
+    "lang": "ja",
+    "gid": 156
+  },
+  {
+    "question": "すべての正の整数$n$について、$\\text{mod}_5 (n)$を$n$を5で割ったときの余りとしましょう。関数$f: \\{0,1,2,3,\\dots\\} \\times \\{0,1,2,3,4\\} \\to \\{0,1,2,3,4\\}$を以下のように再帰的に定義します。  \\[f(i,j) = \\begin{cases}\\text{mod}_5 (j+1) & i = 0 \\text{ かつ } 0 \\le j \\le 4 \\text{ の場合,}\\\\ f(i-1,1) & i \\ge 1 \\text{ かつ } j = 0 \\text{ の場合, そして} \\\\ f(i-1, f(i,j-1)) & i \\ge 1 \\text{ かつ } 1 \\le j \\le 4 \\text{ の場合.} \\end{cases}\\]$f(2015,2)$の値は何ですか？",
+    "answer": "1",
+    "data_source": "MATH500",
+    "data_source_id": 150,
+    "lang": "ja",
+    "gid": 157
+  },
+  {
+    "question": "$x_1$, $x_2$, $x_3$, $y_1$, $y_2$, そして $y_3$ を実数とするとき、 \\begin{align*} (x_1 - x_2)^2 + (y_1 - y_2)^2 &= 9, \\\\ (x_1 - x_3)^2 + (y_1 - y_3)^2 &= 16, \\\\ (x_2 - x_3)^2 + (y_2 - y_3)^2 &= 25. \\end{align*} 次の $\\begin{vmatrix} x_1 & y_1 & 1 \\\\ x_2 & y_2 & 1 \\\\ x_3 & y_3 & 1 \\end{vmatrix}^2$ を求めよ。",
+    "answer": "144",
+    "data_source": "MATH500",
+    "data_source_id": 151,
+    "lang": "ja",
+    "gid": 158
+  },
+  {
+    "question": "三角形$ABC$の中線$AD$、$BE$、$CF$は重心$G$で交差します。$G$を通り、$BC$と平行な直線は$AB$と$AC$でそれぞれ$M$と$N$で交差します。三角形$ABC$の面積が144であるなら、三角形$ENG$の面積を求めてください。",
+    "answer": "8",
+    "data_source": "MATH500",
+    "data_source_id": 152,
+    "lang": "ja",
+    "gid": 159
+  },
+  {
+    "question": "100と200の間の7の倍数の総和はいくつですか？",
+    "answer": "2107",
+    "data_source": "MATH500",
+    "data_source_id": 158,
+    "lang": "ja",
+    "gid": 160
+  },
+  {
+    "question": "二つの連続する正の偶数の積が288であるとき、大きい方の整数は何か？",
+    "answer": "18",
+    "data_source": "MATH500",
+    "data_source_id": 160,
+    "lang": "ja",
+    "gid": 161
+  },
+  {
+    "question": "$\\log_264$の値を求めなさい。",
+    "answer": "6",
+    "data_source": "MATH500",
+    "data_source_id": 161,
+    "lang": "ja",
+    "gid": 162
+  },
+  {
+    "question": "円錐の体積は公式$V = \\frac{1}{3}Bh$で与えられます。ここで$B$は底面の面積で、$h$は高さです。円錐の底面の面積は30平方単位で、高さは6.5単位です。その体積は何立方単位ですか？",
+    "answer": "65",
+    "data_source": "MATH500",
+    "data_source_id": 167,
+    "lang": "ja",
+    "gid": 163
+  },
+  {
+    "question": "この長方形の$3\\times n$格子点上に、頂点がこの点である3つのサイズの正方形が合計70個あります。$n$の値は何ですか？  [asy]  unitsize(0.4 inch);  dot((0,0),linewidth(9bp)); dot((1,0),linewidth(9bp)); dot((2,0),linewidth(9bp)); dot((0,1),linewidth(9bp)); dot((0,2),linewidth(9bp)); dot((1,1),linewidth(9bp)); dot((2,1),linewidth(9bp)); dot((1,2),linewidth(9bp)); dot((2,2),linewidth(9bp));  filldraw((2.95,-0.05)--(3.05,-0.05)--(3.05,0.05)--(2.95,0.05)--cycle,black); filldraw((2.45,-0.05)--(2.55,-0.05)--(2.55,0.05)--(2.45,0.05)--cycle,black); filldraw((3.45,-0.05)--(3.55,-0.05)--(3.55,0.05)--(3.45,0.05)--cycle,black);  filldraw((2.95,0.95)--(3.05,0.95)--(3.05,1.05)--(2.95,1.05)--cycle,black); filldraw((2.45,0.95)--(2.55,0.95)--(2.55,1.05)--(2.45,1.05)--cycle,black); filldraw((3.45,0.95)--(3.55,0.95)--(3.55,1.05)--(3.45,1.05)--cycle,black);  filldraw((2.95,1.95)--(3.05,1.95)--(3.05,2.05)--(2.95,2.05)--cycle,black); filldraw((2.45,1.95)--(2.55,1.95)--(2.55,2.05)--(2.45,2.05)--cycle,black); filldraw((3.45,1.95)--(3.55,1.95)--(3.55,2.05)--(3.45,2.05)--cycle,black);  dot((4,0),linewidth(9bp)); dot((5,0),linewidth(9bp)); dot((4,1),linewidth(9bp)); dot((5,1),linewidth(9bp)); dot((4,2),linewidth(9bp)); dot((5,2),linewidth(9bp));  [/asy]",
+    "answer": "19",
+    "data_source": "MATH500",
+    "data_source_id": 168,
+    "lang": "ja",
+    "gid": 164
+  },
+  {
+    "question": "三角形の各辺の長さが5, 5, 6単位の場合、その面積の平方単位数はいくつですか？",
+    "answer": "12",
+    "data_source": "MATH500",
+    "data_source_id": 169,
+    "lang": "ja",
+    "gid": 165
+  },
+  {
+    "question": "二つの方程式 $y=x^2-8$ と $y^2=-5x+44$ のすべての異なる解 $(x,y)$ の $y$ 座標の積を求めなさい。",
+    "answer": "1736",
+    "data_source": "MATH500",
+    "data_source_id": 170,
+    "lang": "ja",
+    "gid": 166
+  },
+  {
+    "question": "算術数列の第4項が$200$で、第8項が$500$の場合、第6項はいくつですか？",
+    "answer": "350",
+    "data_source": "MATH500",
+    "data_source_id": 172,
+    "lang": "ja",
+    "gid": 167
+  },
+  {
+    "question": "幾何級数 $4+\\frac{12}{a}+\\frac{36}{a^2}+\\cdots$ を考えてみましょう。この和が完全平方数の場合、$a$が正の整数である最小の$a$の値はいくつでしょうか？",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 173,
+    "lang": "ja",
+    "gid": 168
+  },
+  {
+    "question": "放物線 $x = y^2 - 4y - 1$ のグラフはいくつの $y$ 切片を持っていますか？",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 174,
+    "lang": "ja",
+    "gid": 169
+  },
+  {
+    "question": "$m$と$n$が整数であり、$3m + 4n = 100$を満たす場合、$\\left| m - n \\right|$の最小値は何ですか？",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 175,
+    "lang": "ja",
+    "gid": 170
+  },
+  {
+    "question": "積 $10 \\times 15 \\times 24$ の正の平方根は何ですか？",
+    "answer": "60",
+    "data_source": "MATH500",
+    "data_source_id": 178,
+    "lang": "ja",
+    "gid": 171
+  },
+  {
+    "question": "100と150の両方の因子である2桁の正の整数はいくつありますか？",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 180,
+    "lang": "ja",
+    "gid": 172
+  },
+  {
+    "question": "ベーカー中学校の生徒の3分の2が音楽を学んでいます。音楽を学ぶ生徒は834人です。ベーカー中学校には何人の生徒がいますか？",
+    "answer": "1251",
+    "data_source": "MATH500",
+    "data_source_id": 182,
+    "lang": "ja",
+    "gid": 173
+  },
+  {
+    "question": "$\\sqrt{2}+\\frac{1}{\\sqrt{2}} + \\sqrt{3} + \\frac{1}{\\sqrt{3}}$ を $\\dfrac{a\\sqrt{2} + b\\sqrt{3}}{c}$ の形式で、$a$、$b$、$c$ が正の整数で、$c$ が可能な限り小さい値になるように書くと、$a+b+c$ は何ですか?",
+    "answer": "23",
+    "data_source": "MATH500",
+    "data_source_id": 183,
+    "lang": "ja",
+    "gid": 174
+  },
+  {
+    "question": "${(3^k)}^6=3^6$の場合、$k$を求めなさい。",
+    "answer": "1",
+    "data_source": "MATH500",
+    "data_source_id": 185,
+    "lang": "ja",
+    "gid": 175
+  },
+  {
+    "question": "正の整数$n>1$で$2^{24}$が完全な$n$乗となるものは何個ありますか？",
+    "answer": "7",
+    "data_source": "MATH500",
+    "data_source_id": 186,
+    "lang": "ja",
+    "gid": 176
+  },
+  {
+    "question": "Hillaryが11枚のコインを持っており、すべてがダイムとニッケルです。合計でコインは75セントの価値があります。彼女は何枚のニッケルを持っていますか？",
+    "answer": "7",
+    "data_source": "MATH500",
+    "data_source_id": 187,
+    "lang": "ja",
+    "gid": 177
+  },
+  {
+    "question": "関数 $f(x)=e^{3x^2-|\\lfloor x \\rfloor|!}+\\binom{22+735235|\\lfloor x \\rfloor |}{2356}+\\phi(|\\lfloor x \\rfloor|+1)+72x^4+3x^3-6x^2+2x+1$ と $g(x)=e^{3x^2-|\\lfloor x \\rfloor|!}+\\binom{22+735235|\\lfloor x \\rfloor |}{2356}+\\phi(|\\lfloor x \\rfloor|+1)+72x^4+4x^3-11x^2-6x+13$ のグラフが交わる最大の $x$ の値を求めよ。ここで、$\\lfloor x \\rfloor$ は $x$ の床関数を、$\\phi(n)$ は $n$ と互いに素で $n$ 以下の正の整数の和を表す。",
+    "answer": "6",
+    "data_source": "MATH500",
+    "data_source_id": 188,
+    "lang": "ja",
+    "gid": 178
+  },
+  {
+    "question": "平面の上に5つの点$A$、$B$、$C$、$D$、$O$があります。点$A$は点$O$の真北に、点$B$は点$O$の真西に、点$C$は点$O$の真南に、そして点$D$は点$O$の真東に位置しています。点$C$と$D$の間隔は140mです。熱気球は$H$の位置、つまり点$O$の真上の空中に配置されています。この気球は$HA$、$HB$、$HC$、$HD$の4つのロープによって固定されています。ロープ$HC$の長さは150m、ロープ$HD$の長さは130mです。[asy] size(250); pair A, B, C, D, O, H, W, X, Y, Z; O=(0,0); A=(1,1); D=(1.5,-.3); B=(-1.5,.3); C=(-1,-1); H=(0,2.5); W=(5/3)*(A+D); X=(5/3)*(A+B); Y=(-1)*(W); Z=(-1)*(X); draw(W--X--Y--Z--W); draw(A--C); draw(B--D); draw(O--H, linewidth(1)); draw(A--H, dashed); draw(B--H, dashed); draw(C--H, dashed); draw(D--H, dashed); dot(A); dot(B); dot(C); dot(D); dot(O); dot(H); label(\"A\", A, NE); label(\"B\", B, SW); label(\"C\", C, SE); label(\"D\", D, NE); label(\"O\", O, SE); label(\"H\", H, NW); [/asy]  使うロープの全長を減らすために、ロープ$HC$とロープ$HD$を一本のロープ$HP$に置き換えることにします。ここで、$P$は$C$と$D$の間の直線上の点です。（バルーンは上記の通り、点$O$の上の$H$の位置に据え置かれます。）これにより節約できるロープの最大長さを求めてください。",
+    "answer": "160",
+    "data_source": "MATH500",
+    "data_source_id": 189,
+    "lang": "ja",
+    "gid": 179
+  },
+  {
+    "question": "点$(a, b)$は方程式$3x + 2y = 12$の線上に位置しています。$a = 4$のとき、$b$の値は何ですか？",
+    "answer": "0",
+    "data_source": "MATH500",
+    "data_source_id": 191,
+    "lang": "ja",
+    "gid": 180
+  },
+  {
+    "question": "$\\triangle PQR$において、$PQ = QR = 34$ で、$PR = 32$ です。中線 $\\overline{QM}$ の長さを求めなさい。",
+    "answer": "30",
+    "data_source": "MATH500",
+    "data_source_id": 192,
+    "lang": "ja",
+    "gid": 181
+  },
+  {
+    "question": "整数係数を持つ多項式が以下の形をしています。 \\[2x^4 + a_3 x^3 + a_2 x^2 + a_1 x + 1 = 0.\\] この多項式の異なる可能性のある有理根の数を求めなさい。",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 193,
+    "lang": "ja",
+    "gid": 182
+  },
+  {
+    "question": "$p(x)$を4次の主要多項式とします。$p(x)$の3つの根は1、2、そして3です。$p(0) + p(4)$を求めてください。",
+    "answer": "24",
+    "data_source": "MATH500",
+    "data_source_id": 195,
+    "lang": "ja",
+    "gid": 183
+  },
+  {
+    "question": "$x=441+2(21)(19)+361$を解いて、$x$の値を求めてください。",
+    "answer": "1600",
+    "data_source": "MATH500",
+    "data_source_id": 196,
+    "lang": "ja",
+    "gid": 184
+  },
+  {
+    "question": "$x^3$が$10!$の正の因子であれば、$x$のとりうる整数値は何個ありますか？（注意：正の整数$n$において、$n!$は1から$n$まで（$n$を含む）の整数の積を表します。）",
+    "answer": "6",
+    "data_source": "MATH500",
+    "data_source_id": 197,
+    "lang": "ja",
+    "gid": 185
+  },
+  {
+    "question": "7, 2, $x$、そして10の算術平均は9です。$x$の値は何ですか？",
+    "answer": "17",
+    "data_source": "MATH500",
+    "data_source_id": 199,
+    "lang": "ja",
+    "gid": 186
+  },
+  {
+    "question": "もし4ダップスが7ヤップスに等しく、5ヤップスが3バップスに等しいならば、42バップスは何ダップスに等しいですか？",
+    "answer": "40",
+    "data_source": "MATH500",
+    "data_source_id": 200,
+    "lang": "ja",
+    "gid": 187
+  },
+  {
+    "question": "$N$人の生徒（$N < 50$）が遠足に行っています。教師が彼らを8人のグループに分けると、最後のグループには5人の生徒がいます。その代わりに教師が彼らを6人のグループに分けると、最後のグループには3人の生徒がいます。$N$のすべての可能な値の合計は何ですか？",
+    "answer": "66",
+    "data_source": "MATH500",
+    "data_source_id": 201,
+    "lang": "ja",
+    "gid": 188
+  },
+  {
+    "question": "$(5x + 9)^{611} + (x + 5)^{11} + (x - 1)^{11} + 3x^2 + 1$を$x + 2$で割ったときの余りを求めなさい。",
+    "answer": "12",
+    "data_source": "MATH500",
+    "data_source_id": 203,
+    "lang": "ja",
+    "gid": 189
+  },
+  {
+    "question": "$a,$ $b,$ $c,$ $d$ が異なる複素数で、$|a| = |b| = |c| = |d| = 1$ かつ $a + b + c + d = 0$ とします。\\[|(a + b)(a + c)(a + d)(b + c)(b + d)(c + d)|.\\] の最大値を求めなさい。",
+    "answer": "0",
+    "data_source": "MATH500",
+    "data_source_id": 204,
+    "lang": "ja",
+    "gid": 190
+  },
+  {
+    "question": "ミッカは異なる2種類のトッピングをのせたピザを注文したいと思っています。選べるトッピングは8種類あります。彼は何種類の異なるピザを注文できるでしょうか？",
+    "answer": "28",
+    "data_source": "MATH500",
+    "data_source_id": 207,
+    "lang": "ja",
+    "gid": 191
+  },
+  {
+    "question": "最初の100個の正の整数のうち、$3, 4,$ および $5$ で割り切れるものはいくつありますか？",
+    "answer": "1",
+    "data_source": "MATH500",
+    "data_source_id": 208,
+    "lang": "ja",
+    "gid": 192
+  },
+  {
+    "question": "二桁の整数$``\\text{AB}\"$を立方すると、その値は$912,\\!673$になります。$A + B$はいくつですか？",
+    "answer": "16",
+    "data_source": "MATH500",
+    "data_source_id": 209,
+    "lang": "ja",
+    "gid": 193
+  },
+  {
+    "question": "12個の1×1の正方形が図のように長方形を形成しています。斜線領域の面積の合計は何ですか？[asy] size(4cm);defaultpen(linewidth(0.75));  // Filled portions fill((0, 4)--(0, 0)--(2, 0)--cycle, gray(0.75)); fill((0, 4)--(3, 4)--(3, 0)--cycle, gray(0.75));  // grid int j; for (j = 0; j < 4; ++j) {draw((j, 0)--(j, 4));} for (j = 0; j < 5; ++j) {draw((0, j)--(3, j));}  //diagonals draw((0, 4)--(3, 0)); draw((0, 4)--(2, 0)); [/asy]",
+    "answer": "10",
+    "data_source": "MATH500",
+    "data_source_id": 210,
+    "lang": "ja",
+    "gid": 194
+  },
+  {
+    "question": "$5^5\\div5^4-5^3+5^2\\cdot5^1$ を整数で表現してください。",
+    "answer": "5",
+    "data_source": "MATH500",
+    "data_source_id": 211,
+    "lang": "ja",
+    "gid": 195
+  },
+  {
+    "question": "最近、フランクは100問の適性検査を受けました。正解は$5$点、不正解は$-2$点、未解答は0点でした。フランクは$80問に解答し、$232$点を獲得しました。彼は何問正解しましたか？",
+    "answer": "56",
+    "data_source": "MATH500",
+    "data_source_id": 212,
+    "lang": "ja",
+    "gid": 196
+  },
+  {
+    "question": "次の数式を計算せよ： \\[\\sum_{n = 1}^\\infty \\frac{F_{n + 1}}{F_n F_{n + 2}},\\] ここで、 $F_n$ は $n$ 番目のフィボナッチ数を示し、$F_0 = 0$ および $F_1 = 1$ です。",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 213,
+    "lang": "ja",
+    "gid": 197
+  },
+  {
+    "question": "私の学校には360人の生徒がいます。15人が微積分、物理、化学を履修し、15人はどれも履修していません。微積分を履修しているのは180人です。化学を履修する生徒は物理の2倍です。微積分と化学の両方を履修する生徒は75人、物理と化学の両方を履修する生徒は75人です。物理と微積分の両方を履修する生徒はわずか30人です。物理を履修する生徒は何人ですか？",
+    "answer": "110",
+    "data_source": "MATH500",
+    "data_source_id": 214,
+    "lang": "ja",
+    "gid": 198
+  },
+  {
+    "question": "$x^2 - x - 1 = 0$ の場合、$x^3 - 2x + 1$ の値は何ですか?",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 215,
+    "lang": "ja",
+    "gid": 199
+  },
+  {
+    "question": "インクの国では、通貨体系が独特です。1トリンケットは4ブリンケットと等しく、3ブリンケットは7ドリンケットと等しいです。トリンケットで、56ドリンケットの価値はいくらですか？",
+    "answer": "6",
+    "data_source": "MATH500",
+    "data_source_id": 216,
+    "lang": "ja",
+    "gid": 200
+  },
+  {
+    "question": "整数240と$k$の積は完全立方数です。$k$の最小の正の値は何ですか？",
+    "answer": "900",
+    "data_source": "MATH500",
+    "data_source_id": 221,
+    "lang": "ja",
+    "gid": 201
+  },
+  {
+    "question": "$\\triangle ABC$の面積は6平方センチメートルです。 $\\overline{AB}\\|\\overline{DE}$。 $BD=4BC$。 $\\triangle CDE$の面積は何平方センチメートルですか？ [asy] draw((-.3,-3)--(.1,1)--(-1,0)--(3,0)--cycle); label(\"$A$\",(.1,1),N); label(\"$B$\",(-1,0),W); label(\"$C$\",(0,0),NE); label(\"$D$\",(3,0),E); label(\"$E$\",(-.3,-3),S); [/asy]",
+    "answer": "54",
+    "data_source": "MATH500",
+    "data_source_id": 222,
+    "lang": "ja",
+    "gid": 202
+  },
+  {
+    "question": "分数$\\frac{4321}{5^7\\cdot2^8}$の終端小数表現における各桁の和はいくつですか？",
+    "answer": "14",
+    "data_source": "MATH500",
+    "data_source_id": 223,
+    "lang": "ja",
+    "gid": 203
+  },
+  {
+    "question": "$x=4$のとき、$$ (3x-2)(4x+1)-(3x-2)4x+1 $$の値は何ですか？",
+    "answer": "11",
+    "data_source": "MATH500",
+    "data_source_id": 225,
+    "lang": "ja",
+    "gid": 204
+  },
+  {
+    "question": "ボールが区別できず、箱も区別できない場合、5つのボールを2つの箱に入れる方法は何通りありますか？",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 226,
+    "lang": "ja",
+    "gid": 205
+  },
+  {
+    "question": "ヤンとカミーユがレストランに行きます。メニューに10品目あり、それぞれが1品ずつ注文した場合、ヤンとカミーユが同じ料理を注文しないのであれば、何通りの組み合わせの料理を注文できるでしょうか？（誰が何を注文するかは重要です。ヤンがチキンを注文し、カミーユが魚を注文するのと、ヤンが魚を注文し、カミーユがチキンを注文するのとでは、注文の仕方が異なります。）",
+    "answer": "90",
+    "data_source": "MATH500",
+    "data_source_id": 229,
+    "lang": "ja",
+    "gid": 206
+  },
+  {
+    "question": "エイミー、ベン、そしてクリスの年齢の平均は6歳です。4年前、クリスは現在のエイミーと同じ年齢でした。4年後、ベンの年齢はその時のエイミーの年齢の$\\frac{3}{5}$になります。クリスは現在何歳ですか？",
+    "answer": "10",
+    "data_source": "MATH500",
+    "data_source_id": 231,
+    "lang": "ja",
+    "gid": 207
+  },
+  {
+    "question": "$f$を$f(x) = x^3 - 49x^2 + 623x - 2015$と定義し、$g(x) = f(x + 5)$としましょう。$g$の根の和を計算します。",
+    "answer": "34",
+    "data_source": "MATH500",
+    "data_source_id": 234,
+    "lang": "ja",
+    "gid": 208
+  },
+  {
+    "question": "次の式を計算してください。 \\[\\frac{1}{\\cos^2 10^\\circ} + \\frac{1}{\\sin^2 20^\\circ} + \\frac{1}{\\sin^2 40^\\circ}.\\]",
+    "answer": "12",
+    "data_source": "MATH500",
+    "data_source_id": 236,
+    "lang": "ja",
+    "gid": 209
+  },
+  {
+    "question": "$x$、$y$、$z$が正で、$xy = 24$、$xz = 48$、$yz = 72$の場合、$x + y + z$を求めなさい。",
+    "answer": "22",
+    "data_source": "MATH500",
+    "data_source_id": 237,
+    "lang": "ja",
+    "gid": 210
+  },
+  {
+    "question": "実数$x$で、以下の関数の定義域に含まれないものは何か。  $f(x)=\\frac{1}{|x^2+3x-4|+|x^2+9x+20|}$？",
+    "answer": "-4",
+    "data_source": "MATH500",
+    "data_source_id": 238,
+    "lang": "ja",
+    "gid": 211
+  },
+  {
+    "question": "直線 $y=ax+c$、$y=ax+d$、$y=bx+c$、及び $y=bx+d$ によって囲まれた平行四辺形の面積が 18 である。直線 $y=ax+c$、$y=ax-d$、$y=bx+c$、及び $y=bx-d$ によって囲まれた平行四辺形の面積が 72 である。$a$、$b$、$c$、$d$ が正の整数であるとき、$a+b+c+d$ の最小値はいくつか？",
+    "answer": "16",
+    "data_source": "MATH500",
+    "data_source_id": 239,
+    "lang": "ja",
+    "gid": 212
+  },
+  {
+    "question": "図において、$PT$は$QR$に対して平行です。$\\angle PQR$の角度は何度ですか？  [asy] draw((0,0)--(10,0),black+linewidth(1)); draw((0,0)--(10,0),MidArrow); draw((10,0)--(20,0),black+linewidth(1)); draw((0,0)--(-7,10)--(7,10)--(10,0),black+linewidth(1)); draw((-5,10)--(7,10),MidArrow); label(\"$x^{\\circ}$\",(-6,10),SE); label(\"$2x^{\\circ}$\",(7,10),SW); label(\"$128^{\\circ}$\",(10,0),NE); label(\"$P$\",(-7,10),N); label(\"$T$\",(7,10),N); label(\"$R$\",(10,0),S); label(\"$Q$\",(0,0),S); [/asy]",
+    "answer": "116",
+    "data_source": "MATH500",
+    "data_source_id": 240,
+    "lang": "ja",
+    "gid": 213
+  },
+  {
+    "question": "原点とグラフ $y=\\frac{1}{2}x^2-9$ 上の点との間の最小距離は $a$ と表現できます。 $a^2$ を求めなさい。",
+    "answer": "17",
+    "data_source": "MATH500",
+    "data_source_id": 241,
+    "lang": "ja",
+    "gid": 214
+  },
+  {
+    "question": "三角形の辺の長さが1ユニットと3ユニットの場合、残りの1辺の長さは整数値のユニットです。 残りの一辺の長さは何ユニットですか？",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 243,
+    "lang": "ja",
+    "gid": 215
+  },
+  {
+    "question": "凸多角形で、1つの内角を除いた内角の和が$1070^{\\circ}$であるとき、辺の数はいくつですか？",
+    "answer": "8",
+    "data_source": "MATH500",
+    "data_source_id": 244,
+    "lang": "ja",
+    "gid": 216
+  },
+  {
+    "question": "12人の友人がオスカーズ・オーバースタッフド・オイスターハウスで夕食をとり、それぞれ1品ずつ注文しました。量がとても多くて、18人分もありました。もしシェアするなら、12人分にちょうど足りる量にするには何品注文すればいいでしょうか？",
+    "answer": "8",
+    "data_source": "MATH500",
+    "data_source_id": 246,
+    "lang": "ja",
+    "gid": 217
+  },
+  {
+    "question": "$0<t<23$ かつ $t+2$ が $23$ を法とした $t$ の逆数であるような唯一の $\\textbf{奇数}$ 整数 $t$ を見つけなさい。",
+    "answer": "17",
+    "data_source": "MATH500",
+    "data_source_id": 249,
+    "lang": "ja",
+    "gid": 218
+  },
+  {
+    "question": "もし$a$が$x$軸との交点、$b$が$y$軸との交点、そして$m$が直線の傾きで、その直線の方程式が $\\frac{x}{4} + \\frac{y}{12} = 1$であるなら、$a + b + m$ の値は何でしょうか？",
+    "answer": "13",
+    "data_source": "MATH500",
+    "data_source_id": 250,
+    "lang": "ja",
+    "gid": 219
+  },
+  {
+    "question": "赤信号で一度に一台ずつ6台の車が停止します。その信号では、左折用レーン、直進用レーン、右折用レーンの3つのレーンがあります。すべてのレーンが使用される場合、車は何通りの方法で並べられるでしょうか？  最初の車が左折し、二番目の車が直進すると、これは最初の車が直進し、二番目の車が左折するのとは異なると見なされます。つまり、車は識別可能ですが、交差点には固定された順番で到着します。",
+    "answer": "540",
+    "data_source": "MATH500",
+    "data_source_id": 251,
+    "lang": "ja",
+    "gid": 220
+  },
+  {
+    "question": "実数$x$における$4(x + 7)(2 - x)$の最大値は何ですか？",
+    "answer": "81",
+    "data_source": "MATH500",
+    "data_source_id": 252,
+    "lang": "ja",
+    "gid": 221
+  },
+  {
+    "question": "パットはチョコチップ、オートミール、ピーナッツバターのクッキーのみを含むトレイから6枚のクッキーを選ぶことになっています。この3種類のクッキーはそれぞれ最低6枚ずつトレイにあります。異なる6枚のクッキーの詰め合わせは何通り選ぶことができるでしょうか？（同じ種類のクッキーは区別できないとします。）",
+    "answer": "28",
+    "data_source": "MATH500",
+    "data_source_id": 254,
+    "lang": "ja",
+    "gid": 222
+  },
+  {
+    "question": "私の袋には黄色と青のビー玉が入っています。現在、青のビー玉と黄色のビー玉の比率は4:3です。もし私が青のビー玉を5個追加し、黄色のビー玉を3個取り除くと、その比率は7:3になります。私がもっと追加する前に袋の中にいくつ青のビー玉がありましたか？",
+    "answer": "16",
+    "data_source": "MATH500",
+    "data_source_id": 258,
+    "lang": "ja",
+    "gid": 223
+  },
+  {
+    "question": "数$5+\\sqrt{3}$とその共役根との積を計算しなさい。",
+    "answer": "22",
+    "data_source": "MATH500",
+    "data_source_id": 259,
+    "lang": "ja",
+    "gid": 224
+  },
+  {
+    "question": "もし$10^x - 10 = 9990$であれば、$x$は何に等しいですか？",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 262,
+    "lang": "ja",
+    "gid": 225
+  },
+  {
+    "question": "正多角形において、内角の大きさは外角の大きさの6.5倍です。その多角形は何辺ありますか？",
+    "answer": "15",
+    "data_source": "MATH500",
+    "data_source_id": 263,
+    "lang": "ja",
+    "gid": 226
+  },
+  {
+    "question": "奇数列 1、3、5、7、$\\dots$ の 2003 番目の項は何ですか?",
+    "answer": "4005",
+    "data_source": "MATH500",
+    "data_source_id": 265,
+    "lang": "ja",
+    "gid": 227
+  },
+  {
+    "question": "$1 + 2 + 3 + 4 + \\dots + 9 + 10$ を9で割ったときの余りは何ですか？",
+    "answer": "1",
+    "data_source": "MATH500",
+    "data_source_id": 268,
+    "lang": "ja",
+    "gid": 228
+  },
+  {
+    "question": "数学の天才が彼の見分けがつかない2つのIMO金メダルと、見分けがつかない2つのIPhO金メダルを一列に並べたいと考えています。可能な異なる並び方は何通りありますか？",
+    "answer": "6",
+    "data_source": "MATH500",
+    "data_source_id": 269,
+    "lang": "ja",
+    "gid": 229
+  },
+  {
+    "question": "ショーのチケットは通常価格で$20$ドルです。スーザンは$25\\%$割引のクーポンを使って$4$枚のチケットを購入します。パムは$30\\%$割引のクーポンを使って$5$枚のチケットを購入します。パムはスーザンより何ドル多く支払いますか？",
+    "answer": "10",
+    "data_source": "MATH500",
+    "data_source_id": 270,
+    "lang": "ja",
+    "gid": 230
+  },
+  {
+    "question": "$1000$を法とする$997^{-1}$を計算してください。答えは$0$から$999$の整数で表してください。",
+    "answer": "333",
+    "data_source": "MATH500",
+    "data_source_id": 271,
+    "lang": "ja",
+    "gid": 231
+  },
+  {
+    "question": "$0.\\overline{1331}$が分数$\\frac{a}{b}$として書かれ、$a$と$b$が最大公約数が1の正の整数である場合、$a+b$は何ですか？",
+    "answer": "1030",
+    "data_source": "MATH500",
+    "data_source_id": 272,
+    "lang": "ja",
+    "gid": 232
+  },
+  {
+    "question": "1992年にイタリアでは、ジェラートを1200リラで購入できました。同じジェラートがアメリカでは$1.50でした。リラとドルの等価な為替レートで、1,000,000リラは何ドルに相当しますか？",
+    "answer": "1250",
+    "data_source": "MATH500",
+    "data_source_id": 273,
+    "lang": "ja",
+    "gid": 233
+  },
+  {
+    "question": "$f(x) = 2x-3$、$g(x) = x+1$とします。$g(f(5)-1)$の値は何ですか？",
+    "answer": "7",
+    "data_source": "MATH500",
+    "data_source_id": 275,
+    "lang": "ja",
+    "gid": 234
+  },
+  {
+    "question": "$x$ の実数値がいくつある場合、$\\sqrt{120-\\sqrt{x}}$ は整数になりますか?",
+    "answer": "11",
+    "data_source": "MATH500",
+    "data_source_id": 276,
+    "lang": "ja",
+    "gid": 235
+  },
+  {
+    "question": "8桁の2進数の整数のうち最大のものは何ですか？答えを10進数で表してください。",
+    "answer": "255",
+    "data_source": "MATH500",
+    "data_source_id": 278,
+    "lang": "ja",
+    "gid": 236
+  },
+  {
+    "question": "2より大きい異なる素数である$a$と$b$を考える。整数$a(2a+b)-2a^{2}+ab$にはいくつの正の整数の約数があるか？",
+    "answer": "8",
+    "data_source": "MATH500",
+    "data_source_id": 280,
+    "lang": "ja",
+    "gid": 237
+  },
+  {
+    "question": "数列 0, 1, 1, 3, 6, 9, 27, ... において、最初の項は 0 です。次の項は交互に加算と整数による乗算を行いながら生成されます。例えば、第二項は最初の項に 1 を加えることで生成され、第三項は第二項に 1 を乗じることで生成され、第四項は第三項に 2 を加えることで生成され、という具合に続きます。125 より大きい最初の項の値はいくつですか？",
+    "answer": "129",
+    "data_source": "MATH500",
+    "data_source_id": 282,
+    "lang": "ja",
+    "gid": 238
+  },
+  {
+    "question": "これは何ですか$\\left(4\\dfrac{5}{8}\\right)^{55} \\cdot \\left(\\dfrac{8}{37}\\right)^{55}$？",
+    "answer": "1",
+    "data_source": "MATH500",
+    "data_source_id": 283,
+    "lang": "ja",
+    "gid": 239
+  },
+  {
+    "question": "SteveはJonに言います、「私はすべての根が正の整数である多項式を考えています。その多項式はある正の整数 $a$ と $c$ に対して $P(x) = 2x^3 - 2ax^2 + (a^2 - 81)x - c$ の形をしています。$a$ と $c$ の値を教えてくれますか？」  計算の後、Jonは言います、「そのような多項式は1つ以上あります。」  Steveは言います、「正解です。こちらが $a$ の値です。」と正の整数を書き、聞きます、「$c$ の値を教えてくれますか？」  Jonは言います、「$c$ の可能性のある値はまだ2つあります。」  $c$ の2つの可能性のある値の和を求めてください。",
+    "answer": "440",
+    "data_source": "MATH500",
+    "data_source_id": 285,
+    "lang": "ja",
+    "gid": 240
+  },
+  {
+    "question": "1つのギアは1分で$33\\frac{1}{3}$回転します。 もう1つのギアは1分で45回転します。 最初に、各ギアのマークが北を指しています。 両方のギアのマークが次に北を指すまでに何秒かかりますか？",
+    "answer": "36",
+    "data_source": "MATH500",
+    "data_source_id": 287,
+    "lang": "ja",
+    "gid": 241
+  },
+  {
+    "question": "直線は次のように定義されます \\[\\begin{pmatrix} 3 \\\\ -10 \\\\ 1 \\end{pmatrix} + t \\begin{pmatrix} 2 \\\\ -9 \\\\ -2 \\end{pmatrix}.\\] もう一つの直線は次のように定義されます \\[\\begin{pmatrix} -5 \\\\ -3 \\\\ 6 \\end{pmatrix} + u \\begin{pmatrix} 4 \\\\ -18 \\\\ -4 \\end{pmatrix}.\\] これらの二つの直線は平行です。これら二つの直線間の距離を求めてください。",
+    "answer": "7",
+    "data_source": "MATH500",
+    "data_source_id": 288,
+    "lang": "ja",
+    "gid": 242
+  },
+  {
+    "question": "$a,$ $b,$ $c,$ $d$ が正の実数であるとする。以下の最小値を求めよ。  \\[(a + b + c + d) \\left( \\frac{1}{a} + \\frac{1}{b} + \\frac{1}{c} + \\frac{1}{d} \\right).\\]",
+    "answer": "16",
+    "data_source": "MATH500",
+    "data_source_id": 289,
+    "lang": "ja",
+    "gid": 243
+  },
+  {
+    "question": "$r$ の値を求めよ。ただし、$$\\frac{6r^2 -19r - 7}{2r-7} = 4r-3.$$",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 290,
+    "lang": "ja",
+    "gid": 244
+  },
+  {
+    "question": "次の点を頂点とする長方形の領域を考えてみてください: $$(5, 4), (-5, 4), (-5, -4), (5, -4).$$ この長方形の領域の厳密な内側に何個の整数座標の点が存在しますか？",
+    "answer": "63",
+    "data_source": "MATH500",
+    "data_source_id": 291,
+    "lang": "ja",
+    "gid": 245
+  },
+  {
+    "question": "\\begin{align*}x_{1}&=211、\\\\ x_{2}&=375、\\\\ x_{3}&=420、\\\\ x_{4}&=523、\\ \\text{および}\\\\ x_{n}&=x_{n-1}-x_{n-2}+x_{n-3}-x_{n-4}\\ \\text{のとき}\\ n\\geq5 の場合、\\end{align*}$x_{531}+x_{753}+x_{975}$ の値を求めなさい。",
+    "answer": "898",
+    "data_source": "MATH500",
+    "data_source_id": 292,
+    "lang": "ja",
+    "gid": 246
+  },
+  {
+    "question": "回文は、前後どちらから読んでも同じになる数字のことを言います。特定の連続する3つの正の整数の和が3桁の回文になります。その和が220より小さい場合、その集合の中で最大の整数の最大の可能な値は何ですか？",
+    "answer": "58",
+    "data_source": "MATH500",
+    "data_source_id": 294,
+    "lang": "ja",
+    "gid": 247
+  },
+  {
+    "question": "方程式 $z^4+4z^3i-6z^2-4zi-i=0$ の解は複素平面において凸多角形の頂点となります。この多角形の面積は $p^{a/b},$ の形で表すことができ、ここで $a,$ $b,$ $p$ は正の整数、$p$ は素数、そして $a$ と $b$ は互いに素です。$a + b + p$ を求めなさい。",
+    "answer": "11",
+    "data_source": "MATH500",
+    "data_source_id": 295,
+    "lang": "ja",
+    "gid": 248
+  },
+  {
+    "question": "本が$n$枚の葉を持っているとは、$n$枚の紙で構成されていることを意味します。一方で、各紙の片面をページと定義しているため、ページの数は葉の数の2倍です。  ある本のページ数が$7$の倍数より$3$多く、葉の数が$100$を超える場合、最小の葉の数はいくつですか？",
+    "answer": "103",
+    "data_source": "MATH500",
+    "data_source_id": 297,
+    "lang": "ja",
+    "gid": 249
+  },
+  {
+    "question": "頂点が$(5,4),$ $(5,-4),$ $(-5,4),$ $(-5,-4)$である長方形を考える。整数座標が長方形の領域の厳密に内部にいくつあるか。",
+    "answer": "63",
+    "data_source": "MATH500",
+    "data_source_id": 299,
+    "lang": "ja",
+    "gid": 250
+  },
+  {
+    "question": "平面上に4つの異なる円が描かれています。少なくとも2つの円が交差している場合、交差点は最大でいくつありますか?",
+    "answer": "12",
+    "data_source": "MATH500",
+    "data_source_id": 300,
+    "lang": "ja",
+    "gid": 251
+  },
+  {
+    "question": "分数 $\\frac{31}{11111}$ を小数に変換するとき、その小数は循環小数となります。この循環小数で繰り返される数字はいくつありますか？  例えば、循環小数 $0.\\overline{123}$ が得られた場合、答えは $3$ であり、$0.436\\overline{7}$ が得られた場合、答えは $1$ です。",
+    "answer": "5",
+    "data_source": "MATH500",
+    "data_source_id": 302,
+    "lang": "ja",
+    "gid": 252
+  },
+  {
+    "question": "$ABCD$ が $\\overline{AD}|| \\overline{BC}$ である台形であると仮定します。$\\overline{AC}\\perp\\overline{CD}$、$\\overline{AC}$ が角 $\\angle BAD$ の二等分線であり、かつ $[ABCD]=42$ であるとき、$[\\triangle ACD]$ を求めなさい。",
+    "answer": "28",
+    "data_source": "MATH500",
+    "data_source_id": 303,
+    "lang": "ja",
+    "gid": 253
+  },
+  {
+    "question": "$x > 0$ の \\[\\frac{(x + 5)(x + 2)}{x + 1}\\] の最小値を求めなさい。",
+    "answer": "9",
+    "data_source": "MATH500",
+    "data_source_id": 304,
+    "lang": "ja",
+    "gid": 254
+  },
+  {
+    "question": "$c$ が方程式の根である場合に、$c^2 - 2$ も方程式の根となるような形式 $x^2 + ax + b = 0$ の二次方程式の数を求めなさい。",
+    "answer": "6",
+    "data_source": "MATH500",
+    "data_source_id": 306,
+    "lang": "ja",
+    "gid": 255
+  },
+  {
+    "question": "異なる正の整数の集合の積は84です。これらの整数の可能な最小の合計は何ですか？",
+    "answer": "14",
+    "data_source": "MATH500",
+    "data_source_id": 309,
+    "lang": "ja",
+    "gid": 256
+  },
+  {
+    "question": "操作@は単純化された分数$\\frac{p}{q}$に対して$\\frac{m}{n}@\\frac{p}{q} = (m)(p)\\left(\\frac{q}{n}\\right)$として定義されます。$\\frac{7}{30}@\\frac{10}{21}$の単純化された値は何ですか？",
+    "answer": "49",
+    "data_source": "MATH500",
+    "data_source_id": 310,
+    "lang": "ja",
+    "gid": 257
+  },
+  {
+    "question": "$$1+12+123+1234+12345+123456+1234567+12345678$$が9に対して合同で$n$であるとき、$0\\le n<9$である$n$の値は何ですか？",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 311,
+    "lang": "ja",
+    "gid": 258
+  },
+  {
+    "question": "正の整数 $a$、$b$、そして $2009$ で、$a < b < 2009$ を満たし、整数の比を持つ幾何数列を形成しています。$a$ は何ですか？",
+    "answer": "41",
+    "data_source": "MATH500",
+    "data_source_id": 315,
+    "lang": "ja",
+    "gid": 259
+  },
+  {
+    "question": "式 $10x^2-x-24$ は、$(Ax-8)(Bx+3)$ のように書くことができます。ここで、$A$と$B$は整数です。$AB + B$は何になりますか？",
+    "answer": "12",
+    "data_source": "MATH500",
+    "data_source_id": 316,
+    "lang": "ja",
+    "gid": 260
+  },
+  {
+    "question": "$a,$ $b,$ そして $c$ を異なる実数とする。多項式 \\[p(x) = \\frac{(x - b)(x - c)}{(a - b)(a - c)} + \\frac{(x - a)(x - c)}{(b - a)(b - c)} + \\frac{(x - a)(x - b)}{(c - a)(c - b)}.\\] の次数を求めよ。",
+    "answer": "0",
+    "data_source": "MATH500",
+    "data_source_id": 317,
+    "lang": "ja",
+    "gid": 261
+  },
+  {
+    "question": "方程式$|x-4| -10 = 2$で、$x$のすべての可能な値の積は何ですか？",
+    "answer": "-128",
+    "data_source": "MATH500",
+    "data_source_id": 319,
+    "lang": "ja",
+    "gid": 262
+  },
+  {
+    "question": "このままの一定の速さで前進するロボットは、1キロメートルを移動するのに2.5時間かかります。同じ一定の速さで前進すると、特定の廊下の長さを移動するのにロボットは90秒かかります。廊下は何メートルの長さですか？",
+    "answer": "10",
+    "data_source": "MATH500",
+    "data_source_id": 321,
+    "lang": "ja",
+    "gid": 263
+  },
+  {
+    "question": "$f(x) = x - 3$ および $q(x) = bx + 1$ とします。 もし $f(q(1)) = -3$ なら、$b$ は何になりますか？",
+    "answer": "-1",
+    "data_source": "MATH500",
+    "data_source_id": 322,
+    "lang": "ja",
+    "gid": 264
+  },
+  {
+    "question": "図において、中心が$D$で半径が$1$および$2$の2つの円があります。灰色に塗られた領域の面積は、大きな円の面積の$\\frac5{12}$です。（小さい方の）$\\angle ADC$の大きさは何度でしょうか？ [asy] size(4cm); defaultpen(linewidth(0.75)); real adc = 100; pair d = (0, 0); pair a = 2 * dir(100); pair c = (2, 0); path inner = arc(d, a/2, c/2, CW);  path outer = arc(d, c, a, CCW); guide region1 = (a--a/2)..inner..(c/2--c)..outer..cycle; guide region2 = arc(d, a/2, c/2, CCW)..(c/2--d--a/2)..cycle; fill(region1, gray(0.75)); fill(region2, gray(0.75)); draw(unitcircle); draw(scale(2) * unitcircle); draw(a--d--c); label(\"$A$\", a, N); label(\"$C$\", c, E); label(\"$D$\", d, NE); [/asy]",
+    "answer": "120",
+    "data_source": "MATH500",
+    "data_source_id": 324,
+    "lang": "ja",
+    "gid": 265
+  },
+  {
+    "question": "円筒形のビーカーが高さ8 cm、半径3 cmです。半径6 cmの球形タンクを満たすのに、そのようなビーカーの水が何個必要ですか？",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 325,
+    "lang": "ja",
+    "gid": 266
+  },
+  {
+    "question": "$P(x)$ を次数3の正規多項式とする。$P(x)$が $(x - 1)(x - 4)$ で割ったときの余りを $R(x)$ とし、$(x - 2)(x - 3)$ で割ったときの余りを $2R(x)$ とする。$P(0) = 5$ のとき、$P(5)$ を求めよ。",
+    "answer": "15",
+    "data_source": "MATH500",
+    "data_source_id": 327,
+    "lang": "ja",
+    "gid": 267
+  },
+  {
+    "question": "$f(x)=\\left\\lfloor\\left(-\\frac58\\right)^x\\right\\rfloor$ を、$[0,\\infty)$ の範囲内の $x$ のすべての値に対して定義され、$f(x)$ が実数となる関数とします。$f(x)$ の範囲には、いくつの異なる値が存在するでしょうか？",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 328,
+    "lang": "ja",
+    "gid": 268
+  },
+  {
+    "question": "自転車が毎分20フィートで移動しています。自転車の速度を秒速何インチで表しますか？",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 329,
+    "lang": "ja",
+    "gid": 269
+  },
+  {
+    "question": "上院委員会は共和党員8名と民主党員6名で構成されています。各党から少なくとも1名を含む5名の小委員会を組織する方法は何通りありますか？",
+    "answer": "1940",
+    "data_source": "MATH500",
+    "data_source_id": 330,
+    "lang": "ja",
+    "gid": 270
+  },
+  {
+    "question": "正の実数 $x,$ $y,$ $z$ が $xyz(x + y + z) = 1$ を満たすとき、 \\[(x + y)(y + z)\\] の最小値を求めよ。",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 332,
+    "lang": "ja",
+    "gid": 271
+  },
+  {
+    "question": "もし \\[\\sqrt[3]{2} = a + \\cfrac{1}{b + \\cfrac{1}{c + \\cfrac{1}{d + \\dotsb}}},\\]ここで、$a,$ $b,$ $c,$ $d$ は正の整数であるとき、$b$ を求めよ。",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 333,
+    "lang": "ja",
+    "gid": 272
+  },
+  {
+    "question": "もし $a+b=8$, $b+c=-3$, そして $a+c= -5$ であれば、積 $abc$ の値は何ですか？",
+    "answer": "-120",
+    "data_source": "MATH500",
+    "data_source_id": 334,
+    "lang": "ja",
+    "gid": 273
+  },
+  {
+    "question": "フィボナッチ数列は、1, 1, 2, 3, 5, $\\ldots$と続き、各項が前の2項の和である数列です。数列の$100^{\\mathrm{th}}$項を4で割った余りは何ですか？",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 335,
+    "lang": "ja",
+    "gid": 274
+  },
+  {
+    "question": "$513^2 - 487^2$ の値は何ですか？",
+    "answer": "26000",
+    "data_source": "MATH500",
+    "data_source_id": 336,
+    "lang": "ja",
+    "gid": 275
+  },
+  {
+    "question": "三つの連続する整数の積は120です。その積を三つの整数の平均で割ると24になります。三つの連続する整数の中で最大のものは何ですか？",
+    "answer": "6",
+    "data_source": "MATH500",
+    "data_source_id": 337,
+    "lang": "ja",
+    "gid": 276
+  },
+  {
+    "question": "その逆数の2倍より1小さい最小の数は何ですか?",
+    "answer": "-2",
+    "data_source": "MATH500",
+    "data_source_id": 341,
+    "lang": "ja",
+    "gid": 277
+  },
+  {
+    "question": "どの整数$x$が$\\frac{1}{4}<\\frac{x}{7}<\\frac{1}{3}$を満たすか？",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 342,
+    "lang": "ja",
+    "gid": 278
+  },
+  {
+    "question": "以下のように定義される関数$f(n)$について、 \\[ f(n) = \\begin{cases} 4n+3 &\\text{if }n<a, \\\\ 7n-12 &\\text{if }n\\ge{a}. \\end{cases} \\] グラフ$y=f(n)$が連続になるような$a$を求めなさい。",
+    "answer": "5",
+    "data_source": "MATH500",
+    "data_source_id": 344,
+    "lang": "ja",
+    "gid": 279
+  },
+  {
+    "question": "もし、$t(x) = 3-g(x)$ かつ $g(x) = \\sqrt{x}$ ならば、$t(g(16))$は何になりますか？",
+    "answer": "1",
+    "data_source": "MATH500",
+    "data_source_id": 345,
+    "lang": "ja",
+    "gid": 280
+  },
+  {
+    "question": "$x$ の正の値を求めよ: $\\sqrt[3]{x^2 - 4x + 4} = 16$.",
+    "answer": "66",
+    "data_source": "MATH500",
+    "data_source_id": 346,
+    "lang": "ja",
+    "gid": 281
+  },
+  {
+    "question": "$\\dbinom{31}{28}$を計算しなさい。",
+    "answer": "4495",
+    "data_source": "MATH500",
+    "data_source_id": 348,
+    "lang": "ja",
+    "gid": 282
+  },
+  {
+    "question": "正方形のテーブルに一辺に2人が座るように、8人を何通りに座らせることができますか？（配置が他の配置の回転である場合、それらは同等と見なされます。）",
+    "answer": "10080",
+    "data_source": "MATH500",
+    "data_source_id": 349,
+    "lang": "ja",
+    "gid": 283
+  },
+  {
+    "question": "$18^6$の単位桁を求めなさい。",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 350,
+    "lang": "ja",
+    "gid": 284
+  },
+  {
+    "question": "$6$冊の異なる本があるとし、そのうち$2$冊が数学の本です。数学の本が隣り合わないように、$6$冊の本を棚に何通りの方法で並べることができますか？",
+    "answer": "480",
+    "data_source": "MATH500",
+    "data_source_id": 353,
+    "lang": "ja",
+    "gid": 285
+  },
+  {
+    "question": "連続する27個の正の整数の合計は$3^7$です。それらの中央値は何ですか？",
+    "answer": "81",
+    "data_source": "MATH500",
+    "data_source_id": 354,
+    "lang": "ja",
+    "gid": 286
+  },
+  {
+    "question": "$a,$ $b,$ $c$ を正の実数とします。\\[\\frac{(a + b + c)[(a + b)^2 + (a + b + 4c)^2]}{abc}.\\] の最小値を求めなさい。",
+    "answer": "100",
+    "data_source": "MATH500",
+    "data_source_id": 355,
+    "lang": "ja",
+    "gid": 287
+  },
+  {
+    "question": "54枚のカードがあり、それを$x$人のプレイヤーに配ります。各プレイヤーが$y$枚のカードを受け取ります。$x$は少なくとも$2$であり、$y$は少なくとも$5$であるとき、$x$の取りうる値はいくつありますか？",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 357,
+    "lang": "ja",
+    "gid": 288
+  },
+  {
+    "question": "$x$、$y$、および$z$が以下の等式を満たすと仮定します \\begin{align*} xyz &= 4, \\\\ x^3 + y^3 + z^3 &= 4, \\\\ xy^2 + x^2 y + xz^2 + x^2 z + yz^2 + y^2 z &= 12. \\end{align*} $xy + yz + zx$の値を計算してください。",
+    "answer": "6",
+    "data_source": "MATH500",
+    "data_source_id": 359,
+    "lang": "ja",
+    "gid": 289
+  },
+  {
+    "question": "3にその数の逆数を加えたものが、その数で7を割った商に等しい。その数は何ですか？",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 363,
+    "lang": "ja",
+    "gid": 290
+  },
+  {
+    "question": "もし$a$と$b$が$\\gcd(a,b)=210$であり、$\\mathop{\\text{lcm}}[a,b]=210^3$で、そして$a<b$である正の整数であるならば、$a$にはいくつの可能な値がありますか？",
+    "answer": "8",
+    "data_source": "MATH500",
+    "data_source_id": 365,
+    "lang": "ja",
+    "gid": 291
+  },
+  {
+    "question": "合計$1+3+5+7+9+\\dots+195+197+199$の法$7$剰余を求めなさい。",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 366,
+    "lang": "ja",
+    "gid": 292
+  },
+  {
+    "question": "$f$が関数であり、$f^{-1}$が$f$の逆関数であるとします。もし$f(1)=2$、$f(2) = 6$、そして$f(3)=5$である場合、$f^{-1}(f^{-1}(6))$は何ですか？",
+    "answer": "1",
+    "data_source": "MATH500",
+    "data_source_id": 367,
+    "lang": "ja",
+    "gid": 293
+  },
+  {
+    "question": "三角形の二辺の長さがそれぞれ$8$ユニットである。もし三角形の三つ目の辺が全数の長さを持つなら、三角形の最大可能な周囲の長さは何ユニットか？",
+    "answer": "31",
+    "data_source": "MATH500",
+    "data_source_id": 368,
+    "lang": "ja",
+    "gid": 294
+  },
+  {
+    "question": "この台形の面積は何平方センチメートルですか？  [asy] defaultpen(linewidth(0.7)); draw((0,0)--(27,0)--(15,9)--(0,9)--cycle); label(\"5 cm\",(21,4.5),NE); label(\"5 cm\",(7.5,9),N); label(\"3 cm\",(0,4.5),W); label(\"9 cm\",(13.5,0),S); draw(rightanglemark((0,9),(0,0),(27,0),35)); draw(rightanglemark((0,0),(0,9),(15,9),35)); [/asy]",
+    "answer": "21",
+    "data_source": "MATH500",
+    "data_source_id": 369,
+    "lang": "ja",
+    "gid": 295
+  },
+  {
+    "question": "$\\begin{pmatrix} -2 \\\\ 0 \\\\ 7 \\end{pmatrix}$ と $\\begin{pmatrix} 3 \\\\ 4 \\\\ -5 \\end{pmatrix}$ のドット積を計算しなさい。",
+    "answer": "-41",
+    "data_source": "MATH500",
+    "data_source_id": 370,
+    "lang": "ja",
+    "gid": 296
+  },
+  {
+    "question": "$a$、$b$、$c$を実数とすると、以下の数式が全ての$0 \\le x \\le 1$で成立します。 \\[|ax^2 + bx + c| \\le 1\\] ここで、$|a| + |b| + |c|$の最大可能値を求めてください。",
+    "answer": "17",
+    "data_source": "MATH500",
+    "data_source_id": 371,
+    "lang": "ja",
+    "gid": 297
+  },
+  {
+    "question": "64の正の平方根と64の立方根の違いは何ですか?",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 374,
+    "lang": "ja",
+    "gid": 298
+  },
+  {
+    "question": "$A$が$500$の正の約数の合計である場合、$A$の異なる素因数の合計はいくらですか？",
+    "answer": "25",
+    "data_source": "MATH500",
+    "data_source_id": 375,
+    "lang": "ja",
+    "gid": 299
+  },
+  {
+    "question": "$n\\$ $が $n\\$ = \\underbrace{n!^{{n!}^{{\\cdot}^{{\\cdot}^{{\\cdot}^{n!}}}}}}_{n!}$ と定義されているとき、$4\\$ $の一の位の数字は何ですか？",
+    "answer": "6",
+    "data_source": "MATH500",
+    "data_source_id": 377,
+    "lang": "ja",
+    "gid": 300
+  },
+  {
+    "question": "2桁の素数で、その桁の和が8となるものはいくつありますか？",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 378,
+    "lang": "ja",
+    "gid": 301
+  },
+  {
+    "question": "下表はセントラル高校の生徒を対象にした調査でのバス利用者の割合を示しています。それぞれの学年で300人の男子生徒と300人の女子生徒が調査されました。どの学年の男子バス利用者数が女子バス利用者数の$135\\%$に最も近いですか？\\begin{tabular}{|l|c|c|}\\hline 学年 & 男子 & 女子 \\\\ \\hline $9^{\\mathrm{th}}$ 学年 & $41.1\\%$ & $39.4\\%$ \\\\ \\hline $10^{\\mathrm{th}}$ 学年 & $34.4\\%$ & $33.1\\%$ \\\\ \\hline $11^{\\mathrm{th}}$ 学年 & $20.6\\%$ & $13.8\\%$ \\\\ \\hline $12^{\\mathrm{th}}$ 学年 & $11.6\\%$ & $8.6\\%$ \\\\ \\hline \\end{tabular}",
+    "answer": "12",
+    "data_source": "MATH500",
+    "data_source_id": 379,
+    "lang": "ja",
+    "gid": 302
+  },
+  {
+    "question": "キャシーはヨーロッパ旅行のためのお金が必要です。彼女が銀行に300米ドル持っていて、その半分を英ポンドで、半分をユーロで引き出したいとすれば、彼女はユーロでどれだけ英ポンドより多く持つことになるでしょうか？ 1ポンド = 1.64米ドル、1ユーロ = 1.32米ドルとし、最も近い整数に四捨五入するとします。",
+    "answer": "22",
+    "data_source": "MATH500",
+    "data_source_id": 385,
+    "lang": "ja",
+    "gid": 303
+  },
+  {
+    "question": "$|x-2|\\leq5.6$ の解集合にはいくつの整数が含まれますか？",
+    "answer": "11",
+    "data_source": "MATH500",
+    "data_source_id": 386,
+    "lang": "ja",
+    "gid": 304
+  },
+  {
+    "question": "$f(x)=5x^2+3x+4$の場合、$f(-2)$の値は何ですか？",
+    "answer": "18",
+    "data_source": "MATH500",
+    "data_source_id": 387,
+    "lang": "ja",
+    "gid": 305
+  },
+  {
+    "question": "原点とグラフ $y=\\frac{1}{\\sqrt{2}}\\left(x^2-3\\right)$ 上の点との最小距離は $\\sqrt{a}/b$ と表現できます。ここで $a$と$b$は正の整数で、$a$は1より大きい任意の整数の二乗で割り切れません。$a+b$ を求めなさい。",
+    "answer": "12",
+    "data_source": "MATH500",
+    "data_source_id": 390,
+    "lang": "ja",
+    "gid": 306
+  },
+  {
+    "question": "$f$を\\[f(x) = \\left\\{ \\begin{array}{cl} 3-x & \\text{ if } x \\leq 3, \\\\ -x^3+2x^2+3x & \\text{ if } x>3. \\end{array} \\right.\\]で定義し、$f^{-1}(0)+f^{-1}(6)$を計算しなさい。",
+    "answer": "0",
+    "data_source": "MATH500",
+    "data_source_id": 391,
+    "lang": "ja",
+    "gid": 307
+  },
+  {
+    "question": "もし $a = 8$ であるならば、$\\left(16\\sqrt[3]{a^2}\\right)^{\\frac 13}$ の値は何ですか？",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 395,
+    "lang": "ja",
+    "gid": 308
+  },
+  {
+    "question": "正方形 $ABCD$ の面積は16平方インチです。この図はすべての三角形が二等辺三角形であり、ピース \"e\" が正方形である中国の七巧板を表しています。グレーのピースの面積は何平方インチですか？  [asy] fill((2,0)--(4,2)--(4,0)--cycle,gray(.7)); draw((0,0)--(0,4)--(4,4)--(4,0)--cycle,linewidth(1)); draw((0,0)--(4,4),linewidth(1)); draw((1,1)--(2,0)--(4,2),linewidth(1)); draw((0,4)--(3,1)--(3,3),linewidth(1)); label(\"$A$\",(0,4),W); label(\"$B$\",(4,4),E); label(\"$C$\",(4,0),E); label(\"$D$\",(0,0),W); label(\"e\",(2,1));  [/asy]",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 396,
+    "lang": "ja",
+    "gid": 309
+  },
+  {
+    "question": "$3x + 2(1 + x) = 17$ のとき、$6x + 5$ の値はいくつですか？",
+    "answer": "23",
+    "data_source": "MATH500",
+    "data_source_id": 397,
+    "lang": "ja",
+    "gid": 310
+  },
+  {
+    "question": "$629_{10}$の7進法と8進法表記にいくつ同じ数字がありますか？例えば、$121_{3}$と$413_{5}$は1つの共通する数字があります。",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 403,
+    "lang": "ja",
+    "gid": 311
+  },
+  {
+    "question": "Roslynさんは10個の箱を持っています。そのうち5個の箱には鉛筆が入っており、4個の箱にはペンが入っていて、2個の箱にはペンも鉛筆も入っています。何個の箱にはペンも鉛筆も入っていませんか？",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 404,
+    "lang": "ja",
+    "gid": 312
+  },
+  {
+    "question": "もし誰もオフィスを共有しない場合、3人を5つの異なるオフィスに割り当てる方法は何通りありますか？（各人はちょうど1つのオフィスを得ます）。",
+    "answer": "60",
+    "data_source": "MATH500",
+    "data_source_id": 405,
+    "lang": "ja",
+    "gid": 313
+  },
+  {
+    "question": "2004を12で割ったときの余りは何ですか？",
+    "answer": "0",
+    "data_source": "MATH500",
+    "data_source_id": 406,
+    "lang": "ja",
+    "gid": 314
+  },
+  {
+    "question": "もし $f(x)=\\dfrac{2}{x+1}$なら、$f^{-1}\\left(\\frac{1}{5}\\right)$の値は何でしょうか？",
+    "answer": "9",
+    "data_source": "MATH500",
+    "data_source_id": 407,
+    "lang": "ja",
+    "gid": 315
+  },
+  {
+    "question": "数 $21420N$ の一の位が $N$ であるとします。この数が6で割り切れるためには $N$ の非ゼロ値は何ですか？",
+    "answer": "6",
+    "data_source": "MATH500",
+    "data_source_id": 410,
+    "lang": "ja",
+    "gid": 316
+  },
+  {
+    "question": "魔女6人と魔術師10人が秘密の集まりに参加しています。魔女たちは魔術師全員と握手することにしました。魔女たちは既に良い友達同士なので互いに握手はしませんでしたし、魔術師達も互いに嫌い合っているため、他の魔術師とは握手しませんでした。この集まりでは合計何回の握手が行われましたか？",
+    "answer": "60",
+    "data_source": "MATH500",
+    "data_source_id": 411,
+    "lang": "ja",
+    "gid": 317
+  },
+  {
+    "question": "$P(x)$が全ての実数$x$に対して $x^2 - 2x + 2 \\le P(x) \\le 2x^2 - 4x + 3$ を満たす、実数係数の二次多項式であるとします。そして$P(11) = 181$と仮定します。$P(16)$を求めてください。",
+    "answer": "406",
+    "data_source": "MATH500",
+    "data_source_id": 412,
+    "lang": "ja",
+    "gid": 318
+  },
+  {
+    "question": "方程式 $$(3)5^2 - 4(5-a)^2 \\div 3 = 63$$ を満たす \\(a\\) の値の合計は何ですか？",
+    "answer": "10",
+    "data_source": "MATH500",
+    "data_source_id": 414,
+    "lang": "ja",
+    "gid": 319
+  },
+  {
+    "question": "$129^{34}+96^{38}$が$11$で割られたときの余りは何ですか？",
+    "answer": "9",
+    "data_source": "MATH500",
+    "data_source_id": 415,
+    "lang": "ja",
+    "gid": 320
+  },
+  {
+    "question": "$f(x)$を多項式\\[f(x)=3x^4+5x^2-9x-2\\]とする。もし$g(x)$が多項式$f(x-1)$に等しい場合、$g$の係数の和はいくらか？",
+    "answer": "-2",
+    "data_source": "MATH500",
+    "data_source_id": 417,
+    "lang": "ja",
+    "gid": 321
+  },
+  {
+    "question": "もし $\\arccos x + \\arccos 2x + \\arccos 3x = \\pi$ であれば、$x$ は以下の形の整数係数を持つ三次多項式を満たします \\[ax^3 + bx^2 + cx + d = 0,\\]ここで、$a,$ $b,$ $c,$ そして $d$ は整数であり、$a \\neq 0$ です。 $|a| + |b| + |c| + |d|$ の最小値を求めなさい。",
+    "answer": "27",
+    "data_source": "MATH500",
+    "data_source_id": 421,
+    "lang": "ja",
+    "gid": 322
+  },
+  {
+    "question": "$2010$より小さい整数の中で、$7$で割ったときの余りが$5$、$11$で割ったときの余りが$10$、そして$13$で割ったときの余りが$10$となる最大の整数は何ですか？",
+    "answer": "1440",
+    "data_source": "MATH500",
+    "data_source_id": 423,
+    "lang": "ja",
+    "gid": 323
+  },
+  {
+    "question": "$y$の値は$\\sqrt x$に反比例します。$x=24$のとき、$y=15$です。$y=3$のとき、$x$は何ですか？",
+    "answer": "600",
+    "data_source": "MATH500",
+    "data_source_id": 424,
+    "lang": "ja",
+    "gid": 324
+  },
+  {
+    "question": "3本の鉛筆とジャンボ消しゴムの価格は$\\$1.24$です。 5本の鉛筆とジャンボ消しゴムの価格は$\\$1.82$です。 価格は税金を含まず、鉛筆の価格はセント単位でいくらですか？",
+    "answer": "29",
+    "data_source": "MATH500",
+    "data_source_id": 427,
+    "lang": "ja",
+    "gid": 325
+  },
+  {
+    "question": "正の実数 $a,$ $b,$ $c,$ $d$ が $a + b + c + d = 1$ を満たすとする。このとき \\[\\frac{1}{a} + \\frac{1}{b} + \\frac{4}{c} + \\frac{16}{d}\\] の最小値を求めよ。",
+    "answer": "64",
+    "data_source": "MATH500",
+    "data_source_id": 428,
+    "lang": "ja",
+    "gid": 326
+  },
+  {
+    "question": "正の実数 $a$ と $b$ が $ab^2 = 5$ を満たすとき、$a^4 + b^8$ の最小値を求めなさい。",
+    "answer": "50",
+    "data_source": "MATH500",
+    "data_source_id": 429,
+    "lang": "ja",
+    "gid": 327
+  },
+  {
+    "question": "もし \\[f(n + 1) = (-1)^{n + 1} n - 2f(n)\\]で $n \\ge 1,$ かつ $f(1) = f(1986),$ なら、 \\[f(1) + f(2) + f(3) + \\dots + f(1985).\\]を計算しなさい。",
+    "answer": "331",
+    "data_source": "MATH500",
+    "data_source_id": 432,
+    "lang": "ja",
+    "gid": 328
+  },
+  {
+    "question": "ある直角二等辺三角形において、斜辺の頂角の長さは$4\\sqrt{2}$です。三角形の面積はいくらですか？",
+    "answer": "32",
+    "data_source": "MATH500",
+    "data_source_id": 434,
+    "lang": "ja",
+    "gid": 329
+  },
+  {
+    "question": "$n$個の公正な6面体サイコロを同時に振る。ちょうど2つが1以外の数字を示す確率が$\\frac{25}{216}$である。$n$を求めよ。",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 436,
+    "lang": "ja",
+    "gid": 330
+  },
+  {
+    "question": "記号 $\\triangle$、$\\square$、$\\diamond$、$\\clubsuit$ は1から9までの異なる整数を表しています。下記の方程式を使って、$\\square$ の値はいくつでしょうか？ \\begin{align*} \\triangle + \\square &= \\clubsuit \\\\ \\triangle + \\triangle &= \\diamond +\\diamond + \\diamond + \\diamond + \\diamond \\\\ \\triangle + \\triangle &= \\clubsuit + \\diamond. \\end{align*}",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 437,
+    "lang": "ja",
+    "gid": 331
+  },
+  {
+    "question": "小数点以下の小数展開において$\\frac{137}{500}$の最後のゼロでない桁は何ですか？",
+    "answer": "4",
+    "data_source": "MATH500",
+    "data_source_id": 438,
+    "lang": "ja",
+    "gid": 332
+  },
+  {
+    "question": "$(u+4)(u-1) - (u-3)(u+6)$ を簡単にしなさい。",
+    "answer": "14",
+    "data_source": "MATH500",
+    "data_source_id": 440,
+    "lang": "ja",
+    "gid": 333
+  },
+  {
+    "question": "カーラは昨年、車で12,000マイルを運転しました。彼女が昨年、1ガロンあたり平均15マイルのSUVではなく、1ガロンあたり平均48マイルの燃費の良いハイブリッド車を運転していたら、何ガロンのガソリンを節約できたでしょうか?",
+    "answer": "550",
+    "data_source": "MATH500",
+    "data_source_id": 441,
+    "lang": "ja",
+    "gid": 334
+  },
+  {
+    "question": "$f(x) = 2^x$ とすると、$\\sqrt{f(f(f(f(1))))}$ を求めなさい。",
+    "answer": "256",
+    "data_source": "MATH500",
+    "data_source_id": 442,
+    "lang": "ja",
+    "gid": 335
+  },
+  {
+    "question": "算術数列 $3^2, x, 3^4$ における $x$ の整数値はいくつですか？",
+    "answer": "45",
+    "data_source": "MATH500",
+    "data_source_id": 443,
+    "lang": "ja",
+    "gid": 336
+  },
+  {
+    "question": "円$x^2 + y^2 = 2$と放物線$y^2 = 8x$は2本の共通接線を持ち、4つの接点を形成します。4つの接点で形成される四辺形の面積を求めなさい。 [asy] unitsize(0.8 cm);  real upperparab (real x) {   return (sqrt(8*x)); }  real lowerparab (real x) {   return (-sqrt(8*x)); }  pair A, B, C, D;  A = (-1,1); B = (2,4); C = (-1,-1); D = (2,-4);  draw(graph(upperparab,0,3)); draw(graph(lowerparab,0,3)); draw(Circle((0,0),sqrt(2))); draw(interp(A,B,-0.2)--interp(A,B,1.2)); draw(interp(C,D,-0.2)--interp(C,D,1.2)); draw(A--C); draw(B--D);  dot(A); dot(B); dot(C); dot(D); [/asy]",
+    "answer": "15",
+    "data_source": "MATH500",
+    "data_source_id": 445,
+    "lang": "ja",
+    "gid": 337
+  },
+  {
+    "question": "無限等比数列$\\left\\{\\frac{1}{4},\\frac{1}{8},\\frac{1}{16},\\dots \\right\\}$の最初の$n$項の和は$\\frac{255}{512}$である。$n$を求めなさい。",
+    "answer": "8",
+    "data_source": "MATH500",
+    "data_source_id": 446,
+    "lang": "ja",
+    "gid": 338
+  },
+  {
+    "question": "数学クラブの会議に35人の生徒が出席しています。会議に出席する女子の人数は13の倍数で、男子の出席者数よりも多いです。会議には何人の男子が出席していますか？",
+    "answer": "9",
+    "data_source": "MATH500",
+    "data_source_id": 447,
+    "lang": "ja",
+    "gid": 339
+  },
+  {
+    "question": "$17^{-1} \\pmod{83}$ を計算してください。答えは $0$ から $82$ までの剰余で表してください。  ($17 \\cdot 5 = 85$ であることを考慮すると役立つかもしれません。)",
+    "answer": "44",
+    "data_source": "MATH500",
+    "data_source_id": 448,
+    "lang": "ja",
+    "gid": 340
+  },
+  {
+    "question": "もし $a\\star b = 9a+2b-ab+5$ であるとき、$5\\star1$ の値は何ですか？",
+    "answer": "47",
+    "data_source": "MATH500",
+    "data_source_id": 449,
+    "lang": "ja",
+    "gid": 341
+  },
+  {
+    "question": "$$14u \\equiv 46 \\pmod{100}$$の合同式を満たす最小の2つの正整数解の平均は何ですか？",
+    "answer": "64",
+    "data_source": "MATH500",
+    "data_source_id": 450,
+    "lang": "ja",
+    "gid": 342
+  },
+  {
+    "question": "二桁の数の各位の数字の和は$13$です。その数とその数の位を逆にした数との差は$27$です。元の数とその数の位を逆にした数の和はいくつですか？",
+    "answer": "143",
+    "data_source": "MATH500",
+    "data_source_id": 452,
+    "lang": "ja",
+    "gid": 343
+  },
+  {
+    "question": "7年生と8年生の生徒数はそれぞれ520人と650人です。この2つの学年で、生徒会には合計18人の代表がいます。2つの学年を公平に代表させる場合、8年生には何人の代表がいるべきですか？",
+    "answer": "10",
+    "data_source": "MATH500",
+    "data_source_id": 453,
+    "lang": "ja",
+    "gid": 344
+  },
+  {
+    "question": "6人の生徒のグループから5人の生徒を選ぶ方法は何通りありますか？",
+    "answer": "6",
+    "data_source": "MATH500",
+    "data_source_id": 455,
+    "lang": "ja",
+    "gid": 345
+  },
+  {
+    "question": "54を6で割った余りを求めてください。",
+    "answer": "0",
+    "data_source": "MATH500",
+    "data_source_id": 457,
+    "lang": "ja",
+    "gid": 346
+  },
+  {
+    "question": "ベティとウィルマが運営するアーチェリー教室には、毎週30人から50人の生徒が集まります。通常、生徒は射的練習をする際に同じ人数のグループに分かれます。しかし今週、ベティは生徒を同じ人数の複数のグループに分けることができないことに気づきました。ウィルマは、ベティとウィルマが一緒に練習に参加しても、同じ人数のグループに分けることができないことに気づきました。今週のアーチェリー教室には何人の生徒が来ましたか？",
+    "answer": "41",
+    "data_source": "MATH500",
+    "data_source_id": 458,
+    "lang": "ja",
+    "gid": 347
+  },
+  {
+    "question": "\\[f(n) = \\left\\{ \\begin{array}{cl} \\lfloor n \\rfloor & \\text{ if }n \\geq 4, ​​\\\\ \\lceil n \\rceil & \\text{ if } n < 4. \\end{array} \\right.\\]とします。$f\\left(\\frac{\\pi}{3}\\right) + f(\\sqrt{45}) + f(8^{2/3})$を求めなさい。",
+    "answer": "12",
+    "data_source": "MATH500",
+    "data_source_id": 461,
+    "lang": "ja",
+    "gid": 348
+  },
+  {
+    "question": "リンダ、シェリー、ジューン、コニーは、ガールスカウトのクッキーを売って近所を歩き回りました。リンダは27.47ドル、シェリーは35.23ドル、ジューンは37.37ドル、コニーは26.52ドル稼ぎました。クッキーを売った後、彼女たちはお金を出し合い、銀行に行って硬貨をドルに両替しました。彼女たちができる限り多くの硬貨を紙幣に両替した後、セントでいくら残りましたか？",
+    "answer": "59",
+    "data_source": "MATH500",
+    "data_source_id": 462,
+    "lang": "ja",
+    "gid": 349
+  },
+  {
+    "question": "式$\\frac{x-5}{x^2-9}$が定義されていない$x$の値はいくつありますか？",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 463,
+    "lang": "ja",
+    "gid": 350
+  },
+  {
+    "question": "もし $\\log_6 (x-y) + \\log_6 (x+y) = 2$ と $\\log_y 5x = 2$ が与えられるとき、$x$ を求めてください。",
+    "answer": "9",
+    "data_source": "MATH500",
+    "data_source_id": 464,
+    "lang": "ja",
+    "gid": 351
+  },
+  {
+    "question": "正の約数をちょうど3つ持つ正の整数を昇順に並べたとき、5番目にリストされている数は何ですか？",
+    "answer": "121",
+    "data_source": "MATH500",
+    "data_source_id": 465,
+    "lang": "ja",
+    "gid": 352
+  },
+  {
+    "question": "$t$ の平方根は $2$ より大きく、$3.5$ より小さいです。この条件を満たす $t$ の整数値はいくつありますか？",
+    "answer": "8",
+    "data_source": "MATH500",
+    "data_source_id": 468,
+    "lang": "ja",
+    "gid": 353
+  },
+  {
+    "question": "$\\lceil{\\sqrt{20}}\\rceil^2$を計算してください。",
+    "answer": "25",
+    "data_source": "MATH500",
+    "data_source_id": 469,
+    "lang": "ja",
+    "gid": 354
+  },
+  {
+    "question": "正の実数 $a,$ $b,$ $c,$ $d$ が $a + b + c + d = 10$ を満たすとする。$ab^2 c^3 d^4$ の最大値を求めよ。",
+    "answer": "27648",
+    "data_source": "MATH500",
+    "data_source_id": 470,
+    "lang": "ja",
+    "gid": 355
+  },
+  {
+    "question": "30人のクラスで最近テストを行いました。20人が80点、8人が90点、2人が100点を取得した場合、このテストでのクラスの平均(平均点)は何点ですか？",
+    "answer": "84",
+    "data_source": "MATH500",
+    "data_source_id": 471,
+    "lang": "ja",
+    "gid": 356
+  },
+  {
+    "question": "以下は、各行、各列、および$2$つの主対角線のそれぞれの数字の合計が等しい魔法の正方形です。$n$ の値は何ですか？  [asy]size(125); for(int i = 0; i<4; ++i) {  draw((0,i)--(3,i),linewidth(1)); }  for(int j = 0; j<4; ++j) {  draw((j,0)--(j,3),linewidth(1)); }  label(\"$n-3$\",(.5,.5)); label(\"3\",(.5,1.5)); label(\"$n+1$\",(.5,2.5));  label(\"$n+2$\",(1.5,.5)); label(\"$2n-9$\",(1.5,1.5)); label(\"$1$\",(1.5,2.5));  label(\"$2$\",(2.5,.5)); label(\"$n$\",(2.5,1.5)); label(\"$n-1$\",(2.5,2.5)); [/asy]",
+    "answer": "7",
+    "data_source": "MATH500",
+    "data_source_id": 473,
+    "lang": "ja",
+    "gid": 357
+  },
+  {
+    "question": "$\\log_2{3} \\cdot \\log_3{4} \\cdot \\log_4{5} \\cdot \\log_5{6} \\cdot \\log_6{7} \\cdot \\log_7{8}$ の値を求めなさい。",
+    "answer": "3",
+    "data_source": "MATH500",
+    "data_source_id": 474,
+    "lang": "ja",
+    "gid": 358
+  },
+  {
+    "question": "1から6までの数字が書かれた特定の不公平な六面ダイスを振る時、面$F$が出る確率は$1/6$より大きく、面$F$の反対側にある面が出る確率は$1/6$未満で、他の面が出る確率はそれぞれ$1/6$です。また、反対側のペアの面に書かれた数字の合計は7です。このようなサイコロを2つ振ったとき、合計が7になる確率は$\\frac{47}{288}$です。面$F$が出る確率を最大公約数が1の正の整数$m$と$n$を使って$m/n$と表すとき、$m+n$を求めなさい。",
+    "answer": "29",
+    "data_source": "MATH500",
+    "data_source_id": 475,
+    "lang": "ja",
+    "gid": 359
+  },
+  {
+    "question": "ジムとマーサは長方形の野原の角に一緒に立っています。ジムは野原を対角線に歩いています。マーサはその長さと幅に沿って歩いて同じ場所に到達します。その野原は幅が300フィート、長さが400フィートです。ジムはマーサより何フィート少なく歩きますか？",
+    "answer": "200",
+    "data_source": "MATH500",
+    "data_source_id": 476,
+    "lang": "ja",
+    "gid": 360
+  },
+  {
+    "question": "2桁の数$``B6​​''$（$B$は十の位）は正の整数の平方です。$B$にはいくつの異なる値がありますか？",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 477,
+    "lang": "ja",
+    "gid": 361
+  },
+  {
+    "question": "有限個の素数 $p$ が存在し、合同式 $$8x\\equiv 1\\pmod{p}$$ が解 $x$ を持たない場合があります。そのような全ての $p$ の和を求めなさい。",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 479,
+    "lang": "ja",
+    "gid": 362
+  },
+  {
+    "question": "$\\omega$ が複素数で $\\omega^3 = 1$ を満たすとする。以下のすべての可能な値を求めよ。 \\[\\frac{1}{1 + \\omega} + \\frac{1}{1 + \\omega^2}.\\]可能な値を全てコンマで区切って入力せよ。",
+    "answer": "1",
+    "data_source": "MATH500",
+    "data_source_id": 480,
+    "lang": "ja",
+    "gid": 363
+  },
+  {
+    "question": "$\\frac{a}{b}$が、2010未満の正の奇数の逆数をランダムに選択することによって有限小数を得る確率である場合、$a$と$b$は互いに素な正の整数です。この場合、$a+b$は何ですか?",
+    "answer": "202",
+    "data_source": "MATH500",
+    "data_source_id": 482,
+    "lang": "ja",
+    "gid": 364
+  },
+  {
+    "question": "以下の方程式を解け \\[\\sqrt{x + \\sqrt{3x + 6}} + \\sqrt{x - \\sqrt{3x + 6}} = 6.\\]",
+    "answer": "10",
+    "data_source": "MATH500",
+    "data_source_id": 484,
+    "lang": "ja",
+    "gid": 365
+  },
+  {
+    "question": "あなたが任意の点、$A$、$B$、$C$、または$D$、から始めて、他の3点を1回訪れる場合、最短で移動できる距離は何ですか？  [asy] pair A,B,C, D; A = (-3,3); B = (3,0); C = (0, -4); D = (0,0); draw(D--B--C--cycle); draw(D--A--B--cycle);draw(D--A--C--cycle); label(\"$A$\", A, NW);label(\"$B$\", B, E); label(\"$C$\", C, S);label(\"$D$\", D, NE); label(\"3\", D--B, S); label(\"6\", A--B, NE); label(\"6\", A--C, SW); label(\"4\", D--C, NW+N); label(\"5\", A--D, SE+NE); label(\"5\", C--B, E); [/asy]",
+    "answer": "13",
+    "data_source": "MATH500",
+    "data_source_id": 485,
+    "lang": "ja",
+    "gid": 366
+  },
+  {
+    "question": "３インチ半径の鋼球は、可能な限り短い辺長を持つ立方体の隅から金属を取り除くことによって作られます。立方体の体積は何立方インチですか？",
+    "answer": "216",
+    "data_source": "MATH500",
+    "data_source_id": 486,
+    "lang": "ja",
+    "gid": 367
+  },
+  {
+    "question": "次の合計の4を法とする剰余を求めなさい：$$ 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12. $$",
+    "answer": "2",
+    "data_source": "MATH500",
+    "data_source_id": 487,
+    "lang": "ja",
+    "gid": 368
+  },
+  {
+    "question": "$f(x)=|x-p|+|x-15|+|x-p-15|$ において、$0 < p < 15$ である。区間 $p \\leq x \\leq15$ における $f(x)$ の最小値を求めよ。",
+    "answer": "15",
+    "data_source": "MATH500",
+    "data_source_id": 489,
+    "lang": "ja",
+    "gid": 369
+  },
+  {
+    "question": "多項式 $$f(x) = a_nx^n + a_{n-1}x^{n-1} + \\cdots + a_2x^2 + a_1x + a_0$$ が整数係数を持ち、その根がそれぞれ異なる整数であるとします。$a_n=2$ かつ $a_0=66$ とすると、$|a_{n-1}|$ の最小値はいくらでしょうか？",
+    "answer": "14",
+    "data_source": "MATH500",
+    "data_source_id": 490,
+    "lang": "ja",
+    "gid": 370
+  },
+  {
+    "question": "トムは誕生日にミスターポテトヘッドをもらいました。それには髪型が3種類、眉が2セット、グーグリーアイ（コロコロ目）が1ペア、耳が2セット、そして唇が2セット、通常の靴が1ペア、そしてボーナスのピエロの靴が1ペア付いてきました。完全なミスターポテトヘッドのパーソナリティには眉、目、耳、唇、靴が含まれ、オプションで髪型が含まれますが、トムは何種類の変わったパーソナリティを作り出すことができますか？なお、ミスターポテトヘッドはハゲていることもあります。  注：「ミックスアンドマッチ」はできません。例えば、片方の眉の左側ともう片方の眉の右側を組み合わせることはできません。",
+    "answer": "64",
+    "data_source": "MATH500",
+    "data_source_id": 491,
+    "lang": "ja",
+    "gid": 371
+  },
+  {
+    "question": "数値$(\\sqrt{2}+\\sqrt{3})^3$は形式$a\\sqrt{2} + b\\sqrt{3} + c\\sqrt{6}$で表されます。ここで、$a$、$b$、$c$は整数です。 $a+b+c$はいくつですか？",
+    "answer": "20",
+    "data_source": "MATH500",
+    "data_source_id": 493,
+    "lang": "ja",
+    "gid": 372
+  },
+  {
+    "question": "数列 $(a_n)$ は次のように定義されます： \\[a_{i + 1} = \\frac{1}{1 - a_i}\\]ここで $i \\ge 1.$ が成り立つとき、$a_3 = a_1$ である場合、$(a_9)^9$ を計算してください。",
+    "answer": "-1",
+    "data_source": "MATH500",
+    "data_source_id": 498,
+    "lang": "ja",
+    "gid": 373
+  }
+]
