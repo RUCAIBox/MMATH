@@ -159,5 +159,11 @@ enable_liger_kernel: true
 
 ## 📄 Citation
 
-TODO
-
+```
+@article{luo2025mmath,
+  title={MMATH: A Multilingual Benchmark for Mathematical Reasoning},
+  author={Luo, Wenyang and Zhao, Wayne Xin and Sha, Jing and Wang, Shijin and Wen, Ji-Rong},
+  journal={arXiv preprint arXiv:2505.19126},
+  year={2025}
+}
+```
